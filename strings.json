@@ -1610,7 +1610,7 @@
     "ru": "Совместимость"
   },
   "home.4.4.text": {
-    "en": "For messages to be passed from one blockchain to the next, a fee may be paid by the sender in DOTs.",
+    "en": "For messages to be passed from one blockchain to the next, a fee may be paid by the sender in DOTs. However, this is not required.",
     "zh-cn": "对于要将消息从一个区块链传递到另一个区块链， 发送方需要以DOT的形式支付少量费用。",
     "jp": "1つのブロックチェーンから異なるブロックチェーンにメッセージを送るために、送信者はいくらかのDOTsを手数料として支払います。",
     "kr": "메시지가 특정 블록체인에서 다른 블록체인으로 전달되게 하려면, 메시지 발신자는 검증자들에게 메시지 전송에 대한 수수료를 DOT으로 지불합니다.",
@@ -2420,13 +2420,13 @@
     "ru": "<strong>Relay chain.</strong> Соединяет и валидирует parachain"
   },
   "tech.6.2.text": {
-    "en": "The relay chain connects the Polkadot network. It secures parachains and relays messages between them. The messages can be transactions or any arbitrary data.",
+    "en": "The relay chain connects the components of the Polkadot network. It provides security to parachains and relays messages between them, as well as bridge chains. The messages can be transactions or any arbitrary data.",
     "zh-cn": "中继链是Polkadot网络的核心，它确保平行链 和平行链之间传递信息。信息可以是 交易或任何类型数据。",
     "jp": "リレーチェーンがPolkadotネットワークを接合します。これは、パラチェーンやリレーチェーン内のメッセージを保護ています。メッセージは、トランザクションまたは任意のデータを扱うこともできます。",
     "ru": "Relay chain - это связующее звено сети Polkadot. Он защищает parachain и передает информацию между ними. Сообщения могут быть транзакциями или любыми произвольными данными."
   },
   "tech.6.3": {
-    "en": "<strong>Bridges:</strong> connect Polkadot to external blockchains",
+    "en": "<strong>Bridges chains:</strong> connect Polkadot to external blockchains",
     "zh-cn": "<strong>桥接链:</strong> 连接Polkadot到其它外部区块链",
     "jp": "ブリッジ：Polkadotを外部のブロックチェーンに接続する",
     "ru": "<strong>Bridges:</strong> соединяют Polkadot с внешними блокчейнами"
