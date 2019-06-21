@@ -1078,6 +1078,18 @@
     "zh-cn": "Polkadash",
     "jp": "Polkadash"
   },
+  "community.section4.heading": {
+    "en": "Become a Polkadot Ambassador"
+  },
+  "community.section4.text": {
+    "en": "Check out the {{post_link}} and apply to join the vibrant polkadot community."
+  },
+  "community.section4.text.post_link": {
+    "en": "post"
+  },
+  "community.section4.button": {
+    "en": "Apply to become an ambassador"
+  },
   "community.events.heading": {
     "en": "Upcoming events"
   },
