@@ -4,21 +4,24 @@
     "ru": "ru",
     "jp": "jp",
     "zh-cn": "zh-cn",
-    "kr": "kr"
+    "kr": "kr",
+    "es": "es"
   },
   "get_filter" : {
-    "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-jp,hash-kr]\"",
+    "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-jp,hash-kr,hash-es]\"",
     "ru": "filter=\"tags:hash-ru\"",
     "jp": "filter=\"tags:hash-jp\"",
     "zh-cn": "filter=\"tags:hash-zh-cn\"",
-    "kr": "filter=\"tags:hash-kr\""
+    "kr": "filter=\"tags:hash-kr\"",
+    "es": "filter=\"tags:hash-es\""
   },
   "get_related_filter" : {
     "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-jp,hash-kr]\"",
     "ru": "filter=\"id:-{{id}}+tags:hash-ru\"",
     "jp": "filter=\"id:-{{id}}+tags:hash-jp\"",
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
-    "kr": "filter=\"id:-{{id}}+tags:hash-kr\""
+    "kr": "filter=\"id:-{{id}}+tags:hash-kr\"",
+    "es": "filter=\"id:-{{id}}+tags:hash-es\""
   },
   "global.footer.from_the_blog": {
     "en": "From the blog"
@@ -26,549 +29,643 @@
   "global.footer.get_involved": {
     "en": "Want to get involved?",
     "ru": "Заинтересован?",
-    "kr": "폴카닷과 함께 하고 싶으신가요?"
+    "kr": "폴카닷과 함께 하고 싶으신가요?",
+    "es": "¿Quieres colaborar?"
   },
   "global.footer.join_community": {
     "en": "Join the Community",
     "ru": "Присоединяйтесь к сообществу",
-    "kr": "폴카닷 커뮤니티에 합류하시고,"
+    "kr": "폴카닷 커뮤니티에 합류하시고,",
+    "es": "Únete a la comunidad"
   },
   "global.footer.learn": {
     "en": "or learn about how to {{build_link}}.",
     "ru": "или узнайте, как {{build_link}}",
-    "kr": "{{build_link}}"
+    "kr": "{{build_link}}",
+    "es": "o aprenda sobre cómo {{build_link}}."
   },
   "global.footer.learn.build_link": {
     "en": "build on Polkadot",
     "ru": "работать с Polkadot",
-    "kr": "폴카닷을 어떻게 개발에 활용할 수 있는지 확인해보세요."
+    "kr": "폴카닷을 어떻게 개발에 활용할 수 있는지 확인해보세요.",
+    "es": "desarrolle en Polkadot"
   },
   "global.question_building": {
     "en": "Have a question about building on Polkadot?",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "jp": "Polkadot上の構築について質問がありますか？",
-    "ru": "У вас есть вопрос о разработке на Polkadot? Спросите в чате Polkadot"
+    "ru": "У вас есть вопрос о разработке на Polkadot? Спросите в чате Polkadot",
+    "es": "¿Tienes alguna pregunta sobre cómo desarrollar en Polkadot?"
   },
   "global.ask_question": {
     "en": "Ask in the Polkadot Chat",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "jp": "Polkadotチャットで聞きましょう。",
-    "ru": "Спросите в чате Polkadot"
+    "ru": "Спросите в чате Polkadot",
+    "es": "Pregunta en el chat de Polkadot"
   },
   "global.subscribe_newsletter_footer": {
     "en": "Subscribe to the newsletter to hear about Polkadot updates and events.",
     "zh-cn": "订阅我们的电子报，接收Polkadot最新消息和活动。",
     "jp": "Polkadotのアップデートとイベントについてのニュースレターを購読する。",
     "kr": "폴카닷 뉴스를 구독하여 업데이트 및 이벤트 소식을 팔로우 하세요",
-    "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества"
+    "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества",
+    "es": "Suscríbase a la newsletter para conocer las actualizaciones y eventos de Polkadot."
   },
   "global.subscribe_newsletter": {
     "en": "Subscribe to the newsletter to hear about updates and events.",
     "zh-cn": "订阅我们的电子报，接收Polkadot最新消息和活动。",
     "jp": "Polkadotのアップデートとイベントについてのニュースレターを購読する。",
     "kr": "폴카닷 뉴스를 구독하여 업데이트 및 이벤트 소식을 팔로우 하세요",
-    "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества"
+    "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества",
+    "es": "Suscríbase a la newsletter para recibir información sobre actualizaciones y eventos."
   },
   "global.subscribe_newsletter_field": {
-    "en": "Enter your email address"
+    "en": "Enter your email address",
+    "es": "Introduzca su dirección de correo electrónico"
   },
   "global.privacy_notice": {
     "en": "* To see how we use your information please see our {{privacy_link}}.",
     "zh-cn": "{{privacy_link}}",
     "jp": "{{privacy_link}}",
     "kr": "{{privacy_link}}",
-    "ru": "{{privacy_link}}"
+    "ru": "{{privacy_link}}",
+    "es": "* Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}."
   },
   "global.privacy_notice_footer": {
     "en": "To see how we use your information please see our {{privacy_link}}.",
     "zh-cn": "{{privacy_link}}",
     "jp": "{{privacy_link}}",
     "kr": "{{privacy_link}}",
-    "ru": "{{privacy_link}}"
+    "ru": "{{privacy_link}}",
+    "es": "Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}."
   },
   "global.privacy_notice.privacy_link": {
     "en": "privacy policy",
     "zh-cn": "有关我们如何使用你的个人资料，请查阅我们的私隐政策。",
     "jp": "プライバシーポリシーを確認する。",
     "kr": "여러분의 정보가 어떻게 활용되는지 확인하려면, 폴카닷의 개인정보 보호 정책을 참고하세요",
-    "ru": "Чтобы узнать, как мы используем вашу информацию, ознакомьтесь с нашей политикой конфиденциальности"
+    "ru": "Чтобы узнать, как мы используем вашу информацию, ознакомьтесь с нашей политикой конфиденциальности",
+    "es": "política de privacidad"
   },
   "global.grants.heading": {
     "en": "Get a grant to build the Polkadot ecosystem",
     "zh-cn": "获得建设波卡生态系统的捐助",
     "jp": "Polkadotのエコシステムを構築するための助成金を取得",
-    "ru": "Получите грант на создание экосистемы Polkadot"
+    "ru": "Получите грант на создание экосистемы Polkadot",
+    "es": "Obtenga una subvención para la creación del ecosistema de Polkadot"
   },
   "global.grants.subheading": {
     "en": "Polkadot is a brand new network with a burgeoning ecosystem. The Web3 Foundation is sponsoring community development of software services, including:",
     "zh-cn": "Polkadot是一个新兴的生态系统网络。Web3基金资助社区开发软件服务，包括:",
     "jp": "Polkadotは、急成長するエコシステムを持つ新しいネットワークです。 Web3Foundationは、ソフトウェア・サービスのコミュニティ開発を後援しています。",
-    "ru": "Polkadot - это новая сеть с развивающейся экосистемой. Web3 Foundation спонсирует разработку программного обеспечения сообщества, в том числе:"
+    "ru": "Polkadot - это новая сеть с развивающейся экосистемой. Web3 Foundation спонсирует разработку программного обеспечения сообщества, в том числе:",
+    "es": "Polkadot es una red totalmente nueva con un ecosistema en crecimiento. La fundación Web3 está patrocinando el desarrollo comunitario de servicios de software, incluyendo:"
   },
   "global.grants.1": {
     "en": "Development and deployment tooling (e.g. IDEs, parachain development kits)",
     "zh-cn": "开发和部署工具(例如IDE、平行链开发工具包)",
     "jp": "開発および展開ツール（例：IDE、パラチェーン開発キット）",
-    "ru": "Инструменты разработки и развертывания (например, IDE, наборы для разработки парачейнов"
+    "ru": "Инструменты разработки и развертывания (например, IDE, наборы для разработки парачейнов",
+    "es": "Desarrollo e implementación de herramientas (por ejemplo, IDEs, kits de desarrollo de parachains)"
   },
   "global.grants.2": {
     "en": "Polkadot Runtime Modules (e.g. interoperability, governance)",
     "zh-cn": "Polkadot运行时模块(例如互操作性、治理)",
     "jp": "Polkadotランタイムモジュール（例：相互運用性、ガバナンス）",
-    "ru": "Модули времени исполнения Polkadot (например, функциональная совместимость, управление)"
+    "ru": "Модули времени исполнения Polkadot (например, функциональная совместимость, управление)",
+    "es": "Módulos de ejecución de Polkadot (por ejemplo, interoperabilidad, governanza)"
   },
   "global.grants.3": {
     "en": "Second layer protocols (e.g. dedicated parachains, state channels)",
     "zh-cn": "第二层协议(例如专用平行链、状态通道)",
     "jp": "第二層プロトコル（例：専用パラチェーン、ステイトチャネル）",
-    "ru": "Протоколы второго уровня (например, dedicated парачейны, state каналы)"
+    "ru": "Протоколы второго уровня (например, dedicated парачейны, state каналы)",
+    "es": "Protocolos de la segunda capa (por ejemplo, parachains específicas, state channels)"
   },
   "global.grants.4": {
     "en": "Monitoring (e.g. explorers)",
     "zh-cn": "监测(如区块浏览器)",
     "jp": "監視（例: エクスプローラ）",
-    "ru": "Мониторинг ( напр. блок-эксплореры)"
+    "ru": "Мониторинг ( напр. блок-эксплореры)",
+    "es": "Monitoreo (por ejemplo exploradores)"
   },
   "global.grants.5": {
     "en": "Protocol integrations (e.g. bridges to other blockchains, distributed file storage)",
     "zh-cn": "协议集成(例如桥接其他区块链、分布式文件存储)",
     "jp": "プロトコル統合（例：他のブロックチェーンへのブリッジ、分散ファイル・ストレージ）",
-    "ru": "Интеграция протоколов (например, мосты к другим цепочкам блоков, распределенное хранилище файлов)"
+    "ru": "Интеграция протоколов (например, мосты к другим цепочкам блоков, распределенное хранилище файлов)",
+    "es": "Integraciones del protocolo (por ejemplo, pasarelas a otras blockchains, almacenamiento distribuido de archivos)"
   },
   "global.grants.link": {
     "en": "See Grants and Bounties",
     "zh-cn": "查看资助和赏金资料",
     "jp": "補助金と報酬を参照してください。",
-    "ru": "Посмотреть гранты и вознаграждения"
+    "ru": "Посмотреть гранты и вознаграждения",
+    "es": "Vea Subenciones y Recompensas"
   },
   "global.pagination.previous": {
-    "en": "Previous"
+    "en": "Previous",
+    "es": "Anterior"
   },
   "global.pagination.next": {
-    "en": "Next"
+    "en": "Next",
+    "es": "Siguiente"
   },
   "global.pagination.page": {
-    "en": "Page {{page}} of {{total}}"
+    "en": "Page {{page}} of {{total}}",
+    "es": "Página {{page}} de {{total}}"
   },
   "global.pagination.label": {
-    "en": "Page navigation"
+    "en": "Page navigation",
+    "es": "Página de navegación"
   },
   "global.navigation.toggle": {
-    "en": "Toggle navigation"
+    "en": "Toggle navigation",
+    "es": "Cambiar de navegación"
   },
   "global.subscribe_button": {
-    "en": "Subscribe"
+    "en": "Subscribe",
+    "es": "Suscribirse"
   },
   "layout.lightpaper": {
     "en": "Lightpaper",
     "zh-cn": "简短版白皮书",
     "jp": "ライトペーパー",
     "kr": "라이트페이퍼",
-    "ru": "Lightpaper"
+    "ru": "Lightpaper",
+    "es": "Lightpaper"
   },
   "layout.whitepaper": {
     "en": "Whitepaper",
     "zh-cn": "白皮书",
     "jp": "ホワイトペーパー",
     "kr": "백서",
-    "ru": "Whitepaper"
+    "ru": "Whitepaper",
+    "es": "Whitepaper"
   },
   "layout.join_testnet": {
     "en": "Join the Testnet",
     "zh-cn": "加入测试网络",
     "jp": "テストネットを使う",
     "kr": "테스트넷 체험하기",
-    "ru": "Присоединяйтесь к тестовой сети"
+    "ru": "Присоединяйтесь к тестовой сети",
+    "es": "Únase a la red de pruebas"
   },
   "layout.technology": {
     "en": "Technology",
     "zh-cn": "技术",
     "jp": "テクノロジー",
     "kr": "기술",
-    "ru": "Технологии"
+    "ru": "Технологии",
+    "es": "Tecnología"
   },
   "layout.community": {
     "en": "Community",
     "zh-cn": "社区",
     "jp": "コミュニティー",
     "kr": "커뮤니티",
-    "ru": "Сообщество"
+    "ru": "Сообщество",
+    "es": "Comunidad"
   },
   "layout.about": {
     "en": "About",
     "zh-cn": "关于",
     "jp": "概要",
     "kr": "소개",
-    "ru": "О нас"
+    "ru": "О нас",
+    "es": "Acerca de"
   },
   "layout.blog": {
     "en": "Blog",
     "zh-cn": "博客",
     "jp": "ブログ",
     "kr": "블로그",
-    "ru": "Блог"
+    "ru": "Блог",
+    "es": "Blog"
   },
   "layout.token": {
     "en": "Token",
     "zh-cn": "代币",
     "jp": "トークン",
     "kr": "토큰",
-    "ru": "Токен"
+    "ru": "Токен",
+    "es": "Token"
   },
   "layout.testnet": {
     "en": "Testnet",
     "zh-cn": "测试网络",
     "jp": "テストネット",
     "kr": "테스트넷",
-    "ru": "Тестовая сеть "
+    "ru": "Тестовая сеть ",
+    "es": "Testnet"
   },
   "layout.telemetry": {
     "en": "Telemetry",
     "zh-cn": "Telemetry",
     "jp": "Telemetry",
     "kr": "블록 확인",
-    "ru": "Телеметрия"
+    "ru": "Телеметрия",
+    "es": "Telemetry"
   },
   "layout.substrate": {
     "en": "Substrate",
     "zh-cn": "Substrate",
     "jp": "Substrate",
     "kr": "서브스트레이트",
-    "ru": "Substrate"
+    "ru": "Substrate",
+    "es": "Substrate"
   },
   "layout.documentation": {
     "en": "Documentation",
     "zh-cn": "文档",
     "jp": "ドキュメント",
     "kr": "문서",
-    "ru": "Документация"
+    "ru": "Документация",
+    "es": "Documentación"
   },
   "layout.faq": {
     "en": "FAQ",
     "zh-cn": "常见问题",
     "jp": "FAQ",
     "kr": "자주 묻는 질문",
-    "ru": "FAQ"
+    "ru": "FAQ",
+    "es": "FAQ"
   },
   "layout.github": {
     "en": "GitHub",
     "zh-cn": "Github",
     "jp": "GitHub",
     "kr": "GitHub",
-    "ru": "GitHub"
+    "ru": "GitHub",
+    "es": "Github"
   },
   "layout.riot": {
     "en": "Riot Chat",
     "zh-cn": "Riot",
     "jp": "Riotチャット",
     "kr": "Riot 채팅",
-    "ru": "Riot chat"
+    "ru": "Riot chat",
+    "es": "Chat de Riot"
   },
   "layout.medium": {
     "en": "Medium",
     "zh-cn": "Medium",
     "jp": "Medium",
     "kr": "Medium",
-    "ru": "Medium"
+    "ru": "Medium",
+    "es": "Medium"
   },
   "layout.reddit": {
     "en": "Reddit",
     "zh-cn": "Reddit",
     "jp": "Reddit",
     "kr": "Reddit",
-    "ru": "Reddit"
+    "ru": "Reddit",
+    "es": "Reddit"
   },
   "layout.telegram": {
     "en": "Telegram",
     "zh-cn": "电报",
     "jp": "Telegram",
     "kr": "Telegram",
-    "ru": "Telegram"
+    "ru": "Telegram",
+    "es": "Telegram"
   },
   "layout.careers": {
     "en": "Careers",
     "zh-cn": "职位空缺",
     "jp": "採用",
     "kr": "커리어",
-    "ru": "Карьера"
+    "ru": "Карьера",
+    "es": "Trayectoria"
   },
   "layout.general": {
     "en": "General",
     "zh-cn": "概括",
     "jp": "一般",
     "kr": "일반",
-    "ru": "Общее"
+    "ru": "Общее",
+    "es": "General"
   },
   "layout.build": {
     "en": "Build on Polkadot",
     "zh-cn": "建立在Polkadot上",
     "jp": "Polkadotで作る",
     "kr": "폴카닷 활용 개발",
-    "ru": "Разрабатывать на Polkadot"
+    "ru": "Разрабатывать на Polkadot",
+    "es": "Desarrollo en Polkadot"
   },
   "layout.contact": {
     "en": "Contact",
     "zh-cn": "联络",
     "jp": "コンタクト",
     "kr": "연락처",
-    "ru": "Контакты"
+    "ru": "Контакты",
+    "es": "Contacto"
   },
   "layout.grants_bounties": {
     "en": "Grants and Bounties",
     "zh-cn": "资助和赏金",
     "jp": "助成金と賞金",
     "kr": "지원금 및 바운티",
-    "ru": "Гранты и вознаграждение"
+    "ru": "Гранты и вознаграждение",
+    "es": "Subvenciones y recompensas"
   },
   "layout.your_mail": {
-    "en": "Your email address"
+    "en": "Your email address",
+    "es": "Su dirección de correo"
   },
   "layout.polkadot": {
     "en": "Polkadot"
   },
   "layout.impressum": {
-    "en": "Impressum"
+    "en": "Impressum",
+    "es": "Aviso legal"
   },
   "layout.disclaimer": {
     "en": "Disclaimer",
-    "zh-cn": "免责声明"
+    "zh-cn": "免责声明",
+    "es": "Descargo de responsabilidad"
   },
   "layout.privacy": {
-    "en": "Privacy"
+    "en": "Privacy",
+    "es": "Privacidad"
   },
   "layout.testnet_disclaimer": {
-    "en": "Testnet disclaimer"
+    "en": "Testnet disclaimer",
+    "es": "Descargo de responsabilidad"
   },
   "layout.memorandum": {
-    "en": "Memorandum"
+    "en": "Memorandum",
+    "es": "Memorándum"
   },
   "about.title": {
-    "en": "About | Polkadot"
+    "en": "About | Polkadot",
+    "es": "Acerca de | Polkadot"
   },
   "about.heading": {
     "en": "About Polkadot, a platform for Web3",
     "zh-cn": "关于Polkadot平台，Web3",
     "jp": "Polkadot(Web3のためのプラットフォーム)について",
-    "ru": "Polkadot, платформа для Web3"
+    "ru": "Polkadot, платформа для Web3",
+    "es": "Acerca de Polkadot, una plataforma para web3"
   },
   "about.mission.heading": {
     "en": "The Polkadot mission",
     "zh-cn": "Polkadot任务",
     "jp": "Polkadotのミッション",
-    "ru": "Миссия Polkadot"
+    "ru": "Миссия Polkadot",
+    "es": "La misión de Polkadot"
   },
   "about.mission.subheading": {
     "en":"We envision a Web where our identity and our data is our own - safely secured from any central authority.",
     "zh-cn": "我们构想的互联网是我们的身份和数据也是 自己掌控 - 从任何中央机构安全地保护。",
     "jp": "私たちは、ユーザーのアイデンティティとデータが、ユーザーの手にあるウェブを目指しています。",
-    "ru": "Мы представляем себе сеть, в которой наши данные принадлежат нам - надежно защищены от любого центрального органа."
+    "ru": "Мы представляем себе сеть, в которой наши данные принадлежат нам - надежно защищены от любого центрального органа.",
+    "es": "Imaginamos una web en la que nuestra identidad y nuestros datos nos pertenezcan - a salvo de cualquier autoridad central."
   },
   "about.mission.1": {
     "en":"Polkadot will enable a completely decentralized web where users are in control.",
     "zh-cn": "Polkadot将会实现一个完全去中心化的互联网，用户拥有完全控制权力。 ",
     "jp": "Polkadotは、ユーザーが力を持つ完全分散型のウェブを可能にします。",
-    "ru": "Polkadot создаст полностью децентрализованную сеть, где контроль будет принадлежать полностью пользователям."
+    "ru": "Polkadot создаст полностью децентрализованную сеть, где контроль будет принадлежать полностью пользователям.",
+    "es": "Polkadot permitirá una web completamente descentralizada donde los usuarios tengan el control."
   },
   "about.mission.2": {
     "en":"Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.",
     "zh-cn": "Polkadot旨在通过连接私链、联盟链、公链、开放式 网络和预言机以及尚未创建的未来技术。Polkadot 为互联网提供便利，独立区块链可以通过Polkadot的 中继链以无信任的方式交换信息和交易。 ",
     "jp": "Polkadotは、プライベート、コンソーシアムチェーン、パブリックおよびパーミッションレスネットワーク、オラクルや将来来たるべき技術を繋げるために構築されています。Polkadotは、独立したブロックチェーンがPolkadotリレーチェーンを介してトラストレスな方法で情報や取引を交換することができるインターネットを目指しています。",
-    "ru": "Polkadot создан для соединения частных сетей и сетей консорциумов, публичных сетей и сетей без разрешения, оракулов и технологий будущего, которые еще предстоит создать. Polkadot облегчает Интернет, где независимые блокчейны могут обмениваться информацией и транзакциями без доверия через цепочку ретрансляции Polkadot."
+    "ru": "Polkadot создан для соединения частных сетей и сетей консорциумов, публичных сетей и сетей без разрешения, оракулов и технологий будущего, которые еще предстоит создать. Polkadot облегчает Интернет, где независимые блокчейны могут обмениваться информацией и транзакциями без доверия через цепочку ретрансляции Polkadot.",
+    "es": "Polkadot está construido para conectar cadenas privadas y de consorcios, redes públicas y sin permisos, oráculos, y tecnologías futuras que aún no se han creado. Polkadot facilita un internet donde las cadenas de bloques independientes pueden intercambiar información y transacciones de forma fiable a través de la cadena de retransmisión de Polkadot."
   },
   "about.mission.3": {
     "en":"Polkadot makes it easier than ever to create and connect decentralized applications, services, and institutions. By empowering innovators to build better solutions, we seek to free society from its reliance on a broken web where its large institutions can’t violate our trust.",
     "zh-cn": "Polkadot使创建/连接去中心化的应用程序，服务和 机构变得前所未有的简单。通过授权创新者建立更好 的解决方案，我们寻求使社会免于依赖破碎的网络， 其庞大的机构不能侵犯我们的信任。",
     "jp": "Polkadotは分散型アプリケーション、サービス、および機関を作成、接続することをかつてないほどに簡単にします。より良いソリューションを構築するためにイノベーターを支えることによって、私たちは社会を壊れたウェブの依存から解き放つことを目指しています。",
-    "ru": "Polkadot упрощает создание и подключение децентрализованных приложений, служб и учреждений. Предоставляя инноваторам возможность создавать лучшие решения, мы стремимся освободить общество от его зависимости от сломанной сети, где его крупные институты не могут нарушить наше доверие"
+    "ru": "Polkadot упрощает создание и подключение децентрализованных приложений, служб и учреждений. Предоставляя инноваторам возможность создавать лучшие решения, мы стремимся освободить общество от его зависимости от сломанной сети, где его крупные институты не могут нарушить наше доверие",
+    "es": "Polkadot facilita más que nunca la creación y conexión de aplicaciones, servicios e instituciones descentralizadas. Al potenciar a los innovadores para que construyan mejores soluciones, buscamos liberar a la sociedad de su dependencia de una red rota donde sus grandes instituciones no puedan violar nuestra confianza."
   },
   "about.mission.technology_link": {
     "en":"Learn About the Technology",
     "zh-cn": "了解更多关于技术",
     "jp": "技術について学びぶ",
-    "ru": "Узнайте о технологии"
+    "ru": "Узнайте о технологии",
+    "es": "Aprenda acerca de la Tecnología"
   },
   "about.builders.heading": {
     "en":"Who's building Polkadot?",
     "zh-cn": "谁在Polkadot背后?",
     "jp": "Polkadotを支えるチーム",
-    "ru": "Кто стоит за Polkadot?"
+    "ru": "Кто стоит за Polkadot?",
+    "es": "¿Quien está desarrollando Polkadot?"
   },
   "about.builders.subheading": {
     "en":"Polkadot is the first project by {{web3_link}}, a Swiss Foundation founded to facilitate a fully functional and user-friendly decentralized web.",
     "zh-cn": "Polkadot是来自{{web3_link}}基金会的一个项目，这是个成立于瑞士基金会以促进和用户友好的去中心化互联网. ",
     "jp": "Polkadotはスイス財団が設立した{{web3_link}}によって、完全に機能しユーザーフレンドリーな分散型ウェブを促進するために作られた1番最初のプロジェクトです。",
-    "ru": "Polkadot из {{web3_link}}, швейцарского фонда, созданного для содействия созданию полнофункциональной и удобной в использовании децентрализованной сети"
+    "ru": "Polkadot из {{web3_link}}, швейцарского фонда, созданного для содействия созданию полнофункциональной и удобной в использовании децентрализованной сети",
+    "es": "Polkadot es el primer proyecto de {{web3_link}}, una fundación Suiza creada para facilitar una web descentralizada totalmente funcional y fácil de usar"
   },
   "about.builders.subheading.web3_link": {
     "en":"Web3 Foundation",
     "zh-cn":"Web3 Foundation",
     "jp":"Web3 Foundation",
-    "ru":"Web3 Foundation"
+    "ru":"Web3 Foundation",
+    "es": "Fundación Web3"
   },
   "about.builders.1": {
     "en":"The Web3 Foundation is partnering with best-in-class entities to build Polkadot and foster development of the services and applications that will run on it.",
     "zh-cn": "WEB3基金会正在与一流的团队合作，以构建 Polkadot并促进将在其上运行的服务和应用程序的开发。",
     "jp": "Web3Foundationはクラス最高のチームと提携し、Polkadotを構築、その上で動作するサービスとアプリケーションの開発を促進しています。",
-    "ru": "Фонд Web3 сотрудничает с лучшими в своем классе организациями по созданию Polkadot и содействует разработке сервисов и приложений, которые будут на ней работать"
+    "ru": "Фонд Web3 сотрудничает с лучшими в своем классе организациями по созданию Polkadot и содействует разработке сервисов и приложений, которые будут на ней работать",
+    "es": "La fundación Web3 se está asociando con las mejores instituciones de su sector para construir Polkadot y fomentar el desarrollo de los servicios y aplicaciones que se ejecutarán en él."
   },
   "about.builders.2": {
     "en":"Researchers from Inria Paris and ETH Zurich, developers from Parity Technologies, and capital partners from crypto-funds such as Polychain Capital are all working together to develop a superlative realization of Web3, with Polkadot at its core.",
     "zh-cn": "研究人员来自Inria巴黎和苏黎世联邦理工学院， Parity Technologies的开发人员以及Polychain Capital 等加密基金的资本合作伙伴都在共同开发Web3的 最佳实现，其中Polkadot是其核心。",
     "jp": "フランス国立情報学自動制御研究所、Parityからのチューリッヒ工科大学の研究者と、Polychain Capitalのようなクリプトファンド資本パートナーの開発者は、PolkadotとWeb3の実現を目指して一緒に開発に取り組んでいます。",
-    "ru": "Исследователи из Inria Paris и ETH Zurich, разработчики из Parity Technologies и партнеры по капиталу из таких крипто-фондов, как Polychain Capital, работают вместе, чтобы разработать превосходную реализацию Web3, в основе которой лежит Polkadot."
+    "ru": "Исследователи из Inria Paris и ETH Zurich, разработчики из Parity Technologies и партнеры по капиталу из таких крипто-фондов, как Polychain Capital, работают вместе, чтобы разработать превосходную реализацию Web3, в основе которой лежит Polkadot.",
+    "es": "Investigadores de Inria Paris y ETH Zurich, desarrolladores de Parity Technologies y socios de capital de fondos de criptografía como Polychain Capital están trabajando juntos para desarrollar una implementación excepcional de Web3, en la que Polkadot se encuentra en el centro."
   },
   "about.builders.3": {
     "en":"Web3 Foundation is {{grants_link}} for development of the ecosystem.",
     "zh-cn": "{{grants_link}}",
     "jp": "{{grants_link}}",
-    "ru": "{{grants_link}}"
+    "ru": "{{grants_link}}",
+    "es": "{{grants_link}}"
   },
   "about.builders.3.grants_link": {
     "en":"providing grants",
     "zh-cn": "Web3 Foundation基金会提供资助发展整个生态",
     "jp": "Web3 Foundationは、エコシステム開発のために助成金を提供しています。",
-    "ru": "Web3 Foundation предоставляет гранты на развитие экосистемы."
+    "ru": "Web3 Foundation предоставляет гранты на развитие экосистемы.",
+    "es": "La Fundación Web3 proporciona subvenciones para el desarrollo del ecosistema."
   },
   "about.founders.heading": {
     "en":"Founded by some of the blockchain industry’s foremost builders",
     "zh-cn": "由区块链行业中最杰出的开发者创立 ",
     "jp": "ブロックチェーン業界で最も優れた開発者によって創設されました",
-    "ru": "Основанный некоторыми из самых известных строителей блокчейна"
+    "ru": "Основанный некоторыми из самых известных строителей блокчейна",
+    "es": "Fundada por algunos de los principales desarrolladores de la industria blockchain"
   },
   "about.founders.founder": {
     "en":"Founder",
     "zh-cn": "创始人",
     "jp": "創設者",
-    "ru": "Основатель"
+    "ru": "Основатель",
+    "es": "Fundador"
   },
   "about.founders.robert_habermeier": {
     "en":"Robert Habermeier",
     "zh-cn": "Robert Habermeier",
     "jp": "Robert Habermeier",
-    "ru": "Роберт Хабермейер"
+    "ru": "Роберт Хабермейер",
+    "es": "Robert Habermeier"
   },
   "about.founders.robert_habermeier.description": {
     "en":"Robert Habermeier is a Thiel Fellow and co-founder of Polkadot. He has a research and development background in blockchains, distributed systems, and cryptography. A longtime member of the Rust community, he has focused on leveraging the language’s features to build highly parallel and performant solutions.",
     "zh-cn": "Robert Habermeier是泰尔学者和Polkadot的联合 创始人。他拥有区块链、分布式系统和密码学方面的 研发背景，也是Rust社区的长期成员。他专注于利 用语言的功能来构建高度并行和高性能的解决方案。 ",
     "jp": "Robert HabermeierはティールフェローでありPolkadotの共同創設者です。彼はブロックチェーン、分散システム、および暗号学の研究開発の背景を持っています。Rustコミュニティのベテランメンバーとして、彼は高度に並列化とパフォーマンスのソリューションを構築するために、言語の機能を活用することに焦点を当てています。",
-    "ru": "Роберт Хабермейер - член Thiel и соучредитель Polkadot. Он имеет опыт исследований и разработок в блокчейнах, распределенных системах и криптографии. Давний член сообщества Rust, он сосредоточился на использовании возможностей языка для создания высокопараллельных и эффективных решений"
+    "ru": "Роберт Хабермейер - член Thiel и соучредитель Polkadot. Он имеет опыт исследований и разработок в блокчейнах, распределенных системах и криптографии. Давний член сообщества Rust, он сосредоточился на использовании возможностей языка для создания высокопараллельных и эффективных решений",
+    "es": "Robert Habermeier es socio de Thiel y cofundador de Polkadot. Tiene experiencia en investigación y desarrollo de blockchains, sistemas distribuidos y criptografía. Miembro de la comunidad Rust desde hace mucho tiempo, se ha centrado en aprovechar las características del lenguaje para crear soluciones altamente paralelas y eficaces."
   },
   "about.founders.peter_czaban": {
     "en":"Peter Czaban",
     "zh-cn": "创始人Peter Czaban",
     "jp": "創設者 Peter Czaban",
-    "ru": "Питер Чабан"
+    "ru": "Питер Чабан",
+    "es": "Peter Czaban"
   },
   "about.founders.peter_czaban.description": {
     "en":"Peter is the Technology Director of the Web3 Foundation, where he works on supporting the development of the next generation of distributed technologies. He obtained his Masters of Engineering degree at the University of Oxford, reading Engineering Science where he focused on Bayesian Machine Learning. He has worked across defense, finance and data analytics industries, working on mesh networks, distributed knowledge bases, quantitative pricing models, machine learning and business development.",
     "zh-cn": "Peter是Web 3 Foundation的技术总监，负责支持 下一代分布式技术的开发。 他在牛津大学获得工 程硕士学位，阅读工程科学，专注于贝叶斯机器 学习。他曾在国防、金融和数据分析行业工作，负责 网状网络、分布式知识库、量化定价模型、机器学习和业务开发。",
     "jp": "Peterは、Web3Foundationの技術ディレクターであり、分散技術の次世代育成支援に取り組んでいます。彼はベイズ機械学習に焦点を当てたエンジニアリング科学を学び、オックスフォード大学で修士エンジニアリングの学位を取得しました。彼は、メッシュネットワーク、分散型知識ベース、定量的価格モデル、機械学習および事業開発に取り組んで、防衛、金融、データ分析の業界の仕事をしています。",
-    "ru": "Питер является технологическим директором Web 3 Foundation, где он работает над поддержкой разработки распределенных технологий следующего поколения. Он получил степень магистра технических наук в Оксфордском университете, где изучал «Технические науки» и сосредоточился на Байесовском машинном обучении. Он работал в оборонной, финансовой и аналитической отраслях, работал над ячеистыми сетями, распределенными базами знаний, моделями количественного ценообразования, машинным обучением и развитием бизнеса."
+    "ru": "Питер является технологическим директором Web 3 Foundation, где он работает над поддержкой разработки распределенных технологий следующего поколения. Он получил степень магистра технических наук в Оксфордском университете, где изучал «Технические науки» и сосредоточился на Байесовском машинном обучении. Он работал в оборонной, финансовой и аналитической отраслях, работал над ячеистыми сетями, распределенными базами знаний, моделями количественного ценообразования, машинным обучением и развитием бизнеса.",
+    "es": "Peter es el Director de Tecnología de la Fundación Web3, donde trabaja para apoyar el desarrollo de la próxima generación de tecnologías distribuidas. Obtuvo su Maestría en Ingeniería en la Universidad de Oxford, leyendo Ciencias de la Ingeniería, donde se enfocó en el Aprendizaje de Máquinas Bayesianas. Ha trabajado en industrias de defensa, finanzas y análisis de datos, trabajando en redes mesh, bases de conocimiento distribuidas, modelos de precios cuantitativos, aprendizaje de máquinas y desarrollo de negocios."
   },
   "about.founders.dr_gavin_wood": {
     "en":"Dr. Gavin Wood",
     "zh-cn": "Dr. Gavin Wood",
     "jp": "Dr. Gavin Wood",
-    "ru": "Доктор Гэвин Вуд"
+    "ru": "Доктор Гэвин Вуд",
+    "es": "Dr. Gavin Wood"
   },
   "about.founders.dr_gavin_wood.description": {
     "en":"Gavin began originating blockchain technology as co-founder and CTO of Ethereum. He invented fundamental components of the blockchain industry, including Solidity, Proof-of-Authority consensus, and Whisper. At Parity, Gavin currently leads innovation on Substrate and Polkadot. He coined the term Web 3.0 in 2014 and serves as President of Web3 Foundation.",
     "zh-cn": "Gavin作为以太的联合创始人和首席技术官开始了 发起区块链技术。他发明了区块链产业的根本组 成部分包括Solidity，权威证明共识(PoA)和Whisper。 在Parity，Gavin目前领导Substrate和Polkadot的 创新，他在2014年创造了Web 3.0一词，并担任 Web3基金会的主席。 ",
     "jp": "Gavinは、共同創設者兼EthereumのCTOとしてブロックチェーン技術を発信し始めました。Solidity, Proof-of-Authority コンセンサス、およびウィスパー含むブロックチェーン業界の基本的な要素を、発明した実績を持っています。現在Parityでは、SubstrateとPolkadotの革新をリードしています。彼は2014年にWeb 3.0という言葉を造り、Web3Foundation理事長としての役割を果たしています。",
-    "ru": "Гэвин начал создавать технологии блокчейнов в качестве соучредителя и технического директора Ethereum. Он изобрел фундаментальные компоненты индустрии блокчейнов, включая Solidity, Proof-of-Authority Consensus и Whisper. В Parity Гэвин в настоящее время ведет инновации на Cубстрате и Plkadot. Он ввел термин Web 3.0 в 2014 году и является президентом Web3 Foundation."
+    "ru": "Гэвин начал создавать технологии блокчейнов в качестве соучредителя и технического директора Ethereum. Он изобрел фундаментальные компоненты индустрии блокчейнов, включая Solidity, Proof-of-Authority Consensus и Whisper. В Parity Гэвин в настоящее время ведет инновации на Cубстрате и Plkadot. Он ввел термин Web 3.0 в 2014 году и является президентом Web3 Foundation.",
+    "es": "Gavin comenzó a desarrollar la tecnología blockchain como co-fundador y CTO de Ethereum. Inventó componentes fundamentales de la industria blockchain, incluyendo Solidity, Consenso de Prueba de Autoridad y Whisper. En Parity, Gavin actualmente lidera la innovación en Substrate y Polkadot. Acuñó el término Web 3.0 en 2014 y es presidente de la Fundación Web3."
   },
   "about.press.heading": {
     "en":"In the press:",
     "zh-cn": "媒体报导:",
     "jp": "報道：",
-    "ru": "В прессе:"
+    "ru": "В прессе:",
+    "es": "En la prensa:"
   },
   "about.get_in_touch.heading": {
     "en":"Get in touch",
     "zh-cn": "保持联络",
     "jp": "連絡する",
-    "ru": "Связаться"
+    "ru": "Связаться",
+    "es": "Póngase en contacto"
   },
   "about.get_in_touch.general.heading": {
     "en":"For general chat",
     "zh-cn": "一般聊天",
     "jp": "一般的なチャットは",
-    "ru": "Для общего чата"
+    "ru": "Для общего чата",
+    "es": "Para el chat general"
   },
   "about.get_in_touch.general.text": {
     "en":"Join the {{watercooler_link}} or {{telegram_link}}",
     "zh-cn": "加入{{watercooler_link}}或电报群",
     "jp": "{{watercooler_link}}か{{telegram_link}}に参加",
-    "ru": "Присоединяйтесь к {{watercooler_link}} или {{telegram_link}}"
+    "ru": "Присоединяйтесь к {{watercooler_link}} или {{telegram_link}}",
+    "es": "Únete al {{watercooler_link}} o al {{telegram_link}}"
   },
   "about.get_in_touch.general.text.watercooler_link": {
     "en":"Watercooler",
     "zh-cn":"Watercooler",
     "jp":"Watercooler",
-    "ru":"Watercooler"
+    "ru":"Watercooler",
+    "es": "Watercooler"
   },
   "about.get_in_touch.general.text.telegram_link": {
     "en":"Telegram",
     "zh-cn":"Telegram",
     "jp":"Telegram",
-    "ru":"Telegram"
+    "ru":"Telegram",
+    "es": "Telegram"
   },
   "about.get_in_touch.press_inquiries.heading": {
     "en":"For press inquiries",
     "zh-cn": "媒体查询，请发电邮到",
     "jp": "報道のお問い合わせについては",
-    "ru": "Для запросов прессы"
+    "ru": "Для запросов прессы",
+    "es": "Para consultas de prensa"
   },
   "about.get_in_touch.other_inquiries.heading": {
     "en":"For all other inquiries",
     "zh-cn": "其它查询，请发电邮到",
     "jp": "その他のお問い合わせについては",
-    "ru": "По всем остальным вопросам"
+    "ru": "По всем остальным вопросам",
+    "es": "Para todas las demás consultas"
   },
   "about.get_in_touch.stay_informed.heading": {
     "en":"Stay informed of updates and events",
     "zh-cn": "订阅我们的电子报或浏览博客",
     "jp": "ニュースレターに購読してブログを読む",
-    "ru": "Подпишитесь на рассылку или читайте блог"
+    "ru": "Подпишитесь на рассылку или читайте блог",
+    "es": "Manténgase informado de las actualizaciones y eventos"
   },
   "about.get_in_touch.stay_informed.text": {
     "en": "{{subscribe_newsletter_link}} or {{read_blog_link}}",
     "ru": "{{subscribe_newsletter_link}} или {{read_blog_link}}",
     "jp": "{{subscribe_newsletter_link}}、 {{read_blog_link}}",
-    "zh-cn": "{{subscribe_newsletter_link}} {{read_blog_link}}"
+    "zh-cn": "{{subscribe_newsletter_link}} {{read_blog_link}}",
+    "es": "{{subscribe_newsletter_link}} {{read_blog_link}}"
   },
   "about.get_in_touch.stay_informed.text.subscribe_newsletter_link": {
     "en":"Subscribe to the newsletter",
     "ru": "Подпишитесь на рассылку",
     "jp": "ニュースレターを購読する",
-    "zh-cn": "订阅时事通讯。"
+    "zh-cn": "订阅时事通讯。",
+    "es": "Suscríbase a la newsletter"
   },
   "about.get_in_touch.stay_informed.text.read_blog_link": {
     "en":"read the blog",
     "ru": "читайте блог",
     "jp": "ブログを読んでください",
-    "zh-cn": "阅读博客。"
+    "zh-cn": "阅读博客。",
+    "es": "Lea el blog"
   },
   "about.get_in_touch.join.heading": {
-    "en":"Join the teams building Polkadot"
+    "en":"Join the teams building Polkadot",
+    "es": "Únete a los equipos de desarrollo de Polkadot"
   },
   "about.get_in_touch.join.text": {
     "en":"See jobs at {{web3_link}} or at {{paritytech_link}}",
     "zh-cn": "{{web3_link}}基金会或{{paritytech_link}}职位空缺",
     "jp": "{{web3_link}}や{{paritytech_link}}で仕事を参照してください。",
-    "ru": "Посмотреть работу в {{web3_link}} или в {{paritytech_link}}"
+    "ru": "Посмотреть работу в {{web3_link}} или в {{paritytech_link}}",
+    "es": "Vea ofertas de trabajo en {{web3_link}} o en {{paritytech_link}}"
   },
   "about.get_in_touch.join.text.web3_link": {
     "en":"Web3 Foundation",
     "zh-cn":"Web3 Foundation",
     "jp":"Web3 Foundation",
-    "ru":"Web3 Foundation"
+    "ru":"Web3 Foundation",
+    "es": "Fundación Web3"
   },
   "about.get_in_touch.join.text.paritytech_link": {
     "en":"Parity Technologies",
     "zh-cn":"Parity Technologies",
     "jp":"Parity Technologies",
-    "ru":"Parity Technologies"
+    "ru":"Parity Technologies",
+    "es": "Parity Technologies"
   },
   "blog.meta.title": {
     "en": "Blog | Polkadot"
@@ -583,73 +680,85 @@
     "en": "Build on Polkadot",
     "zh-cn": "建立在Polkadot上",
     "jp": "Polkadotの上にアプリケーションを作る",
-    "ru": "Разрабатывать на Polkadot"
+    "ru": "Разрабатывать на Polkadot",
+    "es": "Desarrolla en Polkadot"
   },
   "build.subheading": {
     "en": "Polkadot is 100% open-source. Anyone can contribute to the {{codebase_link}}, run a node,<br class=\"d-none d-md-block\"> or build services on Polkadot. You can even {{grant_link}}.",
     "zh-cn": "Polkadot是100％开源。任何人也能够贡献代码到我 们的代码库，运行节点，或在Polkadot上建立服务。你甚至可以获得资助。",
     "jp": "Polkadotは100％オープンソースです。誰もがノードを実行して、コードベースに貢献することができます。またはPolkadot上でサービスを構築することや、助成金を得ることですらできます。",
-    "ru": "Polkadot на 100% с открытым исходным кодом. Любой может внести свой вклад в кодовую базу, запустить узел, или строить сервисы на Polkadot. Вы даже можете получить грант."
+    "ru": "Polkadot на 100% с открытым исходным кодом. Любой может внести свой вклад в кодовую базу, запустить узел, или строить сервисы на Polkadot. Вы даже можете получить грант.",
+    "es": "Polkadot es 100% de código abierto. Cualquier persona puede contribuir al {codebase_link}}, ejecutar un nodo,<br class=\"d-none d-md-block\"> o construir servicios en Polkadot. Incluso puedes {{grant_link}}."
   },
   "build.subheading.codebase_link": {
     "en": "codebase"
   },
   "build.subheading.grant_link": {
-    "en": "get a grant"
+    "en": "get a grant",
+    "es": "obtener una beca"
   },
   "build.section1.heading": {
     "en": "Easily build a Polkadot parachain with Substrate",
     "zh-cn": "使用Substrate轻松建立Polkadot平行链",
     "jp": "簡単にSubstrateとPolkadotのパラチェーンを構築する",
-    "ru": "Простая разработка парачейнов Polkadot с Substrate"
+    "ru": "Простая разработка парачейнов Polkadot с Substrate",
+    "es": "Desarrolle fácilmente una parachain de Polkadot con Substrate"
   },
   "build.section1.subheading": {
     "en": "Build your application-specific blockchain with the {{substrate_link}} framework now and easily connect it to Polkadot after launch.",
     "zh-cn": "现在利用{{substrate_link}}框架建立专用区块链， 当Polkadot上线后，将会很容易把它连接起来。",
     "jp": "すぐにでも{{substrate_link}}フレームワークを使用して、アプリケーション固有のブロックチェーンを構築することができます。メインネット移行後、簡単にPolkadotに接続できます。",
-    "ru": "Создайте свой блокчейн для конкретного приложения с помощью платформы {{substrate_link}} сейчас, и легко подключите его к Polkadot после запуска"
+    "ru": "Создайте свой блокчейн для конкретного приложения с помощью платформы {{substrate_link}} сейчас, и легко подключите его к Polkadot после запуска",
+    "es": "Desarrolle una blockchain específica de aplicación con el framework {{substrate_link}} ahora y conéctela fácilmente a Polkadot despues del lanzamiento."
   },
   "build.section1.subheading.substrate_link": {
     "en": "Substrate",
     "zh-cn": "Substrate",
     "jp": "Substrate",
-    "ru": "Substrate"
+    "ru": "Substrate",
+    "es": "Substrate"
   },
   "build.section1.1.heading": {
     "en": "Native Polkadot compatibility",
     "zh-cn": "Polkadot原生兼容性",
     "jp": "ネイティブPolkadotの互換性",
-    "ru": "Нативная совместимость с Polkadot"
+    "ru": "Нативная совместимость с Polkadot",
+    "es": "Compatibilidad nativa con Polkadot"
   },
   "build.section1.1.text": {
     "en": "Any blockchain built with Substrate will be natively compatible with Polkadot, so when the mainnet comes you can connect to Polkadot as a parachain.",
     "zh-cn": "任何利用Substrate建立的区块链将会原生兼容 Polkadot，所以当主网上线后，你可以把它连接到Polkadot作为平行链",
     "jp": "Substrateで構築された任意のブロックチェーンはPolkadotとネイティブで互換性がありますので、メインネット移行後、パラチェーンとしてPolkadotに接続することができます。",
-    "ru": "Любой блокчейн, созданный с использованием Substrate, будет изначально совместим с Polkadot, поэтому, когда появится основная сеть, вы можете подключиться к Polkadot в качестве парачейна"
+    "ru": "Любой блокчейн, созданный с использованием Substrate, будет изначально совместим с Polkadot, поэтому, когда появится основная сеть, вы можете подключиться к Polkadot в качестве парачейна",
+    "es": "Cualquier blockchain construida con Substrate será naturalmente compatible con Polkadot, por lo que cuando llegue la red principal podrá conectarse a Polkadot como una parachain."
   },
   "build.section1.2.heading": {
     "en": "Fork-free upgrades",
     "zh-cn": "不用分叉升级",
     "jp": "フォークレスアップグレード",
-    "ru": "Обновления без форка"
+    "ru": "Обновления без форка",
+    "es": "Actualizaciones sin Forks"
   },
   "build.section1.2.text": {
     "en": "Upgrade your blockchain without a hard fork. Your runtime is a Wasm binary stored on-chain and can be updated using your chain’s governance mechanism.",
     "zh-cn": "升级你的区块链而不用硬分叉，你的运行时间是 Wasm二进制储存在链上并且可以通过治理机制更新。 ",
     "jp": "ハードフォークなしであなたのブロックチェーンをアップグレードできます。ランタイムはチェーン上に保存されたWasmバイナリであり、チェーンのガバナンス・メカニズムを使用してアップデートすることができます。",
-    "ru": "Обновите блокчейн без хард-форка. Ваша среда выполнения представляет собой двоичный файл Wasm, который хранится в цепочке и может быть обновлен с использованием механизма управления вашей цепочкой"
+    "ru": "Обновите блокчейн без хард-форка. Ваша среда выполнения представляет собой двоичный файл Wasm, который хранится в цепочке и может быть обновлен с использованием механизма управления вашей цепочкой",
+    "es": "Actualice su blockchain sin un hard fork. Su tiempo de ejecución es un binario Wasm almacenado en la cadena y puede ser actualizado usando el mecanismo de gobierno de su cadena."
   },
   "build.section1.3.heading": {
     "en": "Plug-and-play modular framework",
     "zh-cn": "即插即用模块化框架",
     "jp": "Plug-and-playのモジュラーフレームワーク",
-    "ru": "Модульная конструкция \"включай и работай\""
+    "ru": "Модульная конструкция \"включай и работай\"",
+    "es": "Framework modular Plug-and-play"
   },
   "build.section1.3.text": {
     "en": "Substrate allows you to simply plug in the functionalities you need, while also giving you the freedom to customize as needed.",
     "zh-cn": "Substrate允许你简单地插入所需的功能，同时还可以根据需要自由定制。",
     "jp": "Substrateを使うことにより、あなたは単に必要な機能をプラグインすることができ、さらに必要に応じてカスタマイズすることができます。",
-    "ru": "Substrate позволяет вам просто подключать нужные вам функции, и также дает вам свободу настройки по мере необходимости."
+    "ru": "Substrate позволяет вам просто подключать нужные вам функции, и также дает вам свободу настройки по мере необходимости.",
+    "es": ""
   },
   "build.section1.4.heading": {
     "en": "Interchain connectivity",
