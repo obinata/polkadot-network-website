@@ -1786,89 +1786,101 @@
     "jp": "DOTトークンは4つの明確な目的があります。ネットワークにおけるガバナンス <br class=\"d-none d-xl-block\">オペレーション、ボンディング、インターオペラビリティ",
     "kr": "DOT 토큰은 크게 4가지의 특별한 목적이 있습니다. 네트워크 가버넌스, <br class=\"d-none d-xl-block\">운영, 연결, 상호 운용성입니다",
     "ru": "Токен DOT служит 4 различным целям: управление сетью, <br class=\"d-none d-xl-block\">мотивация, связывание и совместимость",
-    "es": ""
+    "es": "El token DOT sirve para 4 propósitos distintos: gobernanza en la red, <br class=\"d-none d-xl-block\">operación, vinculación, e interoperabilidad."
   },
   "home.4.1": {
     "en": "Governance",
     "zh-cn": "治理",
     "jp": "ガバナンス",
     "kr": "가버넌스",
-    "ru": "Управление"
+    "ru": "Управление",
+    "es": "Gobernanza"
   },
   "home.4.1.text": {
     "en": "Polkadot stakeholders have control over the protocol. All privileges, which on other platforms are exclusive to miners, will be given to the relay chain operators (DOT holders). This includes managing exceptional events such as protocol upgrades and fixes.",
     "zh-cn": "Polkadot持有人有控制协议。在其他平台上所有 特权是矿工专有，也将给予中继链的参与者(DOT持有人) 包括管理特殊事件。(例如:协议升级和修复） ",
     "jp": "Polkadotのステークホルダーは、プロトコルを完全に制御できます。プロトコルのアップグレードや修正などの例外的なイベントを管理するなど、他のプラットフォーム上では排他的にマイナーが所有するような全ての特権を、リレーチェーンの運営者（DOTホルダー）が得ることができます。",
     "kr": "폴카닷 홀더들은 폴카닷 프로토콜에 대한 권한을 갖습니다. 다른 플랫폼들은 채굴자들에게 독점적으로 권한이 부여되지만, 폴카닷은 모든 DOT 홀더, 즉 릴레이 체인(Relay Chain) 참여자들에게 권한을 부여합니다. 이는 프로토콜을 개선하거나 고치는 특별한 일들을 포함합니다.",
-    "ru": "Владельцы Polkadot имеют полный контроль над протоколом. Все привилегии, которые на других платформах являются эксклюзивными для майнеров, будут предоставлены участникам Relay chain (владельцам DOT), включая управление исключительными событиями, такими как обновление и исправление протокола"
+    "ru": "Владельцы Polkadot имеют полный контроль над протоколом. Все привилегии, которые на других платформах являются эксклюзивными для майнеров, будут предоставлены участникам Relay chain (владельцам DOT), включая управление исключительными событиями, такими как обновление и исправление протокола",
+    "es": "Los poseedores de Polkadot tienen control sobre el protocolo. Todos los privilegios, que en otras plataformas son exclusivos de los mineros, serán otorgados a los operadores de relay chain (titulares del DOT). Esto incluye la gestión de eventos excepcionales como actualizaciones y correcciones de protocolos."
   },
   "home.4.2": {
     "en": "Bonding",
     "zh-cn": "绑定",
     "jp": "ボンディング",
     "kr": "연결",
-    "ru": "Связывание "
+    "ru": "Связывание ",
+    "es": "Vinculación"
   },
   "home.4.2.text": {
     "en": "New parachains are added by bonding tokens. Bonded parachains cannot be removed from the network arbitrarily or unbond their DOTs until their lease ends.",
     "zh-cn": "通过绑定代币添加新的平行链。只需要去除绑定代币 除去过时或无用的平行链。",
     "jp": "新しいパラチェーンは、ボンディングトークンによってリレーチェーンに追加されます。ボンディングされたパラチェーンは一定期間が終了するまで取り外されたりDOTが盗まれたりすることはありません。",
     "kr": "새로운 패러체인(Parachain)은 연결 토큰(Bonding token)으로 추가됩니다. 오래되거나 불필요한 패러체인은 제거 연결 토큰(Removing bonded token)으로 제거됩니다.",
-    "ru": "Новые Parachain добавляются путём связывания токенов. Устаревшие или бесполезные Parachain удаляются путем удаления связанных токенов."
+    "ru": "Новые Parachain добавляются путём связывания токенов. Устаревшие или бесполезные Parachain удаляются путем удаления связанных токенов.",
+    "es": "Se añaden nuevas parachains mediante la vinculación de tokens. Las parachains vinculadas no pueden ser removidas de la red arbitrariamente o desvinculadas de sus DOTs hasta que termine su contrato de arrendamiento."
   },
   "home.4.3": {
     "en": "Operation",
     "zh-cn": "操作",
     "jp": "オペレーション",
     "kr": "운영",
-    "ru": "Мотивация"
+    "ru": "Мотивация",
+    "es": "Operación"
   },
   "home.4.3.text": {
     "en": "Game theory incentivizes token holders to behave in honest ways. Good actors are rewarded by this mechanism whilst bad actors will lose their stake in the network. This ensures the network stays secure.",
     "zh-cn": "博弈论激励代币持有人以诚实的方式行事。好的参与者 会得到这种机制的奖励，而坏的参与者将失去他们在网 络中的抵押。这可确保网络保持安全。",
     "jp": "ゲーム理論は、トークンホルダーに正直な行動を取ることを動機付けます。ネットワークにとって良い行いをする人はメカニズムによって報酬が与えられ、悪意ある行動をする人はネットワーク内の掛け金を没収されます。この仕組みがネットワークを安全に保ちます。",
     "kr": "게임 이론을 통해 토큰 홀더들이 정직하게 행동하도록 동기부여합니다. 네트워크에 정직하게 기여한 참여자는 이 메커니즘으로 보상을 얻는 반면, 정직하지 않은 참여자는 네트워크의 일정 지분을 뺴앗기게 됩니다. 이를 통해 네트워크의 신뢰성을 담보합니다.",
-    "ru": "Теория игр побуждает владельцев токенов вести себя честно. Честные участники вознаграждаются, в то время как плохие теряют свою долю в сети. Это гарантирует безопасность сети."
+    "ru": "Теория игр побуждает владельцев токенов вести себя честно. Честные участники вознаграждаются, в то время как плохие теряют свою долю в сети. Это гарантирует безопасность сети.",
+    "es": "La teoría del juego incentiva a los poseedores de tokens a comportarse de manera honesta. Los buenos actores son recompensados por este mecanismo, mientras que los malos perderán su participación en la red. Esto asegura que la red permanezca segura."
   },
   "home.4.4": {
     "en": "Interoperability",
     "zh-cn": "互操作性",
     "jp": "相互運用性",
     "kr": "상호 운용성",
-    "ru": "Совместимость"
+    "ru": "Совместимость",
+    "es": "Interoperabilidad"
   },
   "home.4.4.text": {
     "en": "For messages to be passed from one blockchain to the next, a fee may be paid by the sender in DOTs. However, this is not required.",
     "zh-cn": "对于要将消息从一个区块链传递到另一个区块链， 发送方需要以DOT的形式支付少量费用。",
     "jp": "1つのブロックチェーンから異なるブロックチェーンにメッセージを送るために、送信者はいくらかのDOTsを手数料として支払います。",
     "kr": "메시지가 특정 블록체인에서 다른 블록체인으로 전달되게 하려면, 메시지 발신자는 검증자들에게 메시지 전송에 대한 수수료를 DOT으로 지불합니다.",
-    "ru": "Чтобы сообщения передавались из одного блокчейна в другой, отправитель оплачивает в DOT комиссию валидаторам, пересылающим сообщение."
+    "ru": "Чтобы сообщения передавались из одного блокчейна в другой, отправитель оплачивает в DOT комиссию валидаторам, пересылающим сообщение.",
+    "es": "Para que los mensajes pasen de una blockchain a la siguiente, el remitente puede pagar una cuota en DOTs. Sin embargo, esto no es necesario."
   },
   "home.4.learn_more": {
     "en": "Learn more about the DOT token",
     "zh-cn": "了解更多关于DOT代币",
     "jp": "詳細はこちらトークンDOT詳細については、こちらをご覧ください",
     "kr": "DOT 토큰에 대해 더 알아보세요",
-    "ru": "Узнайте больше о токене DOT Узнать больше"
+    "ru": "Узнайте больше о токене DOT Узнать больше",
+    "es": "Más información sobre el token DOT"
   },
   "home.4.learn_more_link": {
     "en": "Learn more",
     "jp": "詳細はこちら",
-    "ru": "Узнать больше"
+    "ru": "Узнать больше",
+    "es": "Conozca más"
   },
   "home.5": {
     "en": "An open-source protocol built for everyone",
     "zh-cn": "为所有人建立的一个开源协议",
     "jp": "皆のために構築されたオープンソースのプロトコル",
     "kr": "모두를 위해 만들어진 오픈 소스 프로토콜",
-    "ru": "Протокол с открытым исходным кодом, созданный для всех"
+    "ru": "Протокол с открытым исходным кодом, созданный для всех",
+    "es": "Un protocolo de código abierto creado para todos"
   },
   "home.5.1": {
     "en": "Polkadot is an open-source project founded by the {{web3_link}}.",
     "zh-cn": "Polkadot是由Web3基金会创立的一个开源项目",
     "jp": "Polkadotは、Web3ファウンデーションによって設立されたオープンソースプロジェクトです。",
     "kr": "폴카닷은 Web3 재단이 설립한 오픈소스 프로젝트입니다.",
-    "ru": "Polkadot - это проект с открытым исходным кодом, основанный Web3 Foundation"
+    "ru": "Polkadot - это проект с открытым исходным кодом, основанный Web3 Foundation",
+    "es": "Polkadot es un proyecto de código abierto fundado por la {{web3_link}}."
   },
   "home.5.1.web3_link": {
     "en": "Web3 Foundation"
@@ -1878,35 +1890,40 @@
     "zh-cn": "Web3基金会经已委托五个团队和超过100位开发者建立Polkadot，包括：",
     "jp": "Web3ファウンデーションには、Polkadotを構築するための5つのチームと100以上の開発者がいます：",
     "kr": "Web3 재단은 전세계의 5개의 팀, 100명이 넘는 개발자들과 함께 하며 폴카닷을 개발해왔습니다.",
-    "ru": "Web3 Foundation заключил контракт с пятью командами и более 100 разработчиками, чтобы создать Polkadot, в том числе:"
+    "ru": "Web3 Foundation заключил контракт с пятью командами и более 100 разработчиками, чтобы создать Polkadot, в том числе:",
+    "es": "La Fundación Web3 ha encomendado a cinco equipos y más de 100 desarrolladores la construcción de Polkadot, entre ellos:"
   },
   "home.founded": {
     "en": "Founded by some of the blockchain industry’s foremost builders",
     "zh-cn": "由区块链行业前卫的开发者创立 ",
     "jp": "ブロックチェーン業界で最も主要な開発者の複数人によって設立されました。",
     "kr": "여기에는 블록체인 업계를 선도하는 개발자들이 다수 포함되어 있습니다.",
-    "ru": "Основанная самыми влиятельными разработчиками блокчейна"
+    "ru": "Основанная самыми влиятельными разработчиками блокчейна",
+    "es": "Fundada por algunos de los principales desarrolladores de la industria blockchain"
   },
   "home.founded.link": {
     "en": "Learn About the Polkadot Team",
     "zh-cn": "了解Polkadot团队",
     "jp": "Polkadotチームについて学ぶ",
     "kr": "폴카닷 팀에 대해 알아보세요",
-    "ru": "Узнайте о команде Polkadot"
+    "ru": "Узнайте о команде Polkadot",
+    "es": "Más información sobre el equipo de Polkadot"
   },
   "home.teams": {
     "en": "A few of the teams joining the Polkadot network:",
     "zh-cn": "加入Polkadot网络的一些团队:",
     "jp": "Polkadotのネットワークに参加するいくつかのチーム",
     "kr": "폴카닷 네트워크에 합류한 팀들",
-    "ru": "Несколько команд, присоединившихся к сети Polkadot:"
+    "ru": "Несколько команд, присоединившихся к сети Polkadot:",
+    "es": "Algunos de los equipos que se unen a la red Polkadot:"
   },
   "home.teams.link": {
     "en": "See all teams",
     "zh-cn": "查看所有团队",
     "jp": "すべてのチームを参照する",
     "kr": "모든 팀들 확인하기",
-    "ru": "Посмотреть все команды"
+    "ru": "Посмотреть все команды",
+    "es": "Vea todos los equipos"
   },
   "impressum.meta.title": {
     "en": "Impressum | Polkadot"
@@ -1979,7 +1996,8 @@
     "zh-cn": "媒体包",
     "jp": "メディアキット",
     "kr": "미디어 키트",
-    "ru": "Пресс-кит"
+    "ru": "Пресс-кит",
+    "es": "Materiales para los medios de comunicación"
   },
   "mediakit.2": {
     "en": "Logos"
@@ -2555,361 +2573,421 @@
     "en": "A scalable, interoperable & secure network protocol for the next web",
     "zh-cn": "适用于下一代网络的可扩展，可互操作且安全的网络协议",
     "jp": "次世代のWebのためのスケーラブルでインターオペラブルかつ安全なネットワークプロトコル",
-    "ru": "Масштабируемый, совместимый и безопасный сетевой протокол для интернета будущего."
+    "ru": "Масштабируемый, совместимый и безопасный сетевой протокол для интернета будущего.",
+    "es": "Un protocolo de red escalable, interoperable y seguro para la siguiente web"
   },
   "tech.2": {
     "en": "GitHub",
     "zh-cn": "Github",
     "jp": "GitHub",
-    "ru": "GitHub"
+    "ru": "GitHub",
+    "es": "Github"
   },
   "tech.2.text": {
     "en": "Latest changes & version history.",
     "zh-cn": "最新更改和版本纪录",
     "jp": "最新の変更＆バージョン履歴",
-    "ru": "Последние изменения и история версий."
+    "ru": "Последние изменения и история версий.",
+    "es": "Últimos cambios e historial de versiones."
   },
   "tech.3": {
     "en": "Documentation",
     "zh-cn": "文档",
     "jp": "ドキュメンテーション",
-    "ru": "Документация"
+    "ru": "Документация",
+    "es": "Documentación"
   },
   "tech.3.text": {
     "en": "Read the documentation.",
     "zh-cn": "查看文档",
     "jp": "ドキュメントを読む",
-    "ru": "Прочитайте документацию"
+    "ru": "Прочитайте документацию",
+    "es": "Consulte la documentación."
   },
   "tech.4": {
     "en": "Riot chat",
     "zh-cn": "Riot",
     "jp": "Riotチャット",
-    "ru": "Riot chat"
+    "ru": "Riot chat",
+    "es": "Chat Riot"
   },
   "tech.4.text": {
     "en": "Get your questions answered.",
     "zh-cn": "获得答复",
     "jp": "質問に回答をもらう",
-    "ru": "Получите ответы на свои вопросы"
+    "ru": "Получите ответы на свои вопросы",
+    "es": "Obtenga respuestas a sus preguntas."
   },
   "tech.5": {
     "en": "Any type of data across any type of blockchain",
     "zh-cn": "任何类型的数据穿越不同类型的区块链",
     "jp": "いかなるタイプのブロックチェーンにおけるいかなるデータ",
-    "ru": "Любой тип данных через любой тип блокчейна"
+    "ru": "Любой тип данных через любой тип блокчейна",
+    "es": "Cualquier tipo de datos a través de cualquier tipo de blockchain"
   },
   "tech.5.1": {
     "en": "Polkadot is a network protocol that allows arbitrary data—not just tokens—to be transferred across blockchains.",
     "zh-cn": "Polkadot是一个网络协议，能够传递任何 数据(不只限于代币)到所有区块链。",
     "jp": "Polkadotはトークンに限らず任意のデータをブロックチェーン間で送受信することができるネットワーク・プロトコルです。",
-    "ru": "Polkadot - это сетевой протокол, который позволяет передавать произвольные данные - не только токены - между блокчейнами"
+    "ru": "Polkadot - это сетевой протокол, который позволяет передавать произвольные данные - не только токены - между блокчейнами",
+    "es": "Polkadot es un protocolo de red que permite transferir datos de manera arbitraria, no sólo tokens, a través de blockchains."
   },
   "tech.5.2": {
     "en": "This means Polkadot is a true multi-chain application environment where things like cross-chain registries and cross-chain computation are possible.",
     "zh-cn": "这意味着Polkadot是一个真正的多链应用环境，使跨链注册和跨链计算等类似操作成为可能。",
     "jp": "これは、Polkadotがクロスチェーンレジストリとクロスチェーンコンピュテーションのようなものが可能な真のマルチチェーンのアプリケーション環境であることを意味します。",
-    "ru": "Это означает, что Polkadot является настоящей многокомпонентной прикладной средой, в которой возможны кроссчейн взаимодействия и кроссчейн вычисления"
+    "ru": "Это означает, что Polkadot является настоящей многокомпонентной прикладной средой, в которой возможны кроссчейн взаимодействия и кроссчейн вычисления",
+    "es": "Esto significa que Polkadot es un verdadero entorno de aplicación multi-cadena en el que es posible realizar registros entre cadenas y cálculos entre cadenas."
   },
   "tech.5.3": {
     "en": "Polkadot can transfer this data across public, open, permissionless blockchains as well as private, permissioned blockchains.",
     "zh-cn": "Polkadot能传递数据到公共、开放、公开的区块链和私有或联盟链。",
     "jp": "Polkadotはパブリック、オープン、パーミンションレス、プライベート、パーミッションドチェーンに関わらずデータを送受信できます。",
-    "ru": "Polkadot может передавать эти данные как через публичные, так и через приватные блокчейны"
+    "ru": "Polkadot может передавать эти данные как через публичные, так и через приватные блокчейны",
+    "es": "Polkadot puede transferir estos datos a través de blockchains públicas, abiertas y sin permiso, así como a través de blockchains privadas y con permiso."
   },
   "tech.5.4": {
     "en": "This makes it possible to build applications that get permissioned data from a private blockchain and use it on a public blockchain. For instance, a school's private, permissioned academic records chain could send a proof to a degree-verification smart contract on a public chain.",
     "zh-cn": " 这使得构建从私有链获得许可数据并在公有链上使用的应用程序成为可能（例如，学校私有的学位记录区块链可以向公有链上的学位验证智能合约发送证明）。",
     "jp": "つまりプライベートチェーンにおける閲覧制限のあるデータを取得しパブリックブロックチェーン上で、アプリケーションを作ることができます。例えば、学校の記録を管理するプライベートないしパーミッションドチェーン上のデータがパブリックブロックチェーンにおける学位証明のスマートコントラクトで使われるなどが考えらます。",
-    "ru": "Это позволяет создавать приложения, которые получают данные из приватного блокчейна и использовать их в публичном. Например, приватный чейн частной школы может посылать подтверждение смарт контракту о проверке научной степени в публичном чейне. "
+    "ru": "Это позволяет создавать приложения, которые получают данные из приватного блокчейна и использовать их в публичном. Например, приватный чейн частной школы может посылать подтверждение смарт контракту о проверке научной степени в публичном чейне. ",
+    "es": "Esto hace posible crear aplicaciones que obtienen datos con permiso de una blockchain privada y los utilizan en una blockchain pública. Por ejemplo, la blockchain privada de registros académicos autorizados de una escuela podría enviar una prueba a un contrato inteligente de verificación de títulos en una cadena pública."
   },
   "tech.6": {
     "en": "Network structure",
     "zh-cn": "网络结构",
     "jp": "ネットワーク構造",
-    "ru": "Структура сети"
+    "ru": "Структура сети",
+    "es": "Estructura de red"
   },
   "tech.6.1": {
     "en": "<strong>Parachains:</strong> application-specific blockchains",
     "zh-cn": "平行链：特定应用的区块链",
     "jp": "パラチェーン：アプリケーション固有のブロックチェーン",
-    "ru": "Parachains: блокчейны для приложений"
+    "ru": "Parachains: блокчейны для приложений",
+    "es": "<strong>Parachains:</strong> blockchains específicas de la aplicación"
   },
   "tech.6.1.text": {
     "en": "Parachains are the parallelizable blockchains (“para-chains”) that comprise the Polkadot network. Each parachain can have a unique architecture that best suits its application. Parachains are also used to parallelize transactions and achieve scalability. Parachains are connected and secured by the relay chain.",
     "zh-cn": "平行链是包含Polkadot网络的可并行的区块链（“para-chains”）。每个平行链都可以拥有最适合其应用的独特架构。 平行链还用于并行事务处理并实现可伸缩性。平行链通过中继链通讯和保证安全",
     "jp": "パラチェーンはPolkadotネットワークを構成する並列化されたチェーンです。各々のパラチェーンはアプリケーションに最適化した独自のアーキテクチャーを持っています。パラチェーンはトランザクションの並列処理を行うことでスケーラビリティをもたらします。パラチェーンはリレーチェーンにつながり安全性を得ることができます。",
-    "ru": "Parachains - это параллельные блокчейны («парачейны»), которые составляют сеть Polkadot. Каждый parachain может иметь уникальную архитектуру, которая лучше всего подходит для его применения. Parachain также используются для распараллеливания транзакций и достижения масштабируемости. Parachain связаны и защищены Relay chain."
+    "ru": "Parachains - это параллельные блокчейны («парачейны»), которые составляют сеть Polkadot. Каждый parachain может иметь уникальную архитектуру, которая лучше всего подходит для его применения. Parachain также используются для распараллеливания транзакций и достижения масштабируемости. Parachain связаны и защищены Relay chain.",
+    "es": "Las Parachains son los blockchains paralelizables (“para-chains“) que componen la red Polkadot. Cada parachain puede tener una arquitectura única que mejor se adapte a su aplicación. Las parachains también se utilizan para paralelizar transacciones y lograr escalabilidad. Las parachains están conectadas y aseguradas por la relay chain."
   },
   "tech.6.2": {
     "en": "<strong>Relay chain:</strong> connects and validates parachains",
     "zh-cn": "<strong>中继链</strong>: 连接和验证平行链的区块 ",
     "jp": "リレーチェーン：パラチェーンへの接続と検証",
-    "ru": "<strong>Relay chain.</strong> Соединяет и валидирует parachain"
+    "ru": "<strong>Relay chain.</strong> Соединяет и валидирует parachain",
+    "es": "<strong>Relay chain:</strong> conecta y valida parachains"
   },
   "tech.6.2.text": {
     "en": "The relay chain connects the components of the Polkadot network. It provides security to parachains and relays messages between them, as well as bridge chains. The messages can be transactions or any arbitrary data.",
     "zh-cn": "中继链是Polkadot网络的核心，它确保平行链 和平行链之间传递信息。信息可以是 交易或任何类型数据。",
     "jp": "リレーチェーンがPolkadotネットワークを接合します。これは、パラチェーンやリレーチェーン内のメッセージを保護ています。メッセージは、トランザクションまたは任意のデータを扱うこともできます。",
-    "ru": "Relay chain - это связующее звено сети Polkadot. Он защищает parachain и передает информацию между ними. Сообщения могут быть транзакциями или любыми произвольными данными."
+    "ru": "Relay chain - это связующее звено сети Polkadot. Он защищает parachain и передает информацию между ними. Сообщения могут быть транзакциями или любыми произвольными данными.",
+    "es": "La relay chain conecta los componentes de la red Polkadot. Proporciona seguridad a las parachains y transmite mensajes entre ellos, así como a las cadenas de puentes. Los mensajes pueden ser transacciones o cualquier dato arbitrario."
   },
   "tech.6.3": {
     "en": "<strong>Bridges chains:</strong> connect Polkadot to external blockchains",
     "zh-cn": "<strong>桥接链:</strong> 连接Polkadot到其它外部区块链",
     "jp": "ブリッジ：Polkadotを外部のブロックチェーンに接続する",
-    "ru": "<strong>Bridges:</strong> соединяют Polkadot с внешними блокчейнами"
+    "ru": "<strong>Bridges:</strong> соединяют Polkadot с внешними блокчейнами",
+    "es": "<strong>Bridges chains:</strong> conecta Polkadot con blockchains externas"
   },
   "tech.6.3.text": {
     "en": "Bridges are special parachains that allow communication to independent blockchains that are not secured by Polkadot's relay chain and instead use their own security, like Bitcoin or Ethereum.",
     "zh-cn": "桥接链是特殊的平行链，它允许与其它不是 经Polkadot中继链保护，而是使用 自己安全性的区块链通信。 (例如：比特币，以太坊）",
     "jp": "ブリッジはEthereumやBitcoinといったPolkadotのリレーチェーンではなく独自のセキュリティを持った独立したブロックチェーンと通信を可能にする特別なパラチェーンです。",
-    "ru": "Bridges - это специальные parachain, которые обеспечивают связь с независимыми блокчейнами, которые не защищены Relay chain Polkadot и вместо этого используют собственную защиту, такие как Bitcoin или Ethereum. "
+    "ru": "Bridges - это специальные parachain, которые обеспечивают связь с независимыми блокчейнами, которые не защищены Relay chain Polkadot и вместо этого используют собственную защиту, такие как Bitcoin или Ethereum. ",
+    "es": "Los bridges son parachains especiales que permiten la comunicación con blockchains independientes que no están aseguradas por la relay chain de Polkadot y que en su lugar utilizan su propia seguridad, como Bitcoin o Ethereum."
   },
   "tech.6.4": {
     "en": "Network roles",
     "zh-cn": "网络中的角色",
     "jp": "ネットワークの役割",
-    "ru": "Роли в сети"
+    "ru": "Роли в сети",
+    "es": "Funciones de la red"
   },
   "tech.6.4.1": {
     "en": "<strong>Validators:</strong> produce relay chain blocks",
     "zh-cn": "验证人：产生中继链的区块",
     "jp": "バリデーター：リレーチェーンブロックを作る",
-    "ru": "<strong>Validator:</strong> генерируют блоки в relay chain"
+    "ru": "<strong>Validator:</strong> генерируют блоки в relay chain",
+    "es": "<strong>Validadores:</strong> producen bloques en la relay chain"
   },
   "tech.6.4.1.text": {
     "en": "Validators are staked full nodes that are responsible for verifying and adding blocks to the relay chain. Validators receive and verify potential parachain blocks from collators and include valid parachain block headers in the relay chain.",
     "zh-cn": "验证人运行全节点并负责验证和增加区块到 中继链。它从校对人接收和核对潜在的平行链 区块并且加入有效的区块头到中继链。",
     "jp": "バリデーターはブロックを検証しリレーチェーンにブロックを追加する為にフルノードを持っています。バリデーターはコレイターからパラチェーンに追加される候補のブロックを受け取り検証します。そして、正当なパラチェーンのブロックヘッダーをリレーチェーンに送ります。",
-    "ru": "Validator - это полные ноды, которые отвечают за проверку и добавление блоков в relay chain. Validator получают и проверяют потенциальные блоки от Collator подключённых parachain и включают валидные заголовки блоков в relay chain."
+    "ru": "Validator - это полные ноды, которые отвечают за проверку и добавление блоков в relay chain. Validator получают и проверяют потенциальные блоки от Collator подключённых parachain и включают валидные заголовки блоков в relay chain.",
+    "es": "Los validadores son nodos completos con participaciones que se encargan de verificar y añadir bloques a la relay chain. Los validadores reciben y verifican los bloques de parachains de los collators e incluyen cabeceras de bloques de parachains válidas en la relay chain."
   },
   "tech.6.4.2": {
     "en": "<strong>Collators: </strong> bundle transactions on parachains",
     "zh-cn": "校对人: 在平行链上打包交易",
     "jp": "コレイター：パラチェーン上の一括取引",
-    "ru": "Collator: собирают транзакции в parachain"
+    "ru": "Collator: собирают транзакции в parachain",
+    "es": "<strong>Collators: </strong> transacciones de paquetes en parachains"
   },
   "tech.6.4.2.text": {
     "en": "Collators bundle (or collate) transactions on the parachain they monitor into blocks, and send a proof of this block to validators. Collators can also act as fishermen.",
     "zh-cn": " 校对人将它们监视的平行链上的事务打包（或整理）成块，并将此块的证明发送给验证者。校对者也可以充当验证者。",
     "jp": "コレイターはパラチェーンのトランザクションを収集しブロックの中のトランザクションを監視します。そして、ブロックの証明書をバリデーターに送ります。コレイターはフィッシャーマンとしても機能することができます。",
-    "ru": "Collator собирают (или сопоставляют) транзакции в parachain, в которых они работают, в блоки и отправляют подтверждение этого блока Validator. Collator могут также действовать в роли Fishermen."
+    "ru": "Collator собирают (или сопоставляют) транзакции в parachain, в которых они работают, в блоки и отправляют подтверждение этого блока Validator. Collator могут также действовать в роли Fishermen.",
+    "es": "Los collators agrupan (o cotejan) transacciones en la parachain que monitorean en bloques, y envían una prueba de este bloque a los validadores. Los collators también pueden actuar como fishermen."
   },
   "tech.6.4.3": {
     "en": "<strong>Nominators:</strong> nominate validators",
     "zh-cn": "提名人: 提名验证人",
     "jp": "ノミネーター：バリデータを指名する",
-    "ru": "Nominator: голосуют за Validator"
+    "ru": "Nominator: голосуют за Validator",
+    "es": "<strong>Nominators:</strong> designan validadores"
   },
   "tech.6.4.3.text": {
     "en": "Nominators put up stake and select validators to stake on their behalf. When a nominator's chosen validator is rewarded or punished, the nominator receives a corresponding reward or punishment.",
     "zh-cn": "提名者提出权益，并选择验证者代表他们的权益。当提名者选择的验证者受到奖励或惩罚时，提名者将得到相应的奖励或惩罚。",
     "jp": "ノミネーターは賭け金を各自で選択し、バリデーターに自己責任で賭けます。ノミネーターが賭けたバリデーターが報酬を受けるか罰せられた場合、ノミネーターも同様の報酬もしくは罰を受けます。",
-    "ru": "Nominator стекают токены и выбирают Validator. Когда выбранный validator получает вознаграждение или наказывается, Nominator получает соответствующее вознаграждение или наказание."
+    "ru": "Nominator стекают токены и выбирают Validator. Когда выбранный validator получает вознаграждение или наказывается, Nominator получает соответствующее вознаграждение или наказание.",
+    "es": "Los nominators ponen en juego y seleccionan a los validadores para que participen en su nombre."
   },
   "tech.7.1": {
     "en": "Relay Chain",
     "zh-cn": "中继链",
     "jp": "リレーチェーン",
-    "ru": "Relay Chain"
+    "ru": "Relay Chain",
+    "es": "Relay Chain"
   },
   "tech.7.2": {
     "en": "Parachains",
     "zh-cn": "平行链",
     "jp": "パラチェーン",
-    "ru": "Parachains"
+    "ru": "Parachains",
+    "es": "Parachains"
   },
   "tech.7.3": {
     "en": "Bridges",
     "zh-cn": "桥接",
     "jp": "ブリッジ",
-    "ru": "Bridges"
+    "ru": "Bridges",
+    "es": "Bridges"
   },
   "tech.7.4": {
     "en": "Validators",
     "zh-cn": "验证人",
     "jp": "バリデーター",
-    "ru": "Validators"
+    "ru": "Validators",
+    "es": "Validadores"
   },
   "tech.7.5": {
     "en": "Collators",
     "zh-cn": "校对人",
     "jp": "コレイター",
-    "ru": "Collators"
+    "ru": "Collators",
+    "es": "Collators"
   },
   "tech.8": {
     "en": "Built with the best technology",
     "zh-cn": "利用最好的技术建立",
     "jp": "最高の技術での構築",
-    "ru": "Разрабатывайте с использованием лучших технологий"
+    "ru": "Разрабатывайте с использованием лучших технологий",
+    "es": "Desarrolado con la mejor tecnología"
   },
   "tech.8.1": {
     "en": "Polkadot’s relay chain is built with {{substrate_link}}, a blockchain-building framework that is the distillation of Parity Technologies’ learnings building Ethereum, Bitcoin, and enterprise blockchains.",
     "zh-cn": "Polkadot的中继链是使用{{substrate_link}}构建的，这是一种区块链构建框架，是Parity Technologies构建以太坊，比特币和企业区块链的经验的升华。",
     "jp": "PolkadotのリレーチェーンはParity Technologiesが過去にEthereumやBitcoin, 企業向けブロックチェーンを作る中で学んだ知識を結集させたブロックチェーンのフレームワークである{{substrate_link}}で作られています。",
-    "ru": "Relay chain Polkadot разработан на {{substrate_link}}, фреймворк для создания блокчейнов, который является квинтэссенцией знаний Parity Technologies о создании Ethereum, Bitcoin и корпоративных блокчейнов"
+    "ru": "Relay chain Polkadot разработан на {{substrate_link}}, фреймворк для создания блокчейнов, который является квинтэссенцией знаний Parity Technologies о создании Ethereum, Bitcoin и корпоративных блокчейнов",
+    "es": "Las relay chain de Polkadot estan desarrolladas con {{substrate_link}}, un framework para la construcción de blockchains que es la recopilación de los aprendizajes de Parity Technologies para la construcción de Ethereum, Bitcoin y las blockchains empresariales."
   },
   "tech.8.1.substrate_link": {
     "en": "Substrate",
     "zh-cn": "Substrate",
     "jp": "Substrate",
-    "ru": "Substrate"
+    "ru": "Substrate",
+    "es": "Substrate"
   },
   "tech.8.2": {
     "en": "Polkadot’s state machine is compiled to WebAssembly (Wasm), a super performant virtual environment. Wasm is developed by major companies, including Google, Apple, Microsoft, and Mozilla, that have created a large ecosystem of support for the standard.",
     "zh-cn": "Polkadot的状态机被编译为WebAssembly（Wasm），这是一个超高性能的虚拟环境。 Wasm是由谷歌，苹果，微软和Mozilla等专业公司开发的，它们已经为该标准创建了一个庞大的生态系统。",
     "jp": "Polkadotのステートマシンは非常に性能の高い仮想環境であるWebAssembly（Wasm）にコンパイルされます。 Wasmは、グーグル、アップル、マイクロソフト、Mozillaなどの大手企業が大規模なエコシステムを形成し標準化する為に開発を行っています。",
-    "ru": "Код Polkadot компилируется в WebAssembly (Wasm), высокопроизводительную виртуальную среду. Wasm разработан крупными компаниями, включая Google, Apple, Microsoft и Mozilla, которые создали большую экосистему поддержки стандарта"
+    "ru": "Код Polkadot компилируется в WebAssembly (Wasm), высокопроизводительную виртуальную среду. Wasm разработан крупными компаниями, включая Google, Apple, Microsoft и Mozilla, которые создали большую экосистему поддержки стандарта",
+    "es": "La máquina de estado de Polkadot está compilada en WebAssembly (Wasm), un entorno virtual de alto rendimiento. Wasm es desarrollado por grandes compañías, incluyendo Google, Apple, Microsoft y Mozilla, que han creado un gran ecosistema de soporte para el estándar."
   },
   "tech.8.3": {
     "en": "Polkadot’s networking uses libp2p, a flexible cross-platform network framework for peer-to-peer applications. Positioned to be the standard for future decentralized applications, libp2p handles the peer discovery and communication in the Polkadot ecosystem.",
     "zh-cn": "Polkadot的网络使用libp2p，这是一种灵活的跨平台网络框架，用于点对点应用程序。 libp2p定位为未来去中心应用程序的标准，处理Polkadot生态系统中的对等方的发现和通信。",
     "jp": "PolkadotのネットワークはP2Pアプリケーションのための柔軟なクロスプラットフォーム・ネットワーク・フレームワークであるlibp2p、を使用しています。将来の分散型アプリケーションのための標準であることを位置付け、libp2pはPolkadotエコシステムにおけるピア発見と通信を処理します。",
-    "ru": "Сеть Polkadot использует libp2p, гибкий кроссплатформенный сетевой фреймворк для одноранговых приложений. Libp2p позиционируется как стандарт для будущих децентрализованных приложений, а также обеспечивает обнаружение пиров и обмен данными в экосистеме Polkadot"
+    "ru": "Сеть Polkadot использует libp2p, гибкий кроссплатформенный сетевой фреймворк для одноранговых приложений. Libp2p позиционируется как стандарт для будущих децентрализованных приложений, а также обеспечивает обнаружение пиров и обмен данными в экосистеме Polkadot",
+    "es": "La red de Polkadot utiliza libp2p, un marco de trabajo de red multiplataforma flexible para aplicaciones peer-to-peer. Posicionado como el estándar para futuras aplicaciones descentralizadas, libp2p maneja el descubrimiento y la comunicación entre pares en el ecosistema de Polkadot."
   },
   "tech.8.4": {
     "en": "The Polkadot runtime environment is being coded in Rust, C++, and Golang, making Polkadot accessible to a wide range of developers.",
     "zh-cn": "Polkadot运行时环境正在使用Rust，C ++和Golang进行编码，使得Polkadot可以供广大的开发人员访问。",
     "jp": "PolkadotのRuntimeは、幅広い開発者にアクセスするために、Rust、C ++、およびGolangでコーディングされています。",
-    "ru": "Исполнительная среда Polkadot кодируется на Rust, C++ и Golang, что делает Polkadot доступным для широкого круга разработчиков."
+    "ru": "Исполнительная среда Polkadot кодируется на Rust, C++ и Golang, что делает Polkadot доступным для широкого круга разработчиков.",
+    "es": "El entorno de tiempo de ejecución de Polkadot se está codificando en Rust, C++ y Golang, haciendo que Polkadot sea accesible a una amplia gama de desarrolladores."
   },
   "tech.9": {
     "en": "Processing transactions in parallel",
     "zh-cn": "并行处理交易",
     "jp": "トランザクションの並行処理",
-    "ru": "Параллельная обработка транзакций"
+    "ru": "Параллельная обработка транзакций",
+    "es": "Procesamiento de transacciones en paralelo"
   },
   "tech.9.1": {
     "en": "Parachains are specialized blockchains that connect to Polkadot. They will have characteristics specialized for their use cases and the ability to control their own governance.",
     "zh-cn": "连接到Polkadot的平行链都是专门的区块链， 每个平行链都具有独特的特征和自治的主权。",
     "jp": "パラチェーンはPolkadotに接続する為の特別なブロックチェーンです。パラチェーン内では独自のユースケースに特化した特徴を持ち独自のガバナンスを保持できます。",
-    "ru": "Parachains - это специализированные блокчейны, которые соединяются с Polkadot. Они имеют уникальные характеристики, оптимально подходящие к их предназначению, и возможность независимого управления."
+    "ru": "Parachains - это специализированные блокчейны, которые соединяются с Polkadot. Они имеют уникальные характеристики, оптимально подходящие к их предназначению, и возможность независимого управления.",
+    "es": "Las parachains son blockchains específicas que se conectan a Polkadot. Tendrán características especiales para sus casos de uso y la capacidad de controlar su propia gobernanza."
   },
   "tech.9.2": {
     "en": "Interactions on parachains are processed in parallel, enabling highly scalable systems.",
     "zh-cn": "链的交互是并行处理的，从而实现了高度可扩展的系统。",
     "jp": "パラチェーン間のやり取りは並列処理で行われます。これは高いスケーリング能力を持つシステムを可能にします。",
-    "ru": "Действия в parachain обрабатываются параллельно, что обеспечивает высокую масштабируемость системы. "
+    "ru": "Действия в parachain обрабатываются параллельно, что обеспечивает высокую масштабируемость системы. ",
+    "es": "Las interacciones en las parachains se procesan en paralelo, permitiendo sistemas altamente escalables."
   },
   "tech.9.3": {
     "en": "Transactions can be spread out across the chains, allowing many more transactions to be processed in the same period of time.",
     "zh-cn": "事务可以跨链分布，允许在同一时间段内处理更多事务。",
     "jp": "トランザクションはチェーン間に伝達され一定期間内にさらに多くのトランザクションをさばくことができます。",
-    "ru": "Транзакции могут быть распределены по цепочкам, что позволяет обрабатывать гораздо больше транзакций за тот же период времени. "
+    "ru": "Транзакции могут быть распределены по цепочкам, что позволяет обрабатывать гораздо больше транзакций за тот же период времени. ",
+    "es": "Las transacciones se pueden distribuir a lo largo de las cadenas, lo que permite que se procesen muchas más transacciones en el mismo período de tiempo."
   },
   "tech.9.4": {
     "en": "Current method:",
     "zh-cn": "现时方法:",
     "jp": "現在のメソッド：",
-    "ru": "Текущий метод:"
+    "ru": "Текущий метод:",
+    "es": "Método actual:"
   },
   "tech.9.4.text": {
     "en": "Single transaction",
     "zh-cn": "单一交易",
     "jp": "単一のトランザクション",
-    "ru": "Единичная транзакция"
+    "ru": "Единичная транзакция",
+    "es": "Transacción única"
   },
   "tech.9.5": {
     "en": "Polkadot method:",
     "zh-cn": "Polkadot方法:",
     "jp": "Polkadotのメソッド：",
-    "ru": "Метод Polkadot:"
+    "ru": "Метод Polkadot:",
+    "es": "Método Polkdaot:"
   },
   "tech.9.5.text": {
     "en": "Multi parallelized transactions",
     "zh-cn": "多个并行交易",
     "jp": "マルチトランザクションの並列処理",
-    "ru": "Параллельные транзакции"
+    "ru": "Параллельные транзакции",
+    "es": "Transacciones paralelas múltiples"
   },
   "tech.10": {
     "en": "A better security model",
     "zh-cn": "更好的安全模型",
     "jp": "優れたセキュリティモデル",
-    "ru": "Улучшенная модель безопасности"
+    "ru": "Улучшенная модель безопасности",
+    "es": "Un mejor modelo de seguridad"
   },
   "tech.10.1": {
     "en": "In both Proof-of-Work and Proof-of-Stake systems, blockchains compete with each other over resources to secure their networks, and blockchains are easily attacked until they develop a significant community to support their network.",
     "zh-cn": "在工作证明和权益关系证明系统中，区块链相互竞争资源以确保其网络的安全，并且区块链很容易受到攻击，直到它们发展出一个重要的社区来支持它们的网络。",
     "jp": "Proof of WorkとProof of Stakeのシステムにおいて、ネットワークを安全に保つためにリソースの取り合いが行われます。そしてブロックチェーンが大規模なコミュニティに成長するまで簡単に攻撃されるリスクがあります。",
-    "ru": "Как в системах Proof-of-Work, так и Proof-of-Stake, блокчейны конкурируют друг с другом за ресурсы, чтобы защитить свои сети, и блокчейны могут быть легко атакованы, пока они не сформируют значительное сообщество для поддержки своей сети"
+    "ru": "Как в системах Proof-of-Work, так и Proof-of-Stake, блокчейны конкурируют друг с другом за ресурсы, чтобы защитить свои сети, и блокчейны могут быть легко атакованы, пока они не сформируют значительное сообщество для поддержки своей сети",
+    "es": "Tanto en los sistemas de prueba de trabajo como en los de prueba de participación, las blockchains compiten entre sí por los recursos para proteger sus redes, y las blockchains son fácilmente atacadas hasta que desarrollan una comunidad significativa para dar soporte a su red."
   },
   "tech.10.2": {
     "en": "Polkadot takes a different approach by letting blockchains pool their security, which means that the blockchains' security is aggregated and applied to all.",
     "zh-cn": "Polkadot采用了一种不同的方法，让区块链共享它们的安全性，这意味着区块链的安全性被聚合并应用于所有的区块链。",
     "jp": "Polkadotはセキュリティをプールするということなるアプローチを取ります。これはブロックチェーンのセキュリティがまとめられ全てのブロックチェーンに適応されることを意味します。",
-    "ru": "Polkadot использует другой подход, позволяя блокчейнам объединять свою безопасность, что означает, что безопасность блокчейнов агрегируется и распространяется на всех."
+    "ru": "Polkadot использует другой подход, позволяя блокчейнам объединять свою безопасность, что означает, что безопасность блокчейнов агрегируется и распространяется на всех.",
+    "es": "Polkadot adopta un enfoque diferente al permitir que las blockchains compartan su seguridad, lo que significa que la seguridad de las blockchains se agrega y se aplica a todas."
   },
   "tech.10.3": {
     "en": "By connecting to Polkadot, blockchain developers can secure their blockchain from day one.",
     "zh-cn": "通过把他们的区块链连接到Polkadot，区块链开发人员可以从最开始就保护他们的区块链。",
     "jp": "Polkadotへブロックチェーンを接続することによって開発者は最初からブロックチェーンの安全性を保つことができます。",
-    "ru": "Подключив блокчейн к Polkadot, разработчики могут защитить свой блокчейн с первого дня."
+    "ru": "Подключив блокчейн к Polkadot, разработчики могут защитить свой блокчейн с первого дня.",
+    "es": "Al conectarse a Polkadot, los desarrolladores de blockchains pueden proteger su blockchain desde el primer día."
   },
   "tech.11": {
     "en": "Transparent on-chain governance",
     "zh-cn": "高透明的链上治理",
     "jp": "透明なオンチェーンガバナンス",
-    "ru": "Ончейн управление"
+    "ru": "Ончейн управление",
+    "es": "Gobernanza transparente en la cadena"
   },
   "tech.11.1": {
     "en": "Updates to the protocol happen fork-free via transparent on-chain voting, so protocol development never stalls due to the lack of a clear process. The relay chain uses a sophisticated governance mechanism that is designed to establish a transparent, accountable and binding process for resolving disputes and upgrading the network.",
     "zh-cn": "协议的更新是通过透明的链上投票来实现的，所以协议的开发不会因为缺少一个清晰的过程而停滞。中继链使用复杂的治理机制，旨在为解决争端和升级网络建立透明、负责任和有约束力的过程。",
     "jp": "プロトコルのアップデートは透明なオンチェーン投票によってチェーンの分岐なしに行うことができます。なので、プロトコルの開発はプロセスが明確でないことによる失速が起こりえません。リレーチェーンは衝突を解決しネットワークをアップデートするために透明性が高く、ルールが守られる洗練されたガバナンスを用いています。",
-    "ru": "Обновления протокола происходят без форков посредством прозрачного ончейн голосования, поэтому разработка протокола никогда не останавливается из-за отсутствия четкого плана. Relay chain использует сложный механизм управления, предназначенный для создания прозрачного, подотчетного и обязательного процесса для разрешения споров и модернизации сети."
+    "ru": "Обновления протокола происходят без форков посредством прозрачного ончейн голосования, поэтому разработка протокола никогда не останавливается из-за отсутствия четкого плана. Relay chain использует сложный механизм управления, предназначенный для создания прозрачного, подотчетного и обязательного процесса для разрешения споров и модернизации сети.",
+    "es": "Las actualizaciones del protocolo se realizan sin bifurcaciones a través de una votación transparente en cadena, por lo que el desarrollo del protocolo nunca se detiene debido a la falta de un proceso claro. La cadena de retransmisión utiliza un sofisticado mecanismo de gobernanza diseñado para establecer un proceso transparente, responsable y vinculante para resolver disputas y mejorar la red."
   },
   "tech.11.2": {
     "en": "DOT tokens are used to participate in governance decisions, including tabling proposals, voting, and bonding.",
     "zh-cn": "DOT代币用于在参与治理决定 (包括：提交议案，投票，绑定） ",
     "jp": "DOTトークンは提案の整理、採択、投票などガバナンスの意思決定プロセスに参加することに使われます。",
-    "ru": "Токены DOT используются для участия в принятии управленческих решений, включая составление предложений, голосование и стекинг"
+    "ru": "Токены DOT используются для участия в принятии управленческих решений, включая составление предложений, голосование и стекинг",
+    "es": "Los tokens DOT se utilizan para participar en las decisiones de gobierno, incluyendo la presentación de propuestas, la votación y la creación de vínculos."
   },
   "tech.11.3": {
     "en": "Parachains are free to design their own governance mechanisms, allowing for maximum freedom without affecting other parachains.",
     "zh-cn": "平行链可以有自由设计它们自己的治理机制， 在不影响其它平行链情况下实现最大自由。",
     "jp": "パラチェーンでは、独自のガバナンスメカニズムを設計し他のパラチェーンに影響を与えることなく自由を最大化することを可能にするよう設計されています。",
-    "ru": "Parachain легко могут создавать свои собственные механизмы управления, обеспечивая максимальную свободу, не влияя на другие parachain."
+    "ru": "Parachain легко могут создавать свои собственные механизмы управления, обеспечивая максимальную свободу, не влияя на другие parachain.",
+    "es": "Las parachains son libres de diseñar sus propios mecanismos de gobierno, permitiendo la máxima libertad sin afectar a otras parachains."
   },
   "tech.11.4": {
     "en": "Learn more about Polkadot’s governance",
     "zh-cn": "了解更多关于Polkadot治理",
     "jp": "Polkadotのガバナンスについては、こちらをご覧ください",
-    "ru": "Узнайте больше об управлении Polkadot"
+    "ru": "Узнайте больше об управлении Polkadot",
+    "es": "Más información sobre la gobernanza de Polkadot"
   },
   "tech.12": {
     "en": "GRANDPA: a trustworthy consensus algorithm",
     "zh-cn": "GRANDPA:一个值得信赖的共识算法。",
     "jp": "GRANDPA: 信頼に足るコンセンサスアルゴリズム",
-    "ru": "GRANDPA: надёжный алгоритм консенсуса"
+    "ru": "GRANDPA: надёжный алгоритм консенсуса",
+    "es": "GRANDPA: un algoritmo de consenso de confianza"
   },
   "tech.12.1": {
     "en": "Polkadot uses its original GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) consensus for a more secure and resilient network.",
     "zh-cn": "Polkadot使用其原始的GRANDPA（基于GHOST的Recursive Ancestor Deriving Prefix Agreement）共识来建立一个更安全，更有弹性的网络。",
     "jp": "Polkaodtは最も安全で耐性に強いネットワークを築く為に、GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) コンセンサスを使っています。",
-    "ru": "Polkadot использует GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement), безопасный и отказоустойчивый алгоритм консенсуса."
+    "ru": "Polkadot использует GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement), безопасный и отказоустойчивый алгоритм консенсуса.",
+    "es": "Polkadot utiliza su consenso original GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement) para lograr una red más segura y resistente."
   },
   "tech.12.2": {
     "en": "Under good network conditions, GRANDPA can finalize blocks nearly instantly. Under bad network conditions, like a network partition, GRANDPA can finalize large quantities of blocks (theoretically millions) at once when the partitions resolve.",
     "zh-cn": "在良好的网络条件下，GRANDPA几乎可以瞬间完成分块。在糟糕的网络条件下，比如网络分区，GRANDPA可以在分区解析时一次性完成大量的块(理论上是数百万个)。",
     "jp": "優れたネットワーク条件の下では、GRANDPAは、ほぼ瞬時にブロックを確定することができます。ネットワークの分離など悪いネットワーク環境下でも、一度問題が解決すれば一気に大量のブロック（理論的には数百）を確定することができます。",
-    "ru": "При хороших условиях сети GRANDPA может финализировать блоки почти мгновенно. При хороших условиях сети, дедушка может завершить блоки почти мгновенно. В плохих сетевых условиях, таких как разделение в сети, GRANDPA может финализировать большое количество блоков (теоретически миллионы)."
+    "ru": "При хороших условиях сети GRANDPA может финализировать блоки почти мгновенно. При хороших условиях сети, дедушка может завершить блоки почти мгновенно. В плохих сетевых условиях, таких как разделение в сети, GRANDPA может финализировать большое количество блоков (теоретически миллионы).",
+    "es": "Bajo buenas condiciones de red, GRANDPA puede finalizar bloques casi instantáneamente. Bajo malas condiciones de red, como una división de red, GRANDPA puede finalizar grandes cantidades de bloques (teóricamente millones) a la vez cuando las divisiones se resuelven."
   },
   "tech.12.3": {
     "en": "Learn more about GRANDPA.",
     "zh-cn": "了解更多关于GRANDPA.",
     "jp": "GRANDPAの詳細については、こちらをご覧ください",
-    "ru": "Узнайте больше о GRANDPA"
+    "ru": "Узнайте больше о GRANDPA",
+    "es": "Aprenda más sobre GRANDPA."
   },
   "tech.13": {
     "en": "Roadmap",
     "zh-cn": "路线图",
     "jp": "ロードマップ",
-    "ru": "Roadmap"
+    "ru": "Roadmap",
+    "es": "Roadmap"
   },
   "tech.13.text": {
     "en": "Polkadot development is on track to deliver the most robust platform for interoperability, security, scalability, and innovation. Polkadot is aiming to launch the genesis block by the end of 2019 with one relay chain and several parachains. Thereafter the network will ramp up to about 100 parachains.",
     "zh-cn": "Polkadot开发的愿景是为互操作性，安全性，可扩展性和创新提供最强大的平台。 Polkadot的目标是在2019年底之前发布一条中继链和几条平行链以启动创世块。此后，网络将增加到大约100条平行链。",
     "jp": "Polkadotの開発は、インターオペラビリティ、セキュリティ、スケーラビリティ、そしてイノベイションのための最も堅牢なプラットフォームを提供するための軌道に乗っています。Polkadotは2019年の終わりに1つのリレーチェーンと複数のパラチェーンと共にジェネシスブロックをローンチすることを目指しています。その後にネットワークは約100のパラチェーンが段階的につながっていきます。",
-    "ru": "Самая надежная платформа для взаимодействия, безопасности, масштабируемости и инноваций. Polkadot v1 выйдет в конце 2019 года. V1 будет одной связующей цепью (relay chain), поддерживающей до 100 парачейнов. В 2020 году Polkadot v2 вырастет до нескольких ретрансляционных цепочек, в которых будет размещено ~ 100 парачейнов"
+    "ru": "Самая надежная платформа для взаимодействия, безопасности, масштабируемости и инноваций. Polkadot v1 выйдет в конце 2019 года. V1 будет одной связующей цепью (relay chain), поддерживающей до 100 парачейнов. В 2020 году Polkadot v2 вырастет до нескольких ретрансляционных цепочек, в которых будет размещено ~ 100 парачейнов",
+    "es": "El desarrollo de Polkadot va por buen camino para ofrecer la plataforma más robusta de interoperabilidad, seguridad, escalabilidad e innovación. Polkadot tiene como objetivo lanzar el bloque génesis a finales de 2019 con una relay chain y varios parachains. A partir de entonces, la red se ampliará a unos 100 parachains."
   },
   "tech.13.1.1": {
     "en": "2018, June"
@@ -2963,25 +3041,29 @@
     "en": "What are teams building on Polkadot? Just a few examples:",
     "zh-cn": "有那些团队在Polkadot上建立？以下有几个例子： ",
     "jp": "Polkadotの上に構築しているチームを見ませんか？いくつかの例：",
-    "ru": "Как строятся команды на Polkadot? Всего несколько примеров:"
+    "ru": "Как строятся команды на Polkadot? Всего несколько примеров:",
+    "es": "¿Qué están desarrollando los equipos sobre Polkadot? Algunos ejemplos:"
   },
   "tech.14.1": {
     "en": "<strong>Smart contract chains</strong> with WebAssembly smart contracts ({{edgeware_link}}, {{cct_link}})",
     "zh-cn": "利用WebAssembly的智能合约链 ({{edgeware_link}}，{{cct_link}}） ",
     "jp": "WebAssemblyのスマートコントラクトを動かすスマートコントラクトチェーン（{{edgeware_link}}、{{cct_link}} テストネット）",
-    "ru": "Цепочки смарт контрактов с смарт контрактами WebAssembly ({{edgeware_link}}, тестовая сеть {{cct_link}})"
+    "ru": "Цепочки смарт контрактов с смарт контрактами WebAssembly ({{edgeware_link}}, тестовая сеть {{cct_link}})",
+    "es": "<strong>Smart contract chains</strong> con WebAssembly smart contracts ({{edgeware_link}}, {{cct_link}})"
   },
   "tech.14.2": {
     "en": "<strong>Data curation networks</strong> that connect all file storage chains into curated data sets ({{ocean_link}})",
     "zh-cn": "将所有文件存储链连接到托管数据集的数据管理网络({{ocean_link}})",
     "jp": "全てのファイルストレージチェーンをキュレーションされたデータセットに繋げるデータキュレーションネットワーク（{{ocean_link}}）",
-    "ru": "Сети курирования данных, которые соединяют все цепочки хранения файлов в кураторские наборы данных ({{ocean_link}})"
+    "ru": "Сети курирования данных, которые соединяют все цепочки хранения файлов в кураторские наборы данных ({{ocean_link}})",
+    "es": "<strong>Redes de custodia de datos</strong> que conectan todas las cadenas de almacenamiento de archivos en conjuntos de datos protegidos ({{ocean_link}})"
   },
   "tech.14.3": {
     "en": "<strong>Oracle chains</strong> that make off-chain data available to all contracts on the Polkadot network ({{chainlink_link}})",
     "zh-cn": "预言机链，可以为Polkadot网络上的所有合约提供链下数据（{{chainlink_link}}）",
     "jp": "Polkadotネットワーク内でオフチェーンの情報を使用可能にするオラクルチェーン（{{chainlink_link}}）",
-    "ru": "Цепочки Oracle, которые делают данные вне цепочки доступными для всех контрактов в сети Polkadot ({{chainlink_link}})"
+    "ru": "Цепочки Oracle, которые делают данные вне цепочки доступными для всех контрактов в сети Polkadot ({{chainlink_link}})",
+    "es": "<strong>Cadenas oráculo</strong> que ponen los datos fuera de la cadena a disposición de todos los contratos de la red Polkadot ({{chainlink_link}})"
   },
   "tech.14.4": {
     "en": "<strong>Identity chains</strong> that link accounts to a persistent identity and enable access to other parachains through fewer accounts ({{speckle_link}})",
@@ -2993,19 +3075,22 @@
     "en": "<strong>Financial chains</strong> that allow you to hold all your assets in one portfolio, including via bridges to Bitcoin, Ethereum, Bitcoin Cash, Litecoin and ZCash ({{chainx_link}}, {{katallassos_link}})",
     "zh-cn": "允许您将所有资产保存在一个投资组合中的金融链，包括通过桥接的比特币，以太坊，比特币现金，莱特币和ZCash（{{chainx_link}}，{{katallassos_link}}）的桥梁",
     "jp": "Bitcoin, Ethereum, Bitcoin Cash, Litecoin, Zcashなどのブリッジを通して全てのポートフォリオのアセットを1つのチェーンで管理することを可能にするフィナンシャルチェーン。（{{chainx_link}}, {{katallassos_link}}）",
-    "ru": "Финансовые цепочки, которые позволяют вам хранить все ваши активы в одном портфеле, в том числе через мосты к Bitcoin, Ethereum, Bitcoin Cash, Litecoin и ZCash ({{chainx_link}}, {{katallassos_link}})"
+    "ru": "Финансовые цепочки, которые позволяют вам хранить все ваши активы в одном портфеле, в том числе через мосты к Bitcoin, Ethereum, Bitcoin Cash, Litecoin и ZCash ({{chainx_link}}, {{katallassos_link}})",
+    "es": "<strong>Cadenas financieras</strong> que le permiten mantener todos sus activos en una cartera, incluso a través de puentes a Bitcoin, Ethereum, Bitcoin Cash, Litecoin y ZCash. ({{chainx_link}}, {{katallassos_link}})"
   },
   "tech.14.6": {
     "en": "<strong>Internet of Things chains</strong> that set IoT standards for machine-to-machine communication ({{mxc_link}})",
     "zh-cn": "物联网链为机器对机器通信设定物联网标准（{{mxc_link}}协议）",
     "jp": "マシン・ツー・マシン通信のためのIoT基準を規定するInternet of Thingsチェーン（{{mxc_link}}プロトコル）",
-    "ru": "Цепочки IoT, которые устанавливают стандарты IoT для межмашинной связи (протокол {{mxc_link}})"
+    "ru": "Цепочки IoT, которые устанавливают стандарты IoT для межмашинной связи (протокол {{mxc_link}})",
+    "es": "<strong>Cadenas IOT</strong> que establecen los estándares de la IOT para la comunicación máquina a máquina ({{mxc_link}})"
   },
   "tech.14.7": {
     "en": "<strong>Zero Knowledge</strong> privacy chains, or bridges to existing ZK-snarks chains (e.g. Zerochain)",
     "zh-cn": "零知识隐私链或连接到现有ZK-snarks链 ",
     "jp": "ゼロ知識証明または既存のZK-snarksチェーンにブリッジするチェーン（Zerochain）",
-    "ru": "Цепочки конфиденциальности Zero Knowledge или мосты к существующим цепям ZK-snarks"
+    "ru": "Цепочки конфиденциальности Zero Knowledge или мосты к существующим цепям ZK-snarks",
+    "es": "<strong>Zero Knowledge</strong> cadenas de privacidad, o puentes a cadenas existentes de ZK-snarks (por ejemplo, Zerochain)"
   },
   "tech.14.8": {
     "en": "<strong>File storage chains</strong> that incentivize storing data on-chain",
