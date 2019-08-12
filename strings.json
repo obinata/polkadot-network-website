@@ -3096,7 +3096,8 @@
     "en": "<strong>File storage chains</strong> that incentivize storing data on-chain",
     "zh-cn": "文件存储链，激励在链上存储数据",
     "jp": "オンチェーンに情報を保存するインセンティブのあるファイルストレージチェーン",
-    "ru": "Цепочки хранения файлов, стимулирующие хранение данных в цепочке"
+    "ru": "Цепочки хранения файлов, стимулирующие хранение данных в цепочке",
+    "es": ""
   },
   "tech.14.9": {
     "en": "<strong>Payments chains</strong> with lightning-fast transactions ({{blink_link}})",
