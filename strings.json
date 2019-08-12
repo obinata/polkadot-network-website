@@ -965,13 +965,16 @@
     "ru": "Polkadot"
   },
   "community.section1.5": {
-    "en": "Get testnet DOTS to stake by requesting them in the {{chat_link}}",
+    "en": "Get testnet DOTS to stake by requesting them in the {{chat_link}}, or you can get some via the {{faucet_link}}",
     "zh-cn": "通过在Polkadot聊天中请求测试网DOTs来设置权益。",
     "jp": "Polkadotチャットでテストネット DOTsを取得することができます。",
-    "ru": "Получите DOTS testnet, чтобы сделать ставку, отправив запрос в чате Polkadot"
+    "ru": "Получите DOTS testnet, чтобы сделать ставку, отправив запрос в {{chat_link}} или через {{faucet_link}}"
   },
   "community.section1.5.chat_link": {
     "en": "Polkadot chat"
+  },
+  "community.section1.5.faucet_link": {
+    "en": "Polkadot faucet"
   },
   "community.section1.6": {
     "en": "If you don’t want to run a node, you can still interact with the network by using {{explorer_link}}",
