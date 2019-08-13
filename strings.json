@@ -3097,29 +3097,33 @@
     "zh-cn": "文件存储链，激励在链上存储数据",
     "jp": "オンチェーンに情報を保存するインセンティブのあるファイルストレージチェーン",
     "ru": "Цепочки хранения файлов, стимулирующие хранение данных в цепочке",
-    "es": ""
+    "es": "<strong>Cadenas de almacenamiento de archivos</strong> que incentivan el almacenamiento de datos en cadena"
   },
   "tech.14.9": {
     "en": "<strong>Payments chains</strong> with lightning-fast transactions ({{blink_link}})",
     "zh-cn": "具有闪电般快速交易的支付链（{{blink_link}}）",
     "jp": "超高速取引（{{blink_link}}）での決済用チェーン",
-    "ru": "Платежные цепочки с молниеносными транзакциями ({{blink_link}})"
+    "ru": "Платежные цепочки с молниеносными транзакциями ({{blink_link}})",
+    "es": "<strong>Cadenas de pagos</strong> con transacciones rápidas ({{blink_link}})"
   },
   "tech.14.10": {
     "en": "<strong>Bridge to Ethereum</strong>, allowing Ethereum smart contracts to interact with the Polkadot network",
     "zh-cn": "桥接以太坊，允许以太坊智能合约与Polkadot网络互动",
     "jp": "Ethereumとのブリッジ。EthereumのスマートコントラクトがPolkadotネットワークとやり取りを行なえます。",
-    "ru": "Мост к Ethereum, позволяющий смарт контрактам Ethereum взаимодействовать с сетью Polkadot"
+    "ru": "Мост к Ethereum, позволяющий смарт контрактам Ethereum взаимодействовать с сетью Polkadot",
+    "es": "<strong>Puente con Ethereum</strong>, permitiendo que los contratos inteligentes de Ethereum interactúen con la red de Polkadot"
   },
   "tech.get_started": {
     "en": "Want to get started?",
     "ru": "Хотите начать?",
-    "zh-cn": "想立即开始?"
+    "zh-cn": "想立即开始?",
+    "es": "¿Desea comenzar?"
   },
   "tech.build": {
     "en": "Build on Polkadot",
     "ru": "Разрабатывать на Polkadot",
-    "zh-cn": "在Polkadot上建立"
+    "zh-cn": "在Polkadot上建立",
+    "es": "Desarrollado en Polkadot"
   },
   "tnd.meta.title": {
     "en": "Testnet Disclaimer | Polkadot"
@@ -3155,110 +3159,137 @@
   },
   "faq.disclaimer.1": {
     "en": "Polkadot is a work in progress. The following FAQs will continue to be updated as the Polkadot platform evolves. The exact structures and technologies to be included at genesis are not finalized and are liable to change with continued research.",
-    "zh-cn": "Polkadot是一个尚在开发中的项目。下面的常见问题将随着Polkadot的 平台的进化不断更新。主网上线时使用的最终的结构和技术还有待确 认，在持续研发中可能会有改动。"
+    "zh-cn": "Polkadot是一个尚在开发中的项目。下面的常见问题将随着Polkadot的 平台的进化不断更新。主网上线时使用的最终的结构和技术还有待确 认，在持续研发中可能会有改动。",
+    "es": "Polkadot es un proyecto en curso. Las siguientes preguntas frecuentes se irán actualizando a medida que evolucione la plataforma Polkadot. Las estructuras y tecnologías exactas que se incluirán en el génesis no están finalizadas y pueden cambiar con la investigación continua."
   },
   "faq.disclaimer.2": {
     "en": "Warning: DOT tokens are not transferrable until mainnet launch, expected late 2019. Therefore any transfers of DOTs are illegitimate and unauthorized. DOTs can not be moved from a current allocation address. Individuals with an allocation of DOTs who transfer their DOT address to someone else can always keep a copy of their private key, therefore there is extreme risk for individuals participating in transfers of DOTs before mainnet launch.",
-    "zh-cn": "警告：DOT代币在预期于2019年底的主网上线之前无法转账。 因此任何DOT的转让都是未授权而非法的。DOT无法从现有的地址转移。 现在被分配到额度的个体即使在转让了拥有DOT的地址之后仍然拥有私钥， 因此在主网上线前参与DOT的转让存在极大的风险。"
+    "zh-cn": "警告：DOT代币在预期于2019年底的主网上线之前无法转账。 因此任何DOT的转让都是未授权而非法的。DOT无法从现有的地址转移。 现在被分配到额度的个体即使在转让了拥有DOT的地址之后仍然拥有私钥， 因此在主网上线前参与DOT的转让存在极大的风险。",
+    "es": "Advertencia: Los tokens DOT no son transferibles hasta el lanzamiento de la mainnet, prevista para finales de 2019. Por lo tanto, cualquier transferencia de DOTs es ilegítima y no autorizada. Los DOTs no pueden ser movidos de una dirección de asignación actual. Las personas con una asignación de DOT que transfieren su dirección DOT a otra persona siempre pueden conservar una copia de su clave privada, por lo que existe un riesgo extremo para las personas que participan en transferencias de DOT antes de la puesta en marcha de la mainnet."
   },
   "faq.1": {
     "en": "Technology",
-    "zh-cn": "技术"
+    "zh-cn": "技术",
+    "es": "Tecnología"
   },
   "faq.2": {
     "en": "What is Polkadot?",
-    "zh-cn": "Polkadot是什么？"
+    "zh-cn": "Polkadot是什么？",
+    "es": "¿Qué es Polkadot?"
   },
   "faq.3": {
     "en": "Polkadot is a platform that allows diverse blockchains to transfer messages, including value, in a trust-free fashion; sharing their unique features while pooling their security. In brief, Polkadot is a scalable, heterogeneous, multi-chain technology.",
-    "zh-cn": "Polkadot是一个允许区块链之间以无需信任的方式传递消息和价值的 平台，不同区块链间共享他们不同的特征同时共享安全性。 简单的说，Polkadot是一个可扩展的，异构多链技术。"
+    "zh-cn": "Polkadot是一个允许区块链之间以无需信任的方式传递消息和价值的 平台，不同区块链间共享他们不同的特征同时共享安全性。 简单的说，Polkadot是一个可扩展的，异构多链技术。",
+    "es": "Polkadot es una plataforma que permite a las diversas blockchains transferir mensajes, incluyendo valor, de una manera libre de confianza; compartiendo sus características únicas mientras comparten su seguridad. En resumen, Polkadot es una tecnología escalable, heterogénea y multi-cadena."
   },
   "faq.4": {
     "en": "Polkadot is heterogeneous because it is entirely flexible and makes no assumptions about the nature or structure of the chains in the network. Even non-blockchain systems or data structures can become parachains if they fulfill a set of criteria.",
-    "zh-cn": "Polkadot是异构的，因为它非常灵活，包容网络里的各种类型的链。 即使非区块链系统或者数据结构只要满足一组条件，他们也可以成为平行链。"
+    "zh-cn": "Polkadot是异构的，因为它非常灵活，包容网络里的各种类型的链。 即使非区块链系统或者数据结构只要满足一组条件，他们也可以成为平行链。",
+    "es": "Polkadot es heterogéneo porque es totalmente flexible y no hace suposiciones sobre la naturaleza o estructura de las cadenas de la red. Incluso los sistemas o estructuras de datos que no son de blockchains pueden convertirse en parachains si cumplen una serie de criterios."
   },
   "faq.5": {
     "en": "Polkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.",
-    "zh-cn": "Polkadot也许可以等同一组独立的链（比如一组包括以太坊，以太坊经典， 域名币，比特币）但加入了一个重要的功能：合并的安全性和无需信 任的跨链交易能力。"
+    "zh-cn": "Polkadot也许可以等同一组独立的链（比如一组包括以太坊，以太坊经典， 域名币，比特币）但加入了一个重要的功能：合并的安全性和无需信 任的跨链交易能力。",
+    "es": "Polkadot puede considerarse el equivalente a un conjunto de cadenas independientes (por ejemplo, un conjunto que contenga Ethereum, Ethereum Classic, Namecoin y Bitcoin), excepto con adiciones importantes: seguridad compartida y trazabilidad entre cadenas sin confianza."
   },
   "faq.6": {
     "en": "Unlike previous blockchain implementations that provide a single chain of varying degrees of generality, Polkadot provides a Relay Chain upon which a large number of verifiable data structures may be hosted. We call these data-structures “parallelized” chains or parachains. Polkadot provides a networking and consensus layer that allows blockchain developers to focus on creating a state machine with unique features, such as formal verification or anonymity.",
-    "zh-cn": "与之前提供不同通用性的单链区块链实现不同，Polkadot提供一条中继链， 可以托管多种不同的数据结构。我们称这种数据结构并行链或平行链。 Polkadot提供网络和共识层，允许区块链开发者专注于创建特色功能， 比如形式化验证和匿名。"
+    "zh-cn": "与之前提供不同通用性的单链区块链实现不同，Polkadot提供一条中继链， 可以托管多种不同的数据结构。我们称这种数据结构并行链或平行链。 Polkadot提供网络和共识层，允许区块链开发者专注于创建特色功能， 比如形式化验证和匿名。",
+    "es": "A diferencia de las implementaciones anteriores de blockchains que proporcionan una sola cadena de diferentes grados de generalidad, Polkadot proporciona una Relay chain en la que se puede alojar un gran número de estructuras de datos verificables. A estas estructuras de datos las llamamos cadenas o parachains “paralelizadas“. Polkadot proporciona una capa de red y consenso que permite a los desarrolladores de blockchains centrarse en la creación de una máquina de estado con características únicas, como la verificación formal o el anonimato."
   },
   "faq.7": {
     "en": "Polkadot consists of many parachains with potentially differing characteristics. Transactions can be spread out across the chains, allowing many more transactions to be processed in the same period of time. Polkadot ensures that the security of all blockchains in the network is robust and that any dealings between them are faithfully executed. All parachains share security and state, meaning if one chain has a message reverted, all chains get reverted. It is also possible for independent chains with their own validators to be linked to Polkadot via bridges, thereby foregoing Polkadot’s shared state and security system. These chains can benefit from Polkadot’s interoperability without being hosted on the platform, examples of these would be Bitcoin and Ethereum.",
-    "zh-cn": "Pokadot由许多具有潜在差异化特性的平行链组成。交易可以分散在各条链上， 允许在同样的时间内处理更多的交易。Polkadot保证所有网络内的区块链的安全， 他们之间的协议也得到忠实的执行。所有的平行链共享安全性和状态， 这意味着当在一条链上回滚了某个消息，所有的链都会回滚。 同时其他拥有自己验证节点的独立的链也可以通过桥连接到Polkadot上，从而使Polkadot的共享状态和安全系统得以实现。 这些链可以受益于Polkadot的互操作性，而不需要托管在平台上，例如比特币和以太坊。"
+    "zh-cn": "Pokadot由许多具有潜在差异化特性的平行链组成。交易可以分散在各条链上， 允许在同样的时间内处理更多的交易。Polkadot保证所有网络内的区块链的安全， 他们之间的协议也得到忠实的执行。所有的平行链共享安全性和状态， 这意味着当在一条链上回滚了某个消息，所有的链都会回滚。 同时其他拥有自己验证节点的独立的链也可以通过桥连接到Polkadot上，从而使Polkadot的共享状态和安全系统得以实现。 这些链可以受益于Polkadot的互操作性，而不需要托管在平台上，例如比特币和以太坊。",
+    "es": "Polkadot se compone de muchas parachains con características potencialmente diferentes. Las transacciones se pueden distribuir a lo largo de las cadenas, lo que permite que se procesen muchas más transacciones en el mismo período de tiempo. Polkadot garantiza que la seguridad de todas las blockchains de la red es robusta y que todas las transacciones entre ellas se ejecutan fielmente. Todas las parachains comparten seguridad y estado, lo que significa que si una cadena tiene un mensaje revertido, todas las cadenas se revertirán. También es posible que cadenas independientes con sus propios validadores se conecten a Polkadot a través de puentes, renunciando así al sistema compartido de estado y seguridad de Polkadot. Estas cadenas pueden beneficiarse de la interoperabilidad de Polkadot sin estar alojadas en la plataforma, como por ejemplo Bitcoin y Ethereum."
   },
   "faq.8": {
     "en": "Why do we need Polkadot?",
-    "zh-cn": "为什么我们需要Polkadot？"
+    "zh-cn": "为什么我们需要Polkadot？",
+    "es": "¿Por qué necesitamos Polkadot?"
   },
   "faq.9": {
     "en": "Polkadot makes blockchain experimentation possible in the same way Ethereum made decentralised application (DApp) experimentation possible. Polkadot is designed to facilitate faster innovation cycles, particularly when experimenting with new state transition functions. There are many trade-offs to consider when building a blockchain, and it’s clear from the number and diversity of the various Web3 projects that nobody has a framework that ecompasses all chains. Polkadot is a vehicle that can get us to a general framework faster.",
-    "zh-cn": "Polkadot让区块链实验变为可能，就像以太坊让去中心应用的实验变为可能一样。 Polkadot的设计目标是加速创新周期，特别是实验新的状态转移功能。 考虑搭建一条区块链时要做很多协调，从数量繁多并多种多样的Web3项目 中很明显可以看出，任何人都没有一个囊括所有链的架构。Polkadot将让 我们更快的过渡到一个一般性的架构。"
+    "zh-cn": "Polkadot让区块链实验变为可能，就像以太坊让去中心应用的实验变为可能一样。 Polkadot的设计目标是加速创新周期，特别是实验新的状态转移功能。 考虑搭建一条区块链时要做很多协调，从数量繁多并多种多样的Web3项目 中很明显可以看出，任何人都没有一个囊括所有链的架构。Polkadot将让 我们更快的过渡到一个一般性的架构。",
+    "es":"Polkadot hace posible la experimentación con blockchains de la misma manera que Ethereum hizo posible la experimentación con aplicaciones descentralizadas (DApps). Polkadot está diseñado para facilitar ciclos de innovación más rápidos, especialmente cuando se experimenta con nuevas funciones de transición de estado. Hay muchas ventajas y desventajas a considerar cuando se construye una blockchain, y está claro por el número y la diversidad de los diversos proyectos de Web3 que nadie tiene un marco que supere todas las cadenas. Polkadot es un vehículo que puede llevarnos a un marco general más rápido."
   },
   "faq.10": {
     "en": "A primary use case for Polkadot is enabling interoperability between chains, regardless of their features or their status as a private or public chain. Interoperability lets diverse chains perform arbitrary messaging, including value. This interconnectivity could encompass privacy-oriented projects, forks, permissioned chains and more. Polkadot allows all parties to take public and private chains and \"plug them in\" to a shared connectivity layer. Chains can choose to maintain their own validator set or utilize Polkadot’s pooled security system to verify their transactions via the Relay Chain. With Polkadot the features of one chain can be leveraged on another. In other words, where there is innovation for one, there is innovation for all.",
-    "zh-cn": "Polkadot一个主要的应用是实现链之间的交互，而不必考虑他们的特征或 是私链还是公链。交互性让多类型的链之间随意交流，包括价值交流。 这种交互性可以包括隐私导向的项目，分叉链，需授权链等等。Polkadot 让任何人都能够把公链或私链接入一个共享的连接层。接入的链可以 保持自己的验证节点或者使用Polkadot提供的中继链共享安全体系来验证交易。Polkadot可以让一条链的特性被另一条所利用。 换句话说，一条链上的创新，让所有链都受益。"
+    "zh-cn": "Polkadot一个主要的应用是实现链之间的交互，而不必考虑他们的特征或 是私链还是公链。交互性让多类型的链之间随意交流，包括价值交流。 这种交互性可以包括隐私导向的项目，分叉链，需授权链等等。Polkadot 让任何人都能够把公链或私链接入一个共享的连接层。接入的链可以 保持自己的验证节点或者使用Polkadot提供的中继链共享安全体系来验证交易。Polkadot可以让一条链的特性被另一条所利用。 换句话说，一条链上的创新，让所有链都受益。",
+    "es": "Un caso de uso principal para Polkadot es permitir la interoperabilidad entre las cadenas, independientemente de sus características o de su condición de cadena pública o privada. La interoperabilidad permite que diversas cadenas realicen mensajes arbitrarios, incluido el valor. Esta interconectividad podría abarcar proyectos orientados a la privacidad, bifurcaciones, cadenas autorizadas y más. Polkadot permite a todas las partes tomar cadenas públicas y privadas y \"conectarlas\" a una capa de conectividad compartida. Las cadenas pueden elegir entre mantener su propio conjunto de validadores o utilizar el sistema de seguridad común de Polkadot para verificar sus transacciones a través de la relay chain. Con Polkadot las características de una cadena se pueden aprovechar en otra. En otras palabras, cuando hay innovación para uno, hay innovación para todos."
   },
   "faq.11": {
     "en": "How many chains can Polkadot connect?",
-    "zh-cn": "Polkadot可以接入多少链？"
+    "zh-cn": "Polkadot可以接入多少链？",
+    "es": "¿Cuántas cadenas puede conectar Polkadot?"
   },
   "faq.12": {
     "en": "There is no specific limit to the number of chains that can be connected to the Polkadot network, which is scalable by design. Initial predictions suggest the basic Polkadot design will be able to handle at least dozens and perhaps hundreds of parachains. There are also paths to more enhanced models. For example, there is no reason why Polkadot cannot be composed in a recursive fashion, making some of the chains that Polkadot connects be themselves \"mini Polkadots.\" Should this be introduced, it is difficult to imagine an upper limit on the number of chains it could connect and thus the number of transactions it could process.",
-    "zh-cn": "Polkadot网络对可接入的链没有一个特别的限制，而是设计为可扩展的。 最初的预测表明，基本的Polkadot设计可以处理至少几十条甚至可能几百条平行链。 其他设计可以支持加强的模型。比如Polkadot可以设计为递归的模式， 把链接到Polkadot上的链变为迷你Polkadot。这种模式一旦引入， 无法想象Polkadot上连接的链的上限，可以处理的交易数也是如此。"
+    "zh-cn": "Polkadot网络对可接入的链没有一个特别的限制，而是设计为可扩展的。 最初的预测表明，基本的Polkadot设计可以处理至少几十条甚至可能几百条平行链。 其他设计可以支持加强的模型。比如Polkadot可以设计为递归的模式， 把链接到Polkadot上的链变为迷你Polkadot。这种模式一旦引入， 无法想象Polkadot上连接的链的上限，可以处理的交易数也是如此。",
+    "es": "No hay un límite específico en el número de cadenas que pueden conectarse a la red Polkadot, que es escalable por diseño. Las predicciones iniciales sugieren que el diseño básico de Polkadot será capaz de manejar al menos docenas y quizás cientos de parachains. También hay rutas para modelos más avanzados. Por ejemplo, no hay razón por la que Polkadot no pueda ser compuesta de forma recursiva, haciendo que algunas de las cadenas que Polkadot conecta sean ellas mismas. Si esto se introdujera, es difícil imaginar un límite máximo en el número de cadenas que podría conectar y, por lo tanto, en el número de transacciones que podría procesar."
   },
   "faq.13": {
     "en": "Can Polkadot connect any blockchain?",
-    "zh-cn": "Polkadot可以连接现存的区块链吗？"
+    "zh-cn": "Polkadot可以连接现存的区块链吗？",
+    "es": "¿Puede Polkadot conectar cualquier blockchain?"
   },
   "faq.14": {
     "en": "Polkadot can connect any previously existing blockchain if it matches two criteria:",
-    "zh-cn": "Polkadot可以连接现存的区块链，只要满足以下两个条件"
+    "zh-cn": "Polkadot可以连接现存的区块链，只要满足以下两个条件",
+    "es": "Polkadot puede conectar cualquier blockchain previamente existente si cumple dos criterios:"
   },
   "faq.15": {
     "en": "It must have the ability to form compact and fast light-client proofs over the finality and validity of its blocks and state change information (this would include new UTXOs in a Bitcoin-like chain or logs in an Ethereum-like chain).",
-    "zh-cn": "必须能够对区块和状态变化信息的确定性和合法性形成简短而快速的 轻客户端证明（这包括在类似比特币链中的新UTXO和以太坊类似链中的日志）。"
+    "zh-cn": "必须能够对区块和状态变化信息的确定性和合法性形成简短而快速的 轻客户端证明（这包括在类似比特币链中的新UTXO和以太坊类似链中的日志）。",
+    "es": "Debe tener la capacidad de formar pruebas de clientes ligeros, compactas y rápidas sobre la finalidad y validez de sus bloques e información de cambio de estado (esto incluiría nuevos UTXOs en una cadena tipo Bitcoin o logs en una cadena tipo Ethereum)."
   },
   "faq.16": {
     "en": "There must be a means by which a large set of independent authorities (perhaps up to one thousand) can authorise a transaction. This could include recognition of threshold signatures, such as the Schnorr scheme, or a smart contract able to structure logic against a multi-signature condition.",
-    "zh-cn": "必须有某种方式让一组的独立机构（不超过1000）可以授权交易。 这可以包括阀值签名，比如Shnorr方案，或者针对多签条件的构造逻辑的智能合约。"
+    "zh-cn": "必须有某种方式让一组的独立机构（不超过1000）可以授权交易。 这可以包括阀值签名，比如Shnorr方案，或者针对多签条件的构造逻辑的智能合约。",
+    "es": "Debe haber un medio por el cual un gran número de autoridades independientes (quizás hasta mil) puedan autorizar una transacción. Esto podría incluir el reconocimiento de firmas de umbral, como el esquema Schnorr, o un contrato inteligente capaz de estructurar la lógica contra una condición de múltiples firmas."
   },
   "faq.17": {
     "en": "Bitcoin and Bitcoin-like chains fall short on these characteristics. To address the first criteria, Polkadot validators can simply run a full Bitcoin node. To address the second criteria, either a soft-fork allowing extra-protocol controls over funds or a hard-fork enabling a threshold-signature-friendly signing scheme such as Schnorr is needed. Neither are impossible goals, however a significant degree coordination would be required to achieve them.",
-    "zh-cn": "比特币和类似比特币的链都无法达到这些特性。为了满足第一个要求， Polkadot的验证节点可以简单的运行一个比特币全节点。为了满足第二个要求， 需要一个软分叉来实现更多协议中对资金的控制的功能，或者硬分叉来 加入允许阀值签名的签名方案比如Schnorr。这两者都不是不可能实现的目标，然而需要大量的组合来实现。"
+    "zh-cn": "比特币和类似比特币的链都无法达到这些特性。为了满足第一个要求， Polkadot的验证节点可以简单的运行一个比特币全节点。为了满足第二个要求， 需要一个软分叉来实现更多协议中对资金的控制的功能，或者硬分叉来 加入允许阀值签名的签名方案比如Schnorr。这两者都不是不可能实现的目标，然而需要大量的组合来实现。",
+    "es": "Las cadenas tipo Bitcoin se quedan cortas en estas características. Para cumplir con los primeros criterios, los validadores de Polkadot pueden simplemente ejecutar un nodo Bitcoin completo. Para abordar el segundo criterio, se necesita un software que permita controles extra de protocolo sobre los fondos o un hardware que permita un esquema de firma de umbral fácil de firmar como el de Schnorr. Ninguno de los dos son objetivos imposibles, sin embargo, se requeriría un grado significativo de coordinación para alcanzarlos."
   },
   "faq.18": {
     "en": "Ethereum conforms to these characteristics, particularly after the Metropolis protocol update, and therefore integration should be possible.",
-    "zh-cn": "以太坊符合这些要求，特别是大都会协议升级后，因此集成应该是可能的。"
+    "zh-cn": "以太坊符合这些要求，特别是大都会协议升级后，因此集成应该是可能的。",
+    "es": "Ethereum se ajusta a estas características, especialmente después de la actualización del protocolo de Metropolis, por lo que la integración debería ser posible."
   },
   "faq.19": {
     "en": "Private \"proof-of-authority\" (PoA) chains generally fulfill the first characteristic, since authorities attest to the validity of blocks, and the proof-of-validity attestation is little more than checking signatures. The second is possible Ethereum-like chains that have either smart contracts or threshold signature schemes. Interoperability with non-Ethereum blockchains such as Hyperledger and Quorum is feasible.",
-    "zh-cn": "私有的权威验证的链一般满足第一个特征，因为权威证明区块的合法性， 合法性的证明不仅仅是校验签名。第二种可能的是有智能合约或门限签名 的类似以太坊的链。例如Hyperledger和Quorum等非以太坊链间的互通也是可行的。"
+    "zh-cn": "私有的权威验证的链一般满足第一个特征，因为权威证明区块的合法性， 合法性的证明不仅仅是校验签名。第二种可能的是有智能合约或门限签名 的类似以太坊的链。例如Hyperledger和Quorum等非以太坊链间的互通也是可行的。",
+    "es": "Las cadenas privadas de \"prueba de autoridad\" (PoA) generalmente cumplen la primera característica, ya que las autoridades dan fe de la validez de los bloques, y la prueba de validez es poco más que la comprobación de las firmas. La segunda es la posibilidad de cadenas similares a Ethereum que tengan contratos inteligentes o esquemas de firma de umbrales. Es factible la interoperabilidad con blockchains que no son de Ethereum, como Hyperledger y Quorum."
   },
   "faq.20": {
     "en": "Where Polkadot works best is connecting new blockchains expressly designed to fit the parachain model. Under this model, Polkadot manages the chain's consensus and validation activities. A parachain is an integrated member of the Polkadot network and benefits from immediate finality and disinterested validation (as opposed to the \"interested\" validation that facilitated the DAO hard fork). Parachains need not secure themselves, and are therefore free to focus purely on innovating in terms of its state machines.",
-    "zh-cn": "Polkadot最契合用平行链模型设计的新的区块链。在这个模式下， Polkadot管理链的共识和验证活动。一条平行链是一个集成在Polkadot 网络中的成员并从即时的确定性和公正验证中受益（与造成DAO硬分叉的获益验证相反）。 平行链不需要保护自己，因此能够完全的关注本身状态机的创新。"
+    "zh-cn": "Polkadot最契合用平行链模型设计的新的区块链。在这个模式下， Polkadot管理链的共识和验证活动。一条平行链是一个集成在Polkadot 网络中的成员并从即时的确定性和公正验证中受益（与造成DAO硬分叉的获益验证相反）。 平行链不需要保护自己，因此能够完全的关注本身状态机的创新。",
+    "es": "Donde Polkadot funciona mejor es en la conexión de nuevas blockchains expresamente diseñadas para adaptarse al modelo de parachains. Bajo este modelo, Polkadot gestiona las actividades de consenso y validación de la cadena. Una parachain es un miembro integrado de la red Polkadot y se beneficia de la finalidad inmediata y la validación desinteresada (a diferencia de la validación \"interesada\" que facilitó la bifurcación de la DAO). Las parachains no necesitan asegurarse y, por lo tanto, son libres de centrarse únicamente en innovar en términos de sus máquinas de estado."
   },
   "faq.21": {
     "en": "What is the difference between a Parachain and a blockchain connected via a Bridge?",
-    "zh-cn": "平行链和通过桥连接的区块链有什么区别？"
+    "zh-cn": "平行链和通过桥连接的区块链有什么区别？",
+    "es": "¿Cuál es la diferencia entre una Parachain y una blockchain conectada a través de un Bridge?"
   },
   "faq.22": {
     "en": "Parachains are the name given to the parallelized chains that participate in the Polkadot network. Polkadot’s natively supported blockchains achieve consensus using the greater network’s consensus mechanism, both adding to and benefiting from pooled security.",
-    "zh-cn": "平行链定义为参与Polkadot的平行的链。Polkadot上支持的原生区块链 通过大网络的共识机制达成共识，同时贡献并受益于整体的共建安全性。"
+    "zh-cn": "平行链定义为参与Polkadot的平行的链。Polkadot上支持的原生区块链 通过大网络的共识机制达成共识，同时贡献并受益于整体的共建安全性。",
+    "es": "Las parachains son el nombre dado a las cadenas paralelizadas que participan en la red Polkadot. Los bloques de Polkadot, apoyados de forma nativa, logran el consenso utilizando el mecanismo de consenso de la red mayor, lo que aumenta y se beneficia de la seguridad común."
   },
   "faq.23": {
     "en": "Bridges are connecting layers that will enable existing blockchains with their own state histories and methods of consensus to link with Polkadot without having to be a native parachain. These include Bitcoin and Ethereum.",
-    "zh-cn": "桥是一个连接现有的区块链的状态历史和共识方法到Polkadot的连接层， 而不是一条原生平行链。这些包括比特币和以太坊。"
+    "zh-cn": "桥是一个连接现有的区块链的状态历史和共识方法到Polkadot的连接层， 而不是一条原生平行链。这些包括比特币和以太坊。",
+    "es": "Los bridges son capas de conexión que permitirán que las blockchains existentes con sus propias historias de estado y métodos de consenso se vinculen con Polkadot sin tener que ser una parachain nativa. Estos incluyen Bitcoin y Ethereum."
   },
   "faq.24": {
-    "en": "What does it mean to be an active participant in Polkadot?"
+    "en": "What does it mean to be an active participant in Polkadot?",
+    "es": "¿Qué significa ser un participante activo en Polkadot?"
   },
   "faq.25": {
     "en": "Polkadot is designed to encourage active participation in Polkadot by holders of DOTs (DOTs are explained in the “DOTs” section). Active participation in this context involves a holder of DOTs performing one or more of the following roles within Polkadot:",
-    "zh-cn": "Polkadot通过设计激励DOT的持有者活跃参与Polkadot（DOT将在DOTs部分解释）。 活跃的参与在这里意味着DOT的持有者在Polkadot扮演以下一个或多个角色。"
+    "zh-cn": "Polkadot通过设计激励DOT的持有者活跃参与Polkadot（DOT将在DOTs部分解释）。 活跃的参与在这里意味着DOT的持有者在Polkadot扮演以下一个或多个角色。",
+    "es": "Polkadot está diseñado para fomentar la participación activa en Polkadot de los titulares de los DOTs (los DOTs se explican en la sección “DOT“). La participación activa en este contexto implica que el titular de un DOT desempeñe una o más de las siguientes funciones en Polkadot:"
   },
   "faq.26": {
     "en": "<strong>Validators:</strong> These participants will play a crucial role in adding new blocks to the Relay Chain and, by extension to all parachains, such that parties can complete cross-chain transactions via the Relay Chain. Validators perform two functions. First, verifying the information contained in an assigned set of parachain blocks is valid (such as the identities of the transacting parties and the subject matter of the contract). Their second role is to participate in the consensus mechanism to produce the Relay Chain blocks based on validity statements from other validators. Any instances of non-compliance with the consensus algorithms result in punishment by removal of some or all of the validator’s staked DOTs, thereby discouraging bad actors. Good performance, however, will be rewarded, with validators receiving transaction fees in the form of DOTs in exchange for their activities.",
@@ -3266,243 +3297,303 @@
   },
   "faq.27": {
     "en": "<strong>Nominators:</strong> these participants may nominate validators to carry out validation work on their behalf by contributing to the security bond of their nominated validators. It is anticipated that a significant portion of DOTs in existence at any particular point in time are likely to be bonded to validators for the purpose staking. Bonding DOTs to a validator requires nominators to perform due diligence and constant analysis in order to select the validators which are the most likely to behave according to Polkadot’s rules. Nominators receive a pro-rata increase or reduction in their DOT holding according to the growth or depletion of the security bond to which their DOTs were contributed.",
-    "zh-cn": "提名人：这些参与者通过向验证人的保证金做贡献来提名验证人来代 表他们进行验证工作。预计很可能大部分的DOTs将在任何时间都被质 押在验证人那里。把DOTs质押给验证人的保证金需要提名人进行尽职 调查和长期的分析来选择最有可能按Polkadot的规则履行职责的验证人。 根据保证金的增长或消耗，提名人的DOTs也按贡献比例得到增加或减少。"
+    "zh-cn": "提名人：这些参与者通过向验证人的保证金做贡献来提名验证人来代 表他们进行验证工作。预计很可能大部分的DOTs将在任何时间都被质 押在验证人那里。把DOTs质押给验证人的保证金需要提名人进行尽职 调查和长期的分析来选择最有可能按Polkadot的规则履行职责的验证人。 根据保证金的增长或消耗，提名人的DOTs也按贡献比例得到增加或减少。",
+    "es": "<strong>Nominators:</strong> estos participantes podrán designar validadores para llevar a cabo el trabajo de validación en su nombre contribuyendo a la garantía de seguridad de sus validadores designados. Se prevé que una parte significativa de los DOTs existentes en un momento determinado probablemente estarán vinculados a los validadores con el fin de realizar el replanteo. La vinculación de los DOTs a un validador requiere que los nominadores realicen una investigación diligente y un análisis constante con el fin de seleccionar los validadores que tienen más probabilidades de comportarse de acuerdo con las reglas de Polkadot. Los nominadores reciben un aumento o una reducción prorrateada de su participación en el DOT de acuerdo con el crecimiento o el agotamiento de la participación que contribuyeron sus DOTs."
   },
   "faq.28": {
     "en": "<strong>Collators:</strong> These participants will sit atop parachains and provide proofs to validators based on transactions from parachains. Collators maintain parachains by aggregating parachain transactions into parachain blocks and producing state transition proofs for validators based on those blocks. They also monitor the network and prove bad behaviour to validators. Collators maintain a “full-node” for a particular parachain; meaning they retain all necessary information to be able to author new blocks and execute transactions in much the same way as miners do on current PoW blockchains. Under normal circumstances, they will collate and execute transactions to create an unsealed block and provide it, together with a zero-knowledge proof, to one or more validators responsible for proposing a parachain block.",
-    "zh-cn": "校对人：这些参与者在平行链上根据平行链的交易提供证明给验证人。 维持平行链的校对人把平行链的交易集成区块并根据这些区块产生状态转移的证明， 提供给验证人。他们也关注网络情况，向验证人证明恶意行为。 校对人为一个特定的平行链维持一个全节点‘意味着他们保持所有所需信息来创建新 的区块并像现有的工作证明的区块链上的矿工一样执行交易。正常情况下， 他们通过校对执行交易来创建一个未开封的区块，向一个或多个负责提出区块的验证人交付， 并给出一个零知识证。"
+    "zh-cn": "校对人：这些参与者在平行链上根据平行链的交易提供证明给验证人。 维持平行链的校对人把平行链的交易集成区块并根据这些区块产生状态转移的证明， 提供给验证人。他们也关注网络情况，向验证人证明恶意行为。 校对人为一个特定的平行链维持一个全节点‘意味着他们保持所有所需信息来创建新 的区块并像现有的工作证明的区块链上的矿工一样执行交易。正常情况下， 他们通过校对执行交易来创建一个未开封的区块，向一个或多个负责提出区块的验证人交付， 并给出一个零知识证。",
+    "es": "<strong>Collators:</strong> Estos participantes se sentarán encima de las parachains y proporcionarán pruebas a los validadores basadas en las transacciones de las parachains. Los collators mantienen las parachains agregando las transacciones de parachains en bloques de parachains y produciendo pruebas de transición estatales para los validadores basadas en esos bloques. También monitorean la red y prueban el mal comportamiento de los validadores. Los collators mantienen un “nodo completo“ para una parachain en particular, lo que significa que retienen toda la información necesaria para poder crear nuevos bloques y ejecutar transacciones de forma muy similar a como lo hacen los mineros en las blockchains PoW actuales. En circunstancias normales, cotejarán y ejecutarán transacciones para crear un bloque sin sellar y lo proporcionarán, junto con una prueba de conocimiento cero, a uno o más validadores responsables de proponer un bloque de parachain."
   },
   "faq.29": {
     "en": "<strong>Fishermen:</strong> these participants are not engaged in the process of validating transactions in the same way as validators or nominators, but rather they deter bad actors by monitoring activity across the platform to determine whether any other participants have acted in breach of the rules. Fisherman will be required to provide significantly fewer DOTs by way of a security bond but can receive proportionately larger DOT rewards (in comparison to rewards received by validators and nominators) in proportion to the size of their security bond.",
-    "zh-cn": "渔夫：这些参与者不像验证人或者提名人那样直接参与验证， 而是通过观察整个平台上的各种活动来判断其他参与者是否违规进而阻止恶意行为。 渔夫需要提供少得多的DOTs做保证金，但能按比例收到大得多的DOT奖励 （和验证人及提名人比较），奖励和保证金成正比。"
+    "zh-cn": "渔夫：这些参与者不像验证人或者提名人那样直接参与验证， 而是通过观察整个平台上的各种活动来判断其他参与者是否违规进而阻止恶意行为。 渔夫需要提供少得多的DOTs做保证金，但能按比例收到大得多的DOT奖励 （和验证人及提名人比较），奖励和保证金成正比。",
+    "es": "<strong>Fishermen:</strong> estos actores no participan en el proceso de validación de las transacciones de la misma manera que los validadores o nominadores, sino que más bien disuaden a los malos actores mediante el seguimiento de la actividad en toda la plataforma para determinar si otros participantes han infringido las normas. Se exigirá a los Fisherman que proporcionen un número significativamente menor de DOTs como garantía de seguridad, pero podrán recibir recompensas proporcionalmente mayores (en comparación con las recompensas recibidas por los validadores y nominadores) en proporción a la cuantía de su garantía de seguridad."
   },
   "faq.30": {
     "en": "Where can I find a list of resources on Polkadot?",
-    "zh-cn": "哪里可以找到Polkadot的资源列表？"
+    "zh-cn": "哪里可以找到Polkadot的资源列表？",
+    "es": "¿Dónde puedo encontrar una lista de recursos sobre Polkadot?"
   },
   "faq.31": {
     "en": "Web3 Foundation's <a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Polkadot Wiki</a>.",
-    "zh-cn": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>"
+    "zh-cn": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>",
+    "es": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">wiki de Polkadot</a>."
   },
   "faq.32": {
     "en": "At what stage is development now?",
-    "zh-cn": "开发进行到那个阶段了？"
+    "zh-cn": "开发进行到那个阶段了？",
+    "es": "¿En qué fase se encuentra el desarrollo en la actualidad?"
   },
   "faq.33": {
     "en": "The Polkadot network's first Proof of Concept, POC-1, was released in May of 2018. The bulk of this release focuses on the development of the Relay Chain, the central nervous system of the Polkadot network.",
-    "zh-cn": "Polkadot网络的第一个可行性验证，POC-1，已于2018年5月发布。 发布的主题是中继链的开发，也是Polkadot的神经中枢。"
+    "zh-cn": "Polkadot网络的第一个可行性验证，POC-1，已于2018年5月发布。 发布的主题是中继链的开发，也是Polkadot的神经中枢。",
+    "es": "La primera prueba de concepto de la red Polkadot, POC-1, se publicó en mayo de 2018. La mayor parte de esta publicación se centra en el desarrollo de la relay chain, el sistema nervioso central de la red Polkadot."
   },
   "faq.34": {
     "en": "Proof of Concept 2, POC-2, followed in July 2018 as the first real-world on-chain protocol upgrade, where owners of testnet DOTs voted to approve a Referendum to upgrade the testnet from POC-1 to POC-2. POC-2 introduced the ability to develop parachains, staking rewards and slashing for validators, and the first real-world use of the Rust implementation of <a href=\"https://github.com/libp2p/rust-libp2p\" target=\"_blank\">Libp2p</a>.",
-    "zh-cn": "可行性验证2，POC-2，作为第一个链上升级，在2018年7月发布， 通过测试网的用户全民投票实现了第一次现实世界的链上升级， 从POC-1升级到POC-2.POC-2引入了开发平行链的能力，验证人的 质押奖励和惩罚，还有第一个Rust编写的Libp2p。"
+    "zh-cn": "可行性验证2，POC-2，作为第一个链上升级，在2018年7月发布， 通过测试网的用户全民投票实现了第一次现实世界的链上升级， 从POC-1升级到POC-2.POC-2引入了开发平行链的能力，验证人的 质押奖励和惩罚，还有第一个Rust编写的Libp2p。",
+    "es": "La prueba de concepto 2, POC-2, fue seguida en julio de 2018 como la primera actualización del protocolo en cadena del mundo real, en la que los propietarios de los DOT de testnet votaron a favor de la aprobación de un referéndum para actualizar la testnet de POC-1 a POC-2. POC-2 introdujo la capacidad de desarrollar parachains, ofreciendo recompensas y recortes a los validadores, y el primer uso en el mundo real de la implementación de la tecnología Rust de <a href=\"https://github.com/libp2p/rust-libp2p\" target=\"_blank\">Libp2p</a>."
   },
   "faq.35": {
     "en": "The POC-3 testnet launched January 2019 and includes the <a href=\"https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372/\" target=\"_blank\">GRANDPA consensus algorithm</a>.",
-    "zh-cn": "POC-3测试网发布于2019年1月，它包括了GRANDPA共识算法"
+    "zh-cn": "POC-3测试网发布于2019年1月，它包括了GRANDPA共识算法",
+    "es": "La red de pruebas POC-3, lanzada en enero de 2019, incluye el <a href=\"https://medium.com/polkadot-network/polkadot-proof-of-concept-3-a-better-consensus-algorithm-e81c380a2372/\" target=\"_blank\">algoritmo de consensi GRANDPA</a>."
   },
   "faq.36": {
     "en": "POC-4 launched April 2019 and brought new staking features that make running a validator on Polkadot more secure and customizable.",
-    "zh-cn": "POC-4发布于2019年4月，带来了新的质押特色，是运行验证人节点更安全并灵活。"
+    "zh-cn": "POC-4发布于2019年4月，带来了新的质押特色，是运行验证人节点更安全并灵活。",
+    "es": "POC-4 se lanzó en abril de 2019 y aportó nuevas funciones de participación que hacen que la ejecución de un validador en Polkadot sea más segura y personalizable."
   },
   "faq.37": {
     "en": "See the <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">codebase</a> for the latest state of the platform and visit the Polkadot <a href=\"https://poc-3.polkadot.io/\" target=\"_blank\">testnet user interface</a> to get started using Polkadot today.",
-    "zh-cn": "关注平台最新的代码库，访问Polkadot的测试网界面，今天就开始使用Polkadot。"
+    "zh-cn": "关注平台最新的代码库，访问Polkadot的测试网界面，今天就开始使用Polkadot。",
+    "es": "Vea el <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">código fuente</a> para conocer el estado actual de la plataforma y visite la <a href=\"https://poc-3.polkadot.io/\" target=\"_blank\">interfaz de usuario para la testnet</a> de Polkadot para empezar a usar Polkadot hoy."
   },
   "faq.38": {
     "en": "How do I get testnet DOTs?",
-    "zh-cn": "如何才能得到测试网的DOT"
+    "zh-cn": "如何才能得到测试网的DOT",
+    "es": "¿Cómo puedo obtener DOTs para la testnet?"
   },
   "faq.39": {
     "en": "Navigate to the <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> and click \"Create Account\". Once you have saved your password, post your public address to our <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a>.",
-    "zh-cn": "前往测试网，点击创建账户。当保存了密码后，把公钥贴到Riot频道。"
+    "zh-cn": "前往测试网，点击创建账户。当保存了密码后，把公钥贴到Riot频道。",
+    "es": "Navege a <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> y haga click en \"Create Account\". Una vez que haya guardado su contraseña, publique su dirección en nuestro <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Riot</a>."
   },
   "faq.40": {
     "en": "Community",
-    "zh-cn": "社区"
+    "zh-cn": "社区",
+    "es": "Comunidad"
   },
   "faq.41": {
     "en": "How can I join the community?",
-    "zh-cn": "如何加入社区？"
+    "zh-cn": "如何加入社区？",
+    "es": "¿Cómo puedo unirme a la comunidad?"
   },
   "faq.42": {
     "en": "Polkadot is open-source and the community is always looking for fellow volunteers. We'd love to hear from you or just answer your questions! Find us online on <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> and <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot</a>, and follow us on <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>.",
-    "zh-cn": "Polkadot是一个开源的项目，社区长期需要志愿者的支持。 我们很想听到你们的想法，回答你们的问题！可以在Reddit和Riot找到我们， 也可以在Twitter上关注我们。"
+    "zh-cn": "Polkadot是一个开源的项目，社区长期需要志愿者的支持。 我们很想听到你们的想法，回答你们的问题！可以在Reddit和Riot找到我们， 也可以在Twitter上关注我们。",
+    "es": "Polkadot es de código abierto y la comunidad siempre está buscando voluntarios. Nos encantaría saber de usted o simplemente responder a sus preguntas! Encuéntrenos en línea en <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> y <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot</a>, y síganos en <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>."
   },
   "faq.43": {
     "en": "How can I help support Polkadot?",
-    "zh-cn": "如何支持Polkadot？"
+    "zh-cn": "如何支持Polkadot？",
+    "es": "¿Cómo puedo apoyar a Polkadot?"
   },
   "faq.44": {
     "en": "There are many ways you can contribute to the Polkadot community. Whether you want to install and test Polkadot, join our Ambassador program, host a meet-up in your city, or contribute to the online community, simply join our social media channels to get started! The <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a> or <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> is a great place to start!",
-    "zh-cn": "有很多方式给Polkadot社区做贡献。无论你想安装测试Polkadot， 还是加入大使计划，组织一个当地的聚会，或者为线上社区做贡献， 现在就加入我们的媒体频道开始吧。Riot和Reddit是很好的出发点。"
+    "zh-cn": "有很多方式给Polkadot社区做贡献。无论你想安装测试Polkadot， 还是加入大使计划，组织一个当地的聚会，或者为线上社区做贡献， 现在就加入我们的媒体频道开始吧。Riot和Reddit是很好的出发点。",
+    "es": "Hay muchas maneras de contribuir a la comunidad de Polkadot. Si desea instalar y probar Polkadot, unirse a nuestro programa de embajadores, organizar un encuentro en su ciudad o contribuir a la comunidad en línea, simplemente únase a nuestros canales de medios sociales para empezar! El <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Riot</a> o <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> es un gran sitio para empezar!"
   },
   "faq.45": {
     "en": "Team",
-    "zh-cn": "团队"
+    "zh-cn": "团队",
+    "es": "Equipo"
   },
   "faq.46": {
     "en": "Who is building Polkadot?",
-    "zh-cn": "谁在建设Polkadot？"
+    "zh-cn": "谁在建设Polkadot？",
+    "es": "¿Quien está desarrollando Polkadot?"
   },
   "faq.47": {
     "en": "Web3 Foundation contracted Parity Technologies to develop the first implementations of Polkadot in Rust and JavaScript.",
-    "zh-cn": "Web3基金会让Parity技术公司承包了Polkadot的Rust和Javascript版本的开发。"
+    "zh-cn": "Web3基金会让Parity技术公司承包了Polkadot的Rust和Javascript版本的开发。",
+    "es": "La Fundación Web3 contrató a Parity Technologies para desarrollar las primeras implementaciones de Polkadot en Rust y JavaScript."
   },
   "faq.48": {
     "en": "Dr. Gavin Wood, Co-Founder of Ethereum and Robert Habermeier, 2018 Thiel Fellow, are Co-Founders of Polkadot and Core Developers of the project. Additional contributors can be found by viewing the “Commits” on Parity Technologies <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">Polkadot GitHub repository</a>.",
-    "zh-cn": "Gavin Wood博士，以太坊的创始人之一，Robert Habermeier， 2018年的Thiel伙伴，是Polkadot的共同创始人和项目核心开发者。 可以在Github的代码库里看到其他的贡献者提交的代码。"
+    "zh-cn": "Gavin Wood博士，以太坊的创始人之一，Robert Habermeier， 2018年的Thiel伙伴，是Polkadot的共同创始人和项目核心开发者。 可以在Github的代码库里看到其他的贡献者提交的代码。",
+    "es": "El Dr. Gavin Wood, cofundador de Ethereum, y Robert Habermeier, miembro de Thiel en 2018, son cofundadores de Polkadot y desarrolladores principales del proyecto. Se pueden encontrar colaboradores adicionales consultando la sección “Commits“ de Parity Technologies <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">repositorio de Polkadot en Github</a>."
   },
   "faq.49": {
     "en": "Web3 Foundation is coordinating with teams interested in developing additional implementations of the platform, core-polkadot (e.g. collator nodes, validator nodes, Relay Chain) and ecosystem building (e.g. block explorers, node explorers, wallets).",
-    "zh-cn": "Web3基金会正在和其他感兴趣的团队合作开发平台的其他版本， 核心Polkadot（比如校对者节点，验证人节点，中继链）和生态系统 建设（比如区块浏览器，节点浏览器，钱包等）"
+    "zh-cn": "Web3基金会正在和其他感兴趣的团队合作开发平台的其他版本， 核心Polkadot（比如校对者节点，验证人节点，中继链）和生态系统 建设（比如区块浏览器，节点浏览器，钱包等）",
+    "es": "La Fundación Web3 está coordinando con equipos interesados en desarrollar implementaciones adicionales de la plataforma, core-polkadot (por ejemplo, nodos de collators, nodos de validador, Relay Chain) y desarrollo de ecosistemas (por ejemplo, exploradores de bloques, exploradores de nodos, carteras)."
   },
   "faq.50": {
     "en": "Please reach out to Web3 Foundation via Riot if you are interested in contributing.",
-    "zh-cn": "如果有兴趣为社区做贡献，请在Riot上联系Web3基金会"
+    "zh-cn": "如果有兴趣为社区做贡献，请在Riot上联系Web3基金会",
+    "es": "Por favor, póngase en contacto con la Fundación Web3 a través de Riot si está interesado en contribuir."
   },
   "faq.51": {
     "en": "Who is working on behalf of Polkadot?",
-    "zh-cn": "谁在为Polkadot工作"
+    "zh-cn": "谁在为Polkadot工作",
+    "es": "¿Quién trabaja para Polkadot?"
   },
   "faq.52": {
     "en": "Polkadot is an open-source project and anyone is free to contribute to the development of the platform.",
-    "zh-cn": "Polkadot是一个开源项目，任何人都可以为平台的开发做贡献"
+    "zh-cn": "Polkadot是一个开源项目，任何人都可以为平台的开发做贡献",
+    "es": "Polkadot es un proyecto de código abierto y cualquiera puede contribuir libremente al desarrollo de la plataforma."
   },
   "faq.53": {
     "en": "In addition to the open source community, Web3 Foundation employs a team of researchers and community administrators to foster further development and adoption of the platform. Web3’s researchers include consensus mechanism and decentralized messaging experts. The communications team administers community building that includes organizing the first Web3 Summit and administering Polkadot’s online and offline presence.",
-    "zh-cn": "除了开源社区，Web3基金会雇佣了研究团队和社区管理人员 来促进长期的开发和平台的落地。Web3的研究人员包括共识机制和 去中心化通讯的专家。社区团队管理社区建设， 包括组织Web3峰会和管理Polkadot线上和线下的活动。"
+    "zh-cn": "除了开源社区，Web3基金会雇佣了研究团队和社区管理人员 来促进长期的开发和平台的落地。Web3的研究人员包括共识机制和 去中心化通讯的专家。社区团队管理社区建设， 包括组织Web3峰会和管理Polkadot线上和线下的活动。",
+    "es": "Además de la comunidad de código abierto, la Fundación Web3 emplea un equipo de investigadores y administradores de la comunidad para fomentar el desarrollo y la adopción de la plataforma. Los investigadores de Web3 incluyen expertos en mecanismos de consenso y mensajería descentralizada. El equipo de comunicaciones administra el desarrollo de la comunidad que incluye la organización de la primera Cumbre Web3 y la administración de la presencia en línea y fuera de línea de Polkadot."
   },
   "faq.54": {
     "en": "Who can I contact regarding a press inquiry?",
-    "zh-cn": "如何联系团队询问新闻发布事宜？"
+    "zh-cn": "如何联系团队询问新闻发布事宜？",
+    "es": "¿A quién puedo dirigirme en relación con una consulta de prensa?"
   },
   "faq.55": {
     "en": "Contact a member of our team at <a href=\"mailto:press@polkadot.network\">press@polkadot.network</a>.",
-    "zh-cn": "透过<a href=\"mailto:press@polkadot.network\">press@polkadot.network</a>的邮件联系团队成员"
+    "zh-cn": "透过<a href=\"mailto:press@polkadot.network\">press@polkadot.network</a>的邮件联系团队成员",
+    "es": "Póngase en contacto con un miembro de nuestro equipo en <a href=\"mailto:press@polkadot.network\">press@polkadot.network</a>."
   },
   "faq.56": {
     "en": "What is the Web3 Foundation?",
-    "zh-cn": "Web3基金会是什么？"
+    "zh-cn": "Web3基金会是什么？",
+    "es": "¿Qué es la fundación Web3?"
   },
   "faq.57": {
     "en": "Web3 Foundation is a Swiss Stiftung established under Article 80 et seqq. of the Swiss Civil Code. The Web3 Foundation was founded by Dr. Gavin Wood and has as its focus the development, deployment and maintenance of “Web3”. Web3 Foundation promotes the development of innovative technologies and applications in the field of cryptographically-enabled decentralised software protocols.",
-    "zh-cn": "Web3基金会是一个瑞士的基金会，根据瑞士民法第80条建立。 Web3基金会由Gavin Wood博士建立，专注于开发，部署和维护Web3。 Web3基金会促进在密码学赋能的去中心化软件协议方面创新技术和应用的开发。"
+    "zh-cn": "Web3基金会是一个瑞士的基金会，根据瑞士民法第80条建立。 Web3基金会由Gavin Wood博士建立，专注于开发，部署和维护Web3。 Web3基金会促进在密码学赋能的去中心化软件协议方面创新技术和应用的开发。",
+    "es": "La Fundación Web3 es una fundación suiza creada en virtud de los artículos 80 y siguientes del Código Civil suizo. La Fundación Web3 fue fundada por el Dr. Gavin Wood y tiene como objetivo el desarrollo, despliegue y mantenimiento de ”Web3”. La Fundación Web3 promueve el desarrollo de tecnologías y aplicaciones innovadoras en el campo de los protocolos de software descentralizados que permiten la criptografía."
   },
   "faq.58": {
     "en": "Web3 Foundation’s purpose is to nurture and steward cutting-edge technologies and applications at all levels of the Web3 technology stack. Web3’s principal focus is research, development, deployment, funding, and maintenance of Web3 technologies, plus advocacy and education, developer-adoption, support of middleware, and base-layer/demonstration applications.",
-    "zh-cn": "Web3基金会的目标是在Web3技术栈的各个层面培养和服务最先进的 技术和应用。Web3的核心是研究，开发，部署，资助和维护Web3技术 ，并支持，教育，使开发者接受，支持中间件和底层的演示应用。"
+    "zh-cn": "Web3基金会的目标是在Web3技术栈的各个层面培养和服务最先进的 技术和应用。Web3的核心是研究，开发，部署，资助和维护Web3技术 ，并支持，教育，使开发者接受，支持中间件和底层的演示应用。",
+    "es": "El propósito de la Fundación Web3 es fomentar y administrar tecnologías y aplicaciones de vanguardia en todos los niveles de la pila de tecnología Web3. El enfoque principal de Web3 es la investigación, el desarrollo, la implementación, la financiación y el mantenimiento de las tecnologías Web3, además de la promoción y la educación, la adopción por parte de los desarrolladores, el soporte de middleware y las aplicaciones de capa base/demostración."
   },
   "faq.59": {
     "en": "The Web3 Foundation Council is Web3’s governing body, responsible for the management of the Web3 Foundation. The current members of the Web3 Foundation Council are Dr. Gavin Wood (President and Founder), Dr. Aeron Buchanan (Vice President) and Reto Trinkler.",
-    "zh-cn": "Web3基金会的理事会使Web3的治理实体，负责Web3基金会的管理。 Web3基金会理事会的现有成员有Gavin Wood博士(主席和创始人)， Aeron Buchanan博士(副主席)和Reto Trinkler"
+    "zh-cn": "Web3基金会的理事会使Web3的治理实体，负责Web3基金会的管理。 Web3基金会理事会的现有成员有Gavin Wood博士(主席和创始人)， Aeron Buchanan博士(副主席)和Reto Trinkler",
+    "es": "El Consejo de la Fundación Web3 es el órgano de gobierno de Web3, responsable de la gestión de la Fundación Web3. Los miembros actuales del Consejo de la Fundación Web3 son el Dr. Gavin Wood (Presidente y Fundador), el Dr. Aeron Buchanan (Vicepresidente) y Reto Trinkler."
   },
   "faq.60": {
     "en": "Swiss foundations are subject to a mandatory supervision by a federal or cantonal authority. The Web3 Foundation’s application for approval by Eidgenössische Stiftungsaufsicht (Federal Foundation Supervisory Authority) was approved July 2018.",
-    "zh-cn": "瑞士基金会受到联邦或州的强制监管。Web3基金会的申请被瑞士联邦基金监管局于2018年7月批准。"
+    "zh-cn": "瑞士基金会受到联邦或州的强制监管。Web3基金会的申请被瑞士联邦基金监管局于2018年7月批准。",
+    "es": "Las fundaciones suizas están sujetas a una supervisión obligatoria por parte de una autoridad federal o cantonal. La solicitud de aprobación de la Fundación Web3 por parte del Eidgenössische Stiftungsaufsicht (Organismo Federal de Supervisión de Fundaciones) fue aprobada en julio de 2018."
   },
   "faq.61": {
     "en": "What is Web3’s role in relation to Polkadot?",
-    "zh-cn": "Web3在Polkadot中的角色？"
+    "zh-cn": "Web3在Polkadot中的角色？",
+    "es": "¿Cuál es el papel de Web3 en relación con Polkadot?"
   },
   "faq.62": {
     "en": "The Web3 Foundation intends to use a substantial amount of the proceeds from the sale of DOTs to finance the development of Web3 technologies, including Polkadot.",
-    "zh-cn": "Web3基金会有意使用大部分出售DOT得到的资金来资助Web3技术的开发，包括Polkadot"
+    "zh-cn": "Web3基金会有意使用大部分出售DOT得到的资金来资助Web3技术的开发，包括Polkadot",
+    "es": "La Fundación Web3 tiene la intención de utilizar una parte sustancial de los ingresos procedentes de la venta de los DOT para financiar el desarrollo de las tecnologías Web3, incluido Polkadot."
   },
   "faq.63": {
     "en": "Web3 Foundation is not a software development house or development shop, so it works closely with third party builders. The Web3 Foundation has entered a software development agreement with Parity Technologies under which Parity Technologies will undertake research and develop the Polkadot platform. There is, however, no group relationship between the Web3 Foundation and Parity Technologies, and robust measures are in place to ensure probity in decision making.",
-    "zh-cn": "Web3基金会不是一个软件开发公司，所以会和第三方开发者合作。 Web3基金会和Parity Technologies达成了软件开发合约。然而， Web3基金会和Parity Techonologies之间没有直接关联，而且有可靠的手段保证决策的公允。"
+    "zh-cn": "Web3基金会不是一个软件开发公司，所以会和第三方开发者合作。 Web3基金会和Parity Technologies达成了软件开发合约。然而， Web3基金会和Parity Techonologies之间没有直接关联，而且有可靠的手段保证决策的公允。",
+    "es": "La Fundación Web3 no es una casa de desarrollo de software ni una tienda de desarrollo, por lo que trabaja en estrecha colaboración con terceros. La Fundación Web3 ha firmado un acuerdo de desarrollo de software con Parity Technologies en virtud del cual Parity Technologies llevará a cabo la investigación y el desarrollo de la plataforma Polkadot. Sin embargo, no existe una relación de grupo entre la Fundación Web3 y Parity Technologies, y existen medidas sólidas para asegurar la probidad en la toma de decisiones."
   },
   "faq.64": {
     "en": "How is the Web3 Foundation impacted by the 2017 Parity multi-signature contact freeze?",
-    "zh-cn": "Web3基金会受到2017年Parity多签钱包冻结的影响有多大？"
+    "zh-cn": "Web3基金会受到2017年Parity多签钱包冻结的影响有多大？",
+    "es": "¿Cómo se ve afectada la Fundación Web3 por la congelación de contactos multi-firma de Parity en 2017?"
   },
   "faq.65": {
     "en": "The affected multi-sig wallet did not contain all of Web3’s funds. Its ability to build Polkadot as planned and to the original timetable has not been affected. For a full statement, see the Web3 Foundation blog posts on the issue here:",
-    "zh-cn": "受到影响的多签钱包并没有存放所有Web3的资金。基金会按照原有 时间线建设Polkadot，并没有受到影响。关于这个信息， 请参照Web3基金会下面相关的博客。"
+    "zh-cn": "受到影响的多签钱包并没有存放所有Web3的资金。基金会按照原有 时间线建设Polkadot，并没有受到影响。关于这个信息， 请参照Web3基金会下面相关的博客。",
+    "es": "La cartera multi-sig afectada no contenía todos los fondos de Web3. Su capacidad para construir Polkadot según lo previsto y según el calendario original no se ha visto afectada. Para obtener una declaración completa, consulte las entradas del blog de la Fundación Web3 sobre el tema aquí:"
   },
   "faq.66": {
     "en": "Web3 Multi-Sig Wallet Update",
-    "zh-cn": "Web3 Multi-Sig Wallet Update"
+    "zh-cn": "Web3 Multi-Sig Wallet Update",
+    "es": "Web3 Multi-Sig Wallet Update"
   },
   "faq.67": {
     "en": "Update on the Web3 Foundation",
-    "zh-cn": "Update on the Web3 Foundation"
+    "zh-cn": "Update on the Web3 Foundation",
+    "es": "Update on the Web3 Foundation"
   },
   "faq.68": {
     "en": "Risk factors",
-    "zh-cn": "风险因素"
+    "zh-cn": "风险因素",
+    "es": "Factores de riesgo"
   },
   "faq.69": {
     "en": "Participants in any DOT sale may lose up to the entire value of funds contributed",
-    "zh-cn": "在任何时间购买的DOT都有可能损失所有的价值"
+    "zh-cn": "在任何时间购买的DOT都有可能损失所有的价值",
+    "es": "Los participantes en cualquier venta de DOTs pueden perder hasta el valor total de los fondos aportados."
   },
   "faq.70": {
     "en": "In the event that Polkadot is not successfully developed or is not deployed, participants in the first general sale may not receive any DOTs. In these circumstances, participants in the first general sale will lose the full value of funds provided in connection with the first general sale. Please refer to the Terms and Conditions for further information.",
-    "zh-cn": "如果Polkadot没有成功开发，或者部署，第一轮公售的参与者可能拿 不到任何DOT。这种情况下，第一轮的参与者将损失他们参与第一轮的 资金的所有价值。更多细节请参照规则与条例。"
+    "zh-cn": "如果Polkadot没有成功开发，或者部署，第一轮公售的参与者可能拿 不到任何DOT。这种情况下，第一轮的参与者将损失他们参与第一轮的 资金的所有价值。更多细节请参照规则与条例。",
+    "es": "En caso de que Polkadot no se desarrolle con éxito o no se despliegue, los participantes en la primera venta general no podrán recibir ningún DOT. En estas circunstancias, los participantes en la primera venta general perderán el valor total de los fondos proporcionados en relación con la primera venta general. Por favor, consulte los Términos y Condiciones para más información."
   },
   "faq.71": {
     "en": "Risks associated with the development and deployment of Polkadot",
-    "zh-cn": "Polkadot在开发和部署方面的风险"
+    "zh-cn": "Polkadot在开发和部署方面的风险",
+    "es": "Riesgos asociados al desarrollo y despliegue de Polkadot"
   },
   "faq.72": {
     "en": "Polkadot may not be successfully developed or may not function as intended and the Polkadot genesis block may not be deployed as intended or at all",
-    "zh-cn": "Polkadot的开发可能不成功，或者无法达到预想的功能，Polkadot的创世节点也许不会像预期的那样部署。"
+    "zh-cn": "Polkadot的开发可能不成功，或者无法达到预想的功能，Polkadot的创世节点也许不会像预期的那样部署。",
+    "es": "Es posible que Polkadot no se desarrolle con éxito o que no funcione según lo previsto y que el bloque génesis de Polkadot no se despliegue según lo previsto o que no funcione según lo previsto."
   },
   "faq.73": {
     "en": "Polkadot is still at a very early stage of development. The Web3 Foundation may have to make changes to the specifications of Polkadot or DOTs for any number of legitimate reasons or the Web3 Foundation may be unable to develop Polkadot in a way that realizes those specifications or any form of a functioning network. To the extent that Polkadot is successfully developed and the Polkadot genesis block is deployed, Polkadot and/or DOTs may not meet participant expectations, and may be different from those set out in the White Paper. Furthermore, despite the Web3 Foundation’s efforts to develop and deploy the Polkadot genesis block and subsequently to develop and maintain Polkadot, it is still possible that Polkadot will experience malfunctions or otherwise fail to be adequately developed or maintained, which may negatively impact Polkadot and/or DOTs.",
-    "zh-cn": "Polkadot还在非常早期的开发阶段。Web3基金会可能会因为某种合法的 理由改变Polkadot或者DOT的规格，或Web基金会无法在开发中实现 这些规格，或开发的网络功能不全。根据Polkadot成功开发和创世区块 部署的状况，Polakdot和DOT，或两者之一可能和预期的不一样，或者 和白皮书里描述的不符。此外，即使Web3基金会全力以赴，Polkadot的 创世区块成功部署，并持续开发和维护Polkadot，Polkadot也可能会 出现功能障碍，或者开发或维护不完全，这些情况会对Polkadot和DOT产生负面影响。"
+    "zh-cn": "Polkadot还在非常早期的开发阶段。Web3基金会可能会因为某种合法的 理由改变Polkadot或者DOT的规格，或Web基金会无法在开发中实现 这些规格，或开发的网络功能不全。根据Polkadot成功开发和创世区块 部署的状况，Polakdot和DOT，或两者之一可能和预期的不一样，或者 和白皮书里描述的不符。此外，即使Web3基金会全力以赴，Polkadot的 创世区块成功部署，并持续开发和维护Polkadot，Polkadot也可能会 出现功能障碍，或者开发或维护不完全，这些情况会对Polkadot和DOT产生负面影响。",
+    "es": "Polkadot se encuentra todavía en una fase muy temprana de desarrollo. La Fundación Web3 puede tener que hacer cambios en las especificaciones de Polkadot o de los DOTs por cualquier número de razones legítimas o la Fundación Web3 puede ser incapaz de desarrollar Polkadot de una manera que realice esas especificaciones o cualquier forma de red que funcione. En la medida en la que Polkadot se desarrolle con éxito y se despliegue el bloque génesis de Polkadot, es posible que Polkadot y/o los DOTs no satisfagan las expectativas de los participantes y puedan ser diferentes de los establecidos en el white paper. Además, a pesar de los esfuerzos de la Fundación Web3 para desarrollar y desplegar el bloque génesis de Polkadot y, posteriormente, para desarrollar y mantener Polkadot, es posible que Polkadot experimente fallos de funcionamiento o que de otro modo no se desarrolle o mantenga adecuadamente, lo que podría tener un impacto negativo en Polkadot y/o DOTs."
   },
   "faq.74": {
     "en": "The development of Polkadot will require significant capital funding, expertise and the Web3 Foundation’s time and effort. Polkadot may require significantly more funding or time in development than the Web3 Foundation currently envisages, which may result in suspension or cancellation of development of Polkadot. If the Web3 Foundation is not successful in its efforts to demonstrate to users the utility and value of Polkadot, there may not be sufficient demand for DOTs for the Web3 Foundation to proceed with the deployment of the Polkadot genesis block. As a result, or if the deployment of the Polkadot genesis block does not occur, participants may lose all of the funds provided in connection with the DOT Sale.",
-    "zh-cn": "Polkadot的开发需要大量的资金支持，专业知识以及Web3基金会的时间和精力。 Polkadot也许需要超过Web3基金会现在预期的资金和时间来完成开发， 因此可能会造成开发停止甚至取消。如果Web3基金会未成功开发Polkadot， 给用户演示足够的应用价值，对于DOT的需求可能不足以让Web3基金 会完成创世区块的部署。Polkadot创世区块如果不出现，参与者可能会损失跟DOT发售相关的所有资金。"
+    "zh-cn": "Polkadot的开发需要大量的资金支持，专业知识以及Web3基金会的时间和精力。 Polkadot也许需要超过Web3基金会现在预期的资金和时间来完成开发， 因此可能会造成开发停止甚至取消。如果Web3基金会未成功开发Polkadot， 给用户演示足够的应用价值，对于DOT的需求可能不足以让Web3基金 会完成创世区块的部署。Polkadot创世区块如果不出现，参与者可能会损失跟DOT发售相关的所有资金。",
+    "es": "El desarrollo de Polkadot requerirá una importante financiación de capital, experiencia y el tiempo y esfuerzo de la Fundación Web3. Polkadot puede requerir una financiación o tiempo de desarrollo significativamente mayor de lo que la Fundación Web3 prevé actualmente, lo que puede resultar en la suspensión o cancelación del desarrollo de Polkadot. Si la Fundación Web3 no tiene éxito en sus esfuerzos por demostrar a los usuarios la utilidad y el valor de Polkadot, puede que no haya suficiente demanda de DOTs para que la Fundación Web3 proceda con el despliegue del bloque génesis de Polkadot. Como resultado, o si no se produce el despliegue del bloque genesis de Polkadot, los participantes pueden perder todos los fondos proporcionados en relación con la venta DOTs."
   },
   "faq.75": {
     "en": "Polkadot may not be deployed as intended at all",
-    "zh-cn": "Polkadot也许不会按照预期部署"
+    "zh-cn": "Polkadot也许不会按照预期部署",
+    "es": "Polkadot puede no desplegarse de la forma prevista."
   },
   "faq.76": {
     "en": "Due to the decentralised nature of Polkadot, there is no guarantee that the Polkadot genesis block (to the extent that it is developed) will be deployed as intended or at all. As DOTs are native tokens to Polkadot, they will not come into existence, whether as part of the Polkadot genesis block or otherwise, if there is no deployment of the Polkadot genesis block.",
-    "zh-cn": "因为Polkadot去中心化的性质，Polkadot按照预期部署是没有保证的。 因为DOT是Polkadot的原生代币，无论是作为创世区块的一部分还是 按照其他方式，如果没有创世区块的化，他们也不会存在"
+    "zh-cn": "因为Polkadot去中心化的性质，Polkadot按照预期部署是没有保证的。 因为DOT是Polkadot的原生代币，无论是作为创世区块的一部分还是 按照其他方式，如果没有创世区块的化，他们也不会存在",
+    "es": "Debido a la naturaleza descentralizada de Polkadot, no hay ninguna garantía de que el bloque génesis de Polkadot (en la medida en que se desarrolle) se desplegará según lo previsto en absoluto. Como los DOTs son fichas nativas de Polkadot, no existirán, ya sea como parte del bloque de génesis de Polkadot o de otro tipo, si no se despliega el bloque de génesis de Polkadot."
   },
   "faq.77": {
     "en": "The Web3 Foundation may not be successful in engaging the services of its preferred software developer(s)",
-    "zh-cn": "Web3基金会也许不能和他们认可的软件开发者合作"
+    "zh-cn": "Web3基金会也许不能和他们认可的软件开发者合作",
+    "es": "La Fundación Web3 puede no tener éxito en la contratación de los servicios de su(s) desarrollador(es) de software preferido(s)"
   },
   "faq.78": {
     "en": "The Web3 Foundation may not have or may not be able to obtain the technical skills and expertise needed to successfully develop Polkadot and progress it to deploy the Polkadot genesis block. There is a general scarcity of management, technical, scientific, research and marketing personnel with appropriate training to develop and maintain Polkadot.",
-    "zh-cn": "Web3基金会也许不具备或者不能获得成功开发Polkadot和推进到部署 Polkadot创世区块阶段的技术能力和专业知识。有足够资历管理， 技术，科学，研究和市场开发人员匮乏也可能导致无法开发和维护Polkadot"
+    "zh-cn": "Web3基金会也许不具备或者不能获得成功开发Polkadot和推进到部署 Polkadot创世区块阶段的技术能力和专业知识。有足够资历管理， 技术，科学，研究和市场开发人员匮乏也可能导致无法开发和维护Polkadot",
+    "es": "La Fundación Web3 puede no tener o no ser capaz de obtener las habilidades técnicas y la experiencia necesarias para desarrollar con éxito Polkadot y progresar en el despliegue del bloque de génesis de Polkadot. Existe una escasez general de personal de gestión, técnico, científico, de investigación y de marketing con la formación adecuada para desarrollar y mantener Polkadot."
   },
   "faq.79": {
     "en": "Risks associated with DOTs",
-    "zh-cn": "DOT本身的风险"
+    "zh-cn": "DOT本身的风险",
+    "es": "Riesgos asociados con los DOTs"
   },
   "faq.80": {
     "en": "The inflation model will cause material dilution in the percentage holdings of DOTs for passive participants",
-    "zh-cn": "通胀可能会造成DOT实质性的稀释，降低被动参与者所持有的比例。"
+    "zh-cn": "通胀可能会造成DOT实质性的稀释，降低被动参与者所持有的比例。",
+    "es": "El modelo de inflación causará una dilución importante en el porcentaje de tenencias de los DOTs para los participantes pasivos."
   },
   "faq.81": {
     "en": "Passive holders of DOTs, that is holders of DOTs that do not perform validating, nominating, collating or fisherman roles within Polkadot, will see their percentage holdings of DOTs dilute over time as more DOTs come into existence as a result of the as yet determined inflation model. Over time, this may result in the dilution of a passive participant’s holdings of DOTs to close to zero in percentage terms.",
-    "zh-cn": "不参加验证，提名，校对，或渔夫功能的被动DOT持有者，会发现 他们的DOT在更多新产生的DOT进入系统之后受到稀释，虽然通胀 的模型还没确认。一段时间后，这可能会让被动持有者的DOT的 百分比逐渐下降，接近为零。"
+    "zh-cn": "不参加验证，提名，校对，或渔夫功能的被动DOT持有者，会发现 他们的DOT在更多新产生的DOT进入系统之后受到稀释，虽然通胀 的模型还没确认。一段时间后，这可能会让被动持有者的DOT的 百分比逐渐下降，接近为零。",
+    "es": "Los titulares pasivos de los DOT, es decir, los titulares de los DOTs que no realizan funciones de validación, nominación, cotejo o pesca dentro de Polkadot, verán cómo su participación porcentual en los DOT se diluye con el tiempo a medida que se vayan creando más DOT como resultado del modelo de inflación aún no determinado. Con el tiempo, esto puede dar lugar a una dilución de las participaciones de los participantes pasivos en los DOTs cercana a cero en términos porcentuales."
   },
   "faq.82": {
     "en": "Nature of the legal relationship between holders of DOTs is uncertain",
-    "zh-cn": "DOT持有者之间的法律关系的性质还有不确定性"
+    "zh-cn": "DOT持有者之间的法律关系的性质还有不确定性",
+    "es": "La naturaleza de la relación jurídica entre los titulares de los DOTs es incierta."
   },
   "faq.83": {
     "en": "The legal nature of the relationship (if any) between the holders of DOTs and the liabilities and obligations of holders of DOTs is uncertain.",
-    "zh-cn": "DOT持有者之间的法律关系以及DOT持有者的责任和义务还有不确定性"
+    "zh-cn": "DOT持有者之间的法律关系以及DOT持有者的责任和义务还有不确定性",
+    "es": "La naturaleza jurídica de la relación (si la hubiera) entre los titulares de los DOTs y las responsabilidades y obligaciones de los titulares de los DOTs es incierta."
   },
   "faq.84": {
     "en": "Regulatory treatment of DOTs is uncertain",
-    "zh-cn": "监管部门对待DOT的态度还有不确定性"
+    "zh-cn": "监管部门对待DOT的态度还有不确定性",
+    "es": "El tratamiento regulatorio de los DOTs es incierto"
   },
   "faq.85": {
     "en": "As the sale of tokens is a nascent practice, the treatment of DOTs by regulatory and governmental authorities is uncertain and may vary across jurisdictions. The legal and regulatory treatment of DOTs may be prone to change in the future, which may have a materially adverse impact on the legal status of DOTs, the economic value (if any) of DOTs and the liquidity of DOTs, as well as the development, function or governance of Polkadot and / or the Web3 Foundation itself.",
-    "zh-cn": "代币出售是一个新生的行为，监管部门和政府对于DOT的态度有不确定性， 而且可能在不同的立法区域之间变化。法律和监管对于DOT的态度未来 很可能变化，也许将会对DOT的法律地位，经济价值（如果有的化） 和流动性产生恶性冲击，开发和治理功能，和Web3基金会本身可能也会受到影响。"
+    "zh-cn": "代币出售是一个新生的行为，监管部门和政府对于DOT的态度有不确定性， 而且可能在不同的立法区域之间变化。法律和监管对于DOT的态度未来 很可能变化，也许将会对DOT的法律地位，经济价值（如果有的化） 和流动性产生恶性冲击，开发和治理功能，和Web3基金会本身可能也会受到影响。",
+    "es": "Como la venta de tokens es una práctica incipiente, el tratamiento de los DOTs por parte de las autoridades reguladoras y gubernamentales es incierto y puede variar de una jurisdicción a otra. El tratamiento jurídico y reglamentario de los DOTs puede tender a cambiar en el futuro, lo que puede tener un impacto materialmente adverso en la situación jurídica de los DOTs, el valor económico (en su caso) de los DOTs y la liquidez de los DOTs, así como en el desarrollo, la función o la gobernanza de Polkadot y/o de la propia Fundación Web3."
   },
   "faq.web3": {
     "en": "Web3 foundation",
-    "zh-cn": "Web3基金会"
+    "zh-cn": "Web3基金会",
+    "es": "Fundación Web3"
   },
   "tag.meta.title": {
     "en": "{{tag}} | Blog | Polkadot"
