@@ -5,7 +5,8 @@
     "ja": "ja",
     "zh-cn": "zh-cn",
     "ko": "ko",
-    "es": "es"
+    "es": "es",
+    "tr": "tr"
   },
   "get_filter" : {
     "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es]\"",
@@ -13,7 +14,8 @@
     "ja": "filter=\"tags:hash-ja\"",
     "zh-cn": "filter=\"tags:hash-zh-cn\"",
     "ko": "filter=\"tags:hash-ko\"",
-    "es": "filter=\"tags:hash-es\""
+    "es": "filter=\"tags:hash-es\"",
+    "tr": "filter=\"tags:hash-tr\""
   },
   "get_related_filter" : {
     "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko]\"",
