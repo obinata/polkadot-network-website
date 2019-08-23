@@ -23,7 +23,8 @@
     "ja": "filter=\"id:-{{id}}+tags:hash-ja\"",
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
     "ko": "filter=\"id:-{{id}}+tags:hash-ko\"",
-    "es": "filter=\"id:-{{id}}+tags:hash-es\""
+    "es": "filter=\"id:-{{id}}+tags:hash-es\"",
+    "tr": "filter=\"id:-{{id}}+tags:hash-tr\""
   },
   "global.footer.from_the_blog": {
     "en": "From the blog"
@@ -32,39 +33,45 @@
     "en": "Want to get involved?",
     "ru": "Заинтересован?",
     "ko": "폴카닷과 함께 하고 싶으신가요?",
-    "es": "¿Quiere colaborar?"
+    "es": "¿Quiere colaborar?",
+    "tr": "Katılmak ister misin?"
   },
   "global.footer.join_community": {
     "en": "Join the Community",
     "ru": "Присоединяйтесь к сообществу",
     "ko": "폴카닷 커뮤니티에 합류하시고,",
-    "es": "Únase a la comunidad"
+    "es": "Únase a la comunidad",
+    "tr": "Topluluğa Katıl"
   },
   "global.footer.learn": {
     "en": "or learn about how to {{build_link}}.",
     "ru": "или узнайте, как {{build_link}}",
     "ko": "{{build_link}}",
-    "es": "o aprenda sobre cómo {{build_link}}."
+    "es": "o aprenda sobre cómo {{build_link}}.",
+    "tr": "veya geliştirmeyi öğren {{build_link}}."
   },
   "global.footer.learn.build_link": {
     "en": "build on Polkadot",
     "ru": "работать с Polkadot",
     "ko": "폴카닷을 어떻게 개발에 활용할 수 있는지 확인해보세요.",
-    "es": "desarrolle en Polkadot"
+    "es": "desarrolle en Polkadot",
+    "tr": "Polkadot üzerinde geliştir"
   },
   "global.question_building": {
     "en": "Have a question about building on Polkadot?",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "ja": "Polkadot上の構築について質問がありますか？",
     "ru": "У вас есть вопрос о разработке на Polkadot? Спросите в чате Polkadot",
-    "es": "¿Tiene alguna pregunta sobre cómo desarrollar en Polkadot?"
+    "es": "¿Tiene alguna pregunta sobre cómo desarrollar en Polkadot?",
+    "tr": "Polkadot üzerinde geliştirmeyle ilgili bir sorun var mı?"
   },
   "global.ask_question": {
     "en": "Ask in the Polkadot Chat",
     "zh-cn": "有关建立在Polkadot上的问题?",
     "ja": "Polkadotチャットで聞きましょう。",
     "ru": "Спросите в чате Polkadot",
-    "es": "Pregunte en el chat de Polkadot"
+    "es": "Pregunte en el chat de Polkadot",
+    "tr": "Polkadot Chat'te Soru Sor"
   },
   "global.subscribe_newsletter_footer": {
     "en": "Subscribe to the newsletter to hear about Polkadot updates and events.",
@@ -72,7 +79,8 @@
     "ja": "Polkadotのアップデートとイベントについてのニュースレターを購読する。",
     "ko": "폴카닷 뉴스를 구독하여 업데이트 및 이벤트 소식을 팔로우 하세요",
     "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества",
-    "es": "Suscríbase a la newsletter para conocer las actualizaciones y eventos de Polkadot."
+    "es": "Suscríbase a la newsletter para conocer las actualizaciones y eventos de Polkadot.",
+    "tr": "Polkadot ile ilgili etkinlik ve gelişmelerden haberdar olmak için bültene abone ol."
   },
   "global.subscribe_newsletter": {
     "en": "Subscribe to the newsletter to hear about updates and events.",
@@ -80,11 +88,13 @@
     "ja": "Polkadotのアップデートとイベントについてのニュースレターを購読する。",
     "ko": "폴카닷 뉴스를 구독하여 업데이트 및 이벤트 소식을 팔로우 하세요",
     "ru": "Подписывайтесь на рассылку, и оставайтесь в курсе последних новостей Polkadot и мероприятий сообщества",
-    "es": "Suscríbase a la newsletter para recibir información sobre actualizaciones y eventos."
+    "es": "Suscríbase a la newsletter para recibir información sobre actualizaciones y eventos.",
+    "tr": "Etkinlik ve gelişmelerden haberdar olmak için bültene abone ol."
   },
   "global.subscribe_newsletter_field": {
     "en": "Enter your email address",
-    "es": "Introduzca su dirección de correo electrónico"
+    "es": "Introduzca su dirección de correo electrónico",
+    "tr": "Eposta adresinizi girin"
   },
   "global.privacy_notice": {
     "en": "* To see how we use your information please see our {{privacy_link}}.",
@@ -92,7 +102,8 @@
     "ja": "{{privacy_link}}",
     "ko": "{{privacy_link}}",
     "ru": "{{privacy_link}}",
-    "es": "* Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}."
+    "es": "* Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}.",
+    "tr": "* Verilerinizi nasıl kullandığımızı görmek için lütfen gizlilik politikamızı inceleyin {{privacy_link}}."
   },
   "global.privacy_notice_footer": {
     "en": "To see how we use your information please see our {{privacy_link}}.",
@@ -100,7 +111,8 @@
     "ja": "{{privacy_link}}",
     "ko": "{{privacy_link}}",
     "ru": "{{privacy_link}}",
-    "es": "Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}."
+    "es": "Para ver cómo usamos su información, por favor vea nuestro {{privacy_link}}.",
+    "tr": "Verilerinizi nasıl kullandığımızı görmek için lütfen gizlilik politikamızı inceleyin {{privacy_link}}."
   },
   "global.privacy_notice.privacy_link": {
     "en": "privacy policy",
@@ -108,87 +120,102 @@
     "ja": "プライバシーポリシーを確認する。",
     "ko": "여러분의 정보가 어떻게 활용되는지 확인하려면, 폴카닷의 개인정보 보호 정책을 참고하세요",
     "ru": "Чтобы узнать, как мы используем вашу информацию, ознакомьтесь с нашей политикой конфиденциальности",
-    "es": "política de privacidad"
+    "es": "política de privacidad",
+    "tr": "gizlilik politikası"
   },
   "global.grants.heading": {
     "en": "Get a grant to build the Polkadot ecosystem",
     "zh-cn": "获得建设波卡生态系统的捐助",
     "ja": "Polkadotのエコシステムを構築するための助成金を取得",
     "ru": "Получите грант на создание экосистемы Polkadot",
-    "es": "Obtenga una subvención para la creación del ecosistema de Polkadot"
+    "es": "Obtenga una subvención para la creación del ecosistema de Polkadot",
+    "tr": "Polkadot ekosistemini kurmak için ödenek alın"
   },
   "global.grants.subheading": {
     "en": "Polkadot is a brand new network with a burgeoning ecosystem. The Web3 Foundation is sponsoring community development of software services, including:",
     "zh-cn": "Polkadot是一个新兴的生态系统网络。Web3基金资助社区开发软件服务，包括:",
     "ja": "Polkadotは、急成長するエコシステムを持つ新しいネットワークです。 Web3Foundationは、ソフトウェア・サービスのコミュニティ開発を後援しています。",
     "ru": "Polkadot - это новая сеть с развивающейся экосистемой. Web3 Foundation спонсирует разработку программного обеспечения сообщества, в том числе:",
-    "es": "Polkadot es una red totalmente nueva con un ecosistema en crecimiento. La fundación Web3 está patrocinando el desarrollo comunitario de servicios de software, incluyendo:"
+    "es": "Polkadot es una red totalmente nueva con un ecosistema en crecimiento. La fundación Web3 está patrocinando el desarrollo comunitario de servicios de software, incluyendo:",
+    "tr": "Polkadot, gelişen bir ekosisteme sahip yepyeni bir ağdır. Web3 Vakfı, yazılım hizmetlerini geliştiren toplulukları deskteklemektedir. Bunlar:"
   },
   "global.grants.1": {
     "en": "Development and deployment tooling (e.g. IDEs, parachain development kits)",
     "zh-cn": "开发和部署工具(例如IDE、平行链开发工具包)",
     "ja": "開発および展開ツール（例：IDE、パラチェーン開発キット）",
     "ru": "Инструменты разработки и развертывания (например, IDE, наборы для разработки парачейнов",
-    "es": "Desarrollo e implementación de herramientas (por ejemplo, IDEs, kits de desarrollo de parachains)"
+    "es": "Desarrollo e implementación de herramientas (por ejemplo, IDEs, kits de desarrollo de parachains)",
+    "tr": "Geliştirme ve yükleme araçları (örn. Yazılım geliştirme ortamı, parachain geliştirme kitleri)"
   },
   "global.grants.2": {
     "en": "Polkadot Runtime Modules (e.g. interoperability, governance)",
     "zh-cn": "Polkadot运行时模块(例如互操作性、治理)",
     "ja": "Polkadotランタイムモジュール（例：相互運用性、ガバナンス）",
     "ru": "Модули времени исполнения Polkadot (например, функциональная совместимость, управление)",
-    "es": "Módulos de ejecución de Polkadot (por ejemplo, interoperabilidad, governanza)"
+    "es": "Módulos de ejecución de Polkadot (por ejemplo, interoperabilidad, governanza)",
+    "tr": "Polkadot Runtime Modülleri (örn. birlikte çalışabilirlik, yönetişim)"
   },
   "global.grants.3": {
     "en": "Second layer protocols (e.g. dedicated parachains, state channels)",
     "zh-cn": "第二层协议(例如专用平行链、状态通道)",
     "ja": "第二層プロトコル（例：専用パラチェーン、ステイトチャネル）",
     "ru": "Протоколы второго уровня (например, dedicated парачейны, state каналы)",
-    "es": "Protocolos de segunda capa (por ejemplo, parachains específicas, state channels)"
+    "es": "Protocolos de segunda capa (por ejemplo, parachains específicas, state channels)",
+    "tr": "İkinci katman protokoller (örn. özel parachainler, durum kanalları)"
   },
   "global.grants.4": {
     "en": "Monitoring (e.g. explorers)",
     "zh-cn": "监测(如区块浏览器)",
     "ja": "監視（例: エクスプローラ）",
     "ru": "Мониторинг ( напр. блок-эксплореры)",
-    "es": "Monitoreo (por ejemplo exploradores)"
+    "es": "Monitoreo (por ejemplo exploradores)",
+    "tr": "İzleme (örn. tarayıcılar)"
   },
   "global.grants.5": {
     "en": "Protocol integrations (e.g. bridges to other blockchains, distributed file storage)",
     "zh-cn": "协议集成(例如桥接其他区块链、分布式文件存储)",
     "ja": "プロトコル統合（例：他のブロックチェーンへのブリッジ、分散ファイル・ストレージ）",
     "ru": "Интеграция протоколов (например, мосты к другим цепочкам блоков, распределенное хранилище файлов)",
-    "es": "Integraciones del protocolo (por ejemplo, pasarelas a otras blockchains, almacenamiento distribuido de archivos)"
+    "es": "Integraciones del protocolo (por ejemplo, pasarelas a otras blockchains, almacenamiento distribuido de archivos)",
+    "tr": "Protokol entegrasyonları (örn. diğer blokzincirlerle köprü kurmak, dağıtık dosya depolama)"
   },
   "global.grants.link": {
     "en": "See Grants and Bounties",
     "zh-cn": "查看资助和赏金资料",
     "ja": "補助金と報酬を参照してください。",
     "ru": "Посмотреть гранты и вознаграждения",
-    "es": "Vea Subenciones y Recompensas"
+    "es": "Vea Subenciones y Recompensas",
+    "tr": "Destek ve Ödülleri İnceleyin"
   },
   "global.pagination.previous": {
     "en": "Previous",
-    "es": "Anterior"
+    "es": "Anterior",
+    "tr": "Önceki"
   },
   "global.pagination.next": {
     "en": "Next",
-    "es": "Siguiente"
+    "es": "Siguiente",
+    "tr": "Sonraki"
   },
   "global.pagination.page": {
     "en": "Page {{page}} of {{total}}",
-    "es": "Página {{page}} de {{total}}"
+    "es": "Página {{page}} de {{total}}",
+    "tr": "Toplam {{total}} içinden {{page}}. Sayfa"
   },
   "global.pagination.label": {
     "en": "Page navigation",
-    "es": "Página de navegación"
+    "es": "Página de navegación",
+    "tr": "Sayfa gezintisi"
   },
   "global.navigation.toggle": {
     "en": "Toggle navigation",
-    "es": "Cambiar de navegación"
+    "es": "Cambiar de navegación",
+    "tr": "Geçiş gezintisi"
   },
   "global.subscribe_button": {
     "en": "Subscribe",
-    "es": "Suscribirse"
+    "es": "Suscribirse",
+    "tr": "Abone Ol"
   },
   "layout.lightpaper": {
     "en": "Lightpaper",
@@ -196,7 +223,8 @@
     "ja": "ライトペーパー",
     "ko": "라이트페이퍼",
     "ru": "Lightpaper",
-    "es": "Lightpaper"
+    "es": "Lightpaper",
+    "tr": "Lightpaper"
   },
   "layout.whitepaper": {
     "en": "Whitepaper",
@@ -204,7 +232,8 @@
     "ja": "ホワイトペーパー",
     "ko": "백서",
     "ru": "Whitepaper",
-    "es": "Whitepaper"
+    "es": "Whitepaper",
+    "tr": "Whitepaper"
   },
   "layout.join_testnet": {
     "en": "Join the Testnet",
@@ -212,7 +241,8 @@
     "ja": "テストネットを使う",
     "ko": "테스트넷 체험하기",
     "ru": "Присоединяйтесь к тестовой сети",
-    "es": "Únase a la testnet"
+    "es": "Únase a la testnet",
+    "tr": "Testnet'e Katılın"
   },
   "layout.technology": {
     "en": "Technology",
@@ -220,7 +250,8 @@
     "ja": "テクノロジー",
     "ko": "기술",
     "ru": "Технологии",
-    "es": "Tecnología"
+    "es": "Tecnología",
+    "tr": "Teknoloji"
   },
   "layout.community": {
     "en": "Community",
@@ -228,7 +259,8 @@
     "ja": "コミュニティー",
     "ko": "커뮤니티",
     "ru": "Сообщество",
-    "es": "Comunidad"
+    "es": "Comunidad",
+    "tr": "Topluluk"
   },
   "layout.about": {
     "en": "About",
@@ -236,7 +268,8 @@
     "ja": "概要",
     "ko": "소개",
     "ru": "О нас",
-    "es": "Acerca de"
+    "es": "Acerca de",
+    "tr": "Hakkımızda"
   },
   "layout.blog": {
     "en": "Blog",
@@ -244,7 +277,8 @@
     "ja": "ブログ",
     "ko": "블로그",
     "ru": "Блог",
-    "es": "Blog"
+    "es": "Blog",
+    "tr": "Blog"
   },
   "layout.token": {
     "en": "Token",
@@ -252,7 +286,8 @@
     "ja": "トークン",
     "ko": "토큰",
     "ru": "Токен",
-    "es": "Token"
+    "es": "Token",
+    "tr": "Token"
   },
   "layout.testnet": {
     "en": "Testnet",
@@ -260,7 +295,8 @@
     "ja": "テストネット",
     "ko": "테스트넷",
     "ru": "Тестовая сеть ",
-    "es": "Testnet"
+    "es": "Testnet",
+    "tr": "Testnet"
   },
   "layout.telemetry": {
     "en": "Telemetry",
@@ -268,7 +304,8 @@
     "ja": "Telemetry",
     "ko": "블록 확인",
     "ru": "Телеметрия",
-    "es": "Telemetry"
+    "es": "Telemetry",
+    "tr": "Telemetry"
   },
   "layout.substrate": {
     "en": "Substrate",
@@ -276,7 +313,8 @@
     "ja": "Substrate",
     "ko": "서브스트레이트",
     "ru": "Substrate",
-    "es": "Substrate"
+    "es": "Substrate",
+    "tr": "Substrate"
   },
   "layout.documentation": {
     "en": "Documentation",
@@ -284,7 +322,8 @@
     "ja": "ドキュメント",
     "ko": "문서",
     "ru": "Документация",
-    "es": "Documentación"
+    "es": "Documentación",
+    "tr": "Dokümantasyon"
   },
   "layout.faq": {
     "en": "FAQ",
@@ -292,7 +331,8 @@
     "ja": "FAQ",
     "ko": "자주 묻는 질문",
     "ru": "FAQ",
-    "es": "FAQ"
+    "es": "FAQ",
+    "tr": "S.S.S."
   },
   "layout.github": {
     "en": "GitHub",
@@ -300,7 +340,8 @@
     "ja": "GitHub",
     "ko": "GitHub",
     "ru": "GitHub",
-    "es": "Github"
+    "es": "Github",
+    "tr": "Github"
   },
   "layout.riot": {
     "en": "Riot Chat",
@@ -308,7 +349,8 @@
     "ja": "Riotチャット",
     "ko": "Riot 채팅",
     "ru": "Riot chat",
-    "es": "Chat de Riot"
+    "es": "Chat de Riot",
+    "tr": "Riot Chat"
   },
   "layout.medium": {
     "en": "Medium",
@@ -316,7 +358,8 @@
     "ja": "Medium",
     "ko": "Medium",
     "ru": "Medium",
-    "es": "Medium"
+    "es": "Medium",
+    "tr": "Medium"
   },
   "layout.reddit": {
     "en": "Reddit",
@@ -324,7 +367,8 @@
     "ja": "Reddit",
     "ko": "Reddit",
     "ru": "Reddit",
-    "es": "Reddit"
+    "es": "Reddit",
+    "tr": "Reddit"
   },
   "layout.telegram": {
     "en": "Telegram",
@@ -332,7 +376,8 @@
     "ja": "Telegram",
     "ko": "Telegram",
     "ru": "Telegram",
-    "es": "Telegram"
+    "es": "Telegram",
+    "tr": "Telegram"
   },
   "layout.careers": {
     "en": "Careers",
@@ -340,7 +385,8 @@
     "ja": "採用",
     "ko": "커리어",
     "ru": "Карьера",
-    "es": "Trayectoria"
+    "es": "Trayectoria",
+    "tr": "Kariyer"
   },
   "layout.general": {
     "en": "General",
@@ -348,7 +394,8 @@
     "ja": "一般",
     "ko": "일반",
     "ru": "Общее",
-    "es": "General"
+    "es": "General",
+    "tr": "Genel"
   },
   "layout.build": {
     "en": "Build on Polkadot",
@@ -356,7 +403,8 @@
     "ja": "Polkadotで作る",
     "ko": "폴카닷 활용 개발",
     "ru": "Разрабатывать на Polkadot",
-    "es": "Desarrollo en Polkadot"
+    "es": "Desarrollo en Polkadot",
+    "tr": "Polkadot Üzerinde Geliştirin"
   },
   "layout.contact": {
     "en": "Contact",
@@ -364,7 +412,8 @@
     "ja": "コンタクト",
     "ko": "연락처",
     "ru": "Контакты",
-    "es": "Contacto"
+    "es": "Contacto",
+    "tr": "İletişim"
   },
   "layout.grants_bounties": {
     "en": "Grants and Bounties",
@@ -372,53 +421,63 @@
     "ja": "助成金と賞金",
     "ko": "지원금 및 바운티",
     "ru": "Гранты и вознаграждение",
-    "es": "Subvenciones y recompensas"
+    "es": "Subvenciones y recompensas",
+    "tr": "Destekler ve Ödüller"
   },
   "layout.your_mail": {
     "en": "Your email address",
-    "es": "Su dirección de correo"
+    "es": "Su dirección de correo",
+    "tr": "Eposta adresiniz"
   },
   "layout.polkadot": {
     "en": "Polkadot"
   },
   "layout.impressum": {
     "en": "Impressum",
-    "es": "Aviso legal"
+    "es": "Aviso legal",
+    "tr": "Künye"
   },
   "layout.disclaimer": {
     "en": "Disclaimer",
     "zh-cn": "免责声明",
-    "es": "Descargo de responsabilidad"
+    "es": "Descargo de responsabilidad",
+    "tr": "Sorumluluk Reddi"
   },
   "layout.privacy": {
     "en": "Privacy",
-    "es": "Privacidad"
+    "es": "Privacidad",
+    "tr": "Gizlilik"
   },
   "layout.testnet_disclaimer": {
     "en": "Testnet disclaimer",
-    "es": "Descargo de responsabilidad de la testnet"
+    "es": "Descargo de responsabilidad de la testnet",
+    "tr": "Testnet Sorumluluk Reddi"
   },
   "layout.memorandum": {
     "en": "Memorandum",
-    "es": "Memorándum"
+    "es": "Memorándum",
+    "tr": "Beyanname"
   },
   "about.title": {
     "en": "About | Polkadot",
-    "es": "Acerca de | Polkadot"
+    "es": "Acerca de | Polkadot",
+    "tr": "Hakkında | Polkadot"
   },
   "about.heading": {
     "en": "About Polkadot, a platform for Web3",
     "zh-cn": "关于Polkadot平台，Web3",
     "ja": "Polkadot(Web3のためのプラットフォーム)について",
     "ru": "Polkadot, платформа для Web3",
-    "es": "Acerca de Polkadot, una plataforma para web3"
+    "es": "Acerca de Polkadot, una plataforma para web3",
+    "tr": "Polkadot hakkında, Web3 için bir platform"
   },
   "about.mission.heading": {
     "en": "The Polkadot mission",
     "zh-cn": "Polkadot任务",
     "ja": "Polkadotのミッション",
     "ru": "Миссия Polkadot",
-    "es": "La misión de Polkadot"
+    "es": "La misión de Polkadot",
+    "tr": "Polkadot'un misyonu"
   },
   "about.mission.subheading": {
     "en":"We envision a Web where our identity and our data is our own - safely secured from any central authority.",
