@@ -484,49 +484,57 @@
     "zh-cn": "我们构想的互联网是我们的身份和数据也是 自己掌控 - 从任何中央机构安全地保护。",
     "ja": "私たちは、ユーザーのアイデンティティとデータが、ユーザーの手にあるウェブを目指しています。",
     "ru": "Мы представляем себе сеть, в которой наши данные принадлежат нам - надежно защищены от любого центрального органа.",
-    "es": "Imaginamos una web en la que nuestra identidad y nuestros datos nos pertenezcan - a salvo de cualquier autoridad central."
+    "es": "Imaginamos una web en la que nuestra identidad y nuestros datos nos pertenezcan - a salvo de cualquier autoridad central.",
+    "tr": "Herhangi bir merkezi otoriteden bağımsız, kimlik ve verilerimizin kendi kontrolümüzde olduğu bir Web tasarlıyoruz."
   },
   "about.mission.1": {
     "en":"Polkadot will enable a completely decentralized web where users are in control.",
     "zh-cn": "Polkadot将会实现一个完全去中心化的互联网，用户拥有完全控制权力。 ",
     "ja": "Polkadotは、ユーザーが力を持つ完全分散型のウェブを可能にします。",
     "ru": "Polkadot создаст полностью децентрализованную сеть, где контроль будет принадлежать полностью пользователям.",
-    "es": "Polkadot permitirá una web completamente descentralizada donde los usuarios tengan el control."
+    "es": "Polkadot permitirá una web completamente descentralizada donde los usuarios tengan el control.",
+    "tr": "Polkadot sadece kullanıcıların kontrolünde olan merkeziyetsiz bir Web'i mümkün kılacak."
   },
   "about.mission.2": {
     "en":"Polkadot is built to connect private and consortium chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot facilitates an internet where independent blockchains can exchange information and transactions in a trustless way via the Polkadot relay chain.",
     "zh-cn": "Polkadot旨在通过连接私链、联盟链、公链、开放式 网络和预言机以及尚未创建的未来技术。Polkadot 为互联网提供便利，独立区块链可以通过Polkadot的 中继链以无信任的方式交换信息和交易。 ",
     "ja": "Polkadotは、プライベート、コンソーシアムチェーン、パブリックおよびパーミッションレスネットワーク、オラクルや将来来たるべき技術を繋げるために構築されています。Polkadotは、独立したブロックチェーンがPolkadotリレーチェーンを介してトラストレスな方法で情報や取引を交換することができるインターネットを目指しています。",
     "ru": "Polkadot создан для соединения частных сетей и сетей консорциумов, публичных сетей и сетей без разрешения, оракулов и технологий будущего, которые еще предстоит создать. Polkadot облегчает Интернет, где независимые блокчейны могут обмениваться информацией и транзакциями без доверия через цепочку ретрансляции Polkadot.",
-    "es": "Polkadot está construido para conectar cadenas privadas y de consorcios, redes públicas y sin permisos, oráculos, y tecnologías futuras que aún no se han creado. Polkadot facilita un internet donde las blockchains independientes puedan intercambiar información y transacciones de forma fiable a través de la relay chain de Polkadot."
+    "es": "Polkadot está construido para conectar cadenas privadas y de consorcios, redes públicas y sin permisos, oráculos, y tecnologías futuras que aún no se han creado. Polkadot facilita un internet donde las blockchains independientes puedan intercambiar información y transacciones de forma fiable a través de la relay chain de Polkadot.",
+    "tr": "Polkadot özel ve konsorsiyum zincirlerini, halka açık ve izin gerektirmeyen ağları, oraclelları ve henüz yaratılmamış olan gelecekteki teknolojileri bağlamak için inşa edilmiştir. Polkadot, bağımsız blokajların Polkadot röle zinciri üzerinden bilgi ve işlemlerin güvenilir bir şekilde alışverişinde bulunabileceği bir interneti kolaylaştırıyor."
   },
   "about.mission.3": {
     "en":"Polkadot makes it easier than ever to create and connect decentralized applications, services, and institutions. By empowering innovators to build better solutions, we seek to free society from its reliance on a broken web where its large institutions can’t violate our trust.",
     "zh-cn": "Polkadot使创建/连接去中心化的应用程序，服务和 机构变得前所未有的简单。通过授权创新者建立更好 的解决方案，我们寻求使社会免于依赖破碎的网络， 其庞大的机构不能侵犯我们的信任。",
     "ja": "Polkadotは分散型アプリケーション、サービス、および機関を作成、接続することをかつてないほどに簡単にします。より良いソリューションを構築するためにイノベーターを支えることによって、私たちは社会を壊れたウェブの依存から解き放つことを目指しています。",
     "ru": "Polkadot упрощает создание и подключение децентрализованных приложений, служб и учреждений. Предоставляя инноваторам возможность создавать лучшие решения, мы стремимся освободить общество от его зависимости от сломанной сети, где его крупные институты не могут нарушить наше доверие",
-    "es": "Polkadot facilita más que nunca la creación y conexión de aplicaciones, servicios e instituciones descentralizadas. Al potenciar a los innovadores para que construyan mejores soluciones, buscamos liberar a la sociedad de su dependencia de una red rota donde sus grandes instituciones no puedan violar nuestra confianza."
+    "es": "Polkadot facilita más que nunca la creación y conexión de aplicaciones, servicios e instituciones descentralizadas. Al potenciar a los innovadores para que construyan mejores soluciones, buscamos liberar a la sociedad de su dependencia de una red rota donde sus grandes instituciones no puedan violar nuestra confianza.",
+    "tr": "Polkadot, dağıtık uygulama, hizmetler ve kurumlar ağı oluşturmayı her zamankinden daha kolay hale getiriyor. İnovatörlerin daha iyi çözümler üretmelerini sağlayarak toplumu, büyük kurumların güvenliğimizi ihlal edemediği, hasarlı bir ağa güvenmekten kurtarmaya çalışıyoruz."
   },
   "about.mission.technology_link": {
     "en":"Learn About the Technology",
     "zh-cn": "了解更多关于技术",
     "ja": "技術について学びぶ",
     "ru": "Узнайте о технологии",
-    "es": "Aprenda acerca de la Tecnología"
+    "es": "Aprenda acerca de la Tecnología",
+    "tr":"Teknoloji Hakkında Öğrenin"
   },
   "about.builders.heading": {
     "en":"Who's building Polkadot?",
     "zh-cn": "谁在Polkadot背后?",
     "ja": "Polkadotを支えるチーム",
     "ru": "Кто стоит за Polkadot?",
-    "es": "¿Quien está desarrollando Polkadot?"
+    "es": "¿Quien está desarrollando Polkadot?",
+    "tr": "Polkadot'u kim geliştiriyor?"
   },
   "about.builders.subheading": {
     "en":"Polkadot is the first project by {{web3_link}}, a Swiss Foundation founded to facilitate a fully functional and user-friendly decentralized web.",
     "zh-cn": "Polkadot是来自{{web3_link}}基金会的一个项目，这是个成立于瑞士基金会以促进和用户友好的去中心化互联网. ",
     "ja": "Polkadotはスイス財団が設立した{{web3_link}}によって、完全に機能しユーザーフレンドリーな分散型ウェブを促進するために作られた1番最初のプロジェクトです。",
     "ru": "Polkadot из {{web3_link}}, швейцарского фонда, созданного для содействия созданию полнофункциональной и удобной в использовании децентрализованной сети",
-    "es": "Polkadot es el primer proyecto de {{web3_link}}, una fundación Suiza creada para facilitar una web descentralizada totalmente funcional y fácil de usar"
+    "es": "Polkadot es el primer proyecto de {{web3_link}}, una fundación Suiza creada para facilitar una web descentralizada totalmente funcional y fácil de usar",
+    "tr": "Bir İsviçre Vakfı olan {{web3_link}}'nin ilk projesi olan Polkadot, tamamen işlevsel ve kullanıcı dostu merkeziyetsiz ağoluşturmak için kurulmuştur."
+
   },
   "about.builders.subheading.web3_link": {
     "en":"Web3 Foundation",
@@ -1160,7 +1168,7 @@
     "en": "Alexander is the current default public testnet for Polkadot. By default, any node running on the Alexander testnet will appear on the {{telemetry_link}}",
     "zh-cn": "Alexander是当前Polkadot的默认公共测试网络。默认情况下，运行在Alexander 测试网上的任何节点都将出现在{{telemetry_link}}上",
     "ja": "Alexanderは、Polkadotの現在のデフォルトのパブリックテストネットです。デフォルトでは、Alexander テストネット上で実行されている任意のノードは{{telemetry_link}}に表示されます",
-    "ru": "Alexander -- это текущая общедоступная тестовая сеть для Polkadot. По умолчанию любой узел, работающий в тестовой сети Alexander, появится на {{telemetry_link}}.",
+    "ru": "Alexander -- это текущая общедоступная тестовая сет�� для Polkadot. По умолчанию любой узел, работающий в тестовой сети Alexander, появится на {{telemetry_link}}.",
     "es": "Alexander es la testnet actual por defecto para Polkadot. Por defecto, cualquier nodo que se ejecute en la testnet de Alexander aparecerá en {{telemetry_link}}."
   },
   "community.section1.3": {
