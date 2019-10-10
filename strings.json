@@ -3319,9 +3319,9 @@
     "es": "¿Dónde puedo encontrar una lista de recursos sobre Polkadot?"
   },
   "faq.31": {
-    "en": "Web3 Foundation's <a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Polkadot Wiki</a>.",
-    "zh-cn": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>",
-    "es": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">wiki de Polkadot</a>."
+    "en": "Web3 Foundation's <a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Polkadot Wiki</a>.",
+    "zh-cn": "<a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>",
+    "es": "<a href=\"https://wiki.polkadot.network/docs/en/learn-implementations\" target=\"_blank\">wiki de Polkadot</a>."
   },
   "faq.32": {
     "en": "At what stage is development now?",
