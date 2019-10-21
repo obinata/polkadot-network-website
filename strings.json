@@ -1567,6 +1567,9 @@
   "gavin.meta.title": {
     "en": "Gavin Wood | Polkadot"
   },
+  "gavin.meta.description": {
+    "en": "Gavin Wood began originating blockchain technology as co-founder and CTO of Ethereum. At Parity, Gavin currently leads innovation on Substrate and Polkadot."
+  },
   "gavin.heading": {
     "en": "Gavin Wood: Polkadot Founder"
   },
