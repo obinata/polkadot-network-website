@@ -16,7 +16,7 @@
     "es": "filter=\"tags:hash-es\""
   },
   "get_related_filter" : {
-    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko]\"",
+    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es]\"",
     "ru": "filter=\"id:-{{id}}+tags:hash-ru\"",
     "ja": "filter=\"id:-{{id}}+tags:hash-ja\"",
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
