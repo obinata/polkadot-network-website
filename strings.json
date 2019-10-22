@@ -9,7 +9,7 @@
     "tr": "tr"
   },
   "get_filter": {
-    "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es]\"",
+    "en": "filter=\"tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es,hash-tr]\"",
     "ru": "filter=\"tags:hash-ru\"",
     "ja": "filter=\"tags:hash-ja\"",
     "zh-cn": "filter=\"tags:hash-zh-cn\"",
@@ -18,7 +18,7 @@
     "tr": "filter=\"tags:hash-tr\""
   },
   "get_related_filter": {
-    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es]\"",
+    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es,hash-tr]\"",
     "ru": "filter=\"id:-{{id}}+tags:hash-ru\"",
     "ja": "filter=\"id:-{{id}}+tags:hash-ja\"",
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
