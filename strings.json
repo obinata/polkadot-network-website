@@ -18,7 +18,7 @@
     "tr": "filter=\"tags:hash-tr\""
   },
   "get_related_filter" : {
-    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko]\"",
+    "en": "filter=\"id:-{{id}}+tags:-[hash-ru,hash-zh-cn,hash-ja,hash-ko,hash-es]\"",
     "ru": "filter=\"id:-{{id}}+tags:hash-ru\"",
     "ja": "filter=\"id:-{{id}}+tags:hash-ja\"",
     "zh-cn": "filter=\"id:-{{id}}+tags:hash-zh-cn\"",
@@ -1852,6 +1852,9 @@
   "gavin.meta.title": {
     "en": "Gavin Wood | Polkadot",
 	  "tr": "Gavin Wood | Polkadot"
+  },
+  "gavin.meta.description": {
+    "en": "Gavin Wood began originating blockchain technology as co-founder and CTO of Ethereum. At Parity, Gavin currently leads innovation on Substrate and Polkadot."
   },
   "gavin.heading": {
     "en": "Gavin Wood: Polkadot Founder",
@@ -4008,7 +4011,7 @@
     "en": "Web3 Foundation's <a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Polkadot Wiki</a>.",
     "zh-cn": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Web3基金会的Polkadot百科全书</a>",
     "es": "<a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">wiki de Polkadot</a>.",
-    "tr": "Web3 Vakfının <a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Polkadot Wiki Sayfası</a>. "
+    "tr": "Web3 Vakfının <a href=\"https://wiki.polkadot.network/en/latest/polkadot/learn/implementations/\" target=\"_blank\">Polkadot Wiki Sayfası</a>."
   },
   "faq.32": {
     "en": "At what stage is development now?",
