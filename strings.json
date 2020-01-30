@@ -1674,7 +1674,7 @@
     "tr": "DOT'ların dağıtımı"
   },
   "dot.2.text.1": {
-    "en": "DOT tokens will not be available until mainnet launch, expected by the end of 2019. In the meantime you can get testnet dots to interact with the testnet. Navigate to the {{testnet_link}} and click \"Create Account\". Once you have saved your password, post your public address to our {{riot_link}}.",
+    "en": "DOT tokens will not be available until mainnet launch, expected by early 2020. In the meantime you can get testnet dots to interact with the testnet. Navigate to the {{testnet_link}} and click \"Create Account\". Once you have saved your password, post your public address to our {{riot_link}}.",
     "tr": "DOT tokenları, 2019'un sonunda beklenen ana ağ başlatılıncaya kadar kullanılamayacak. Bu arada, testnet ile etkileşimde bulunmak için testnet DOT'larını alabilirsiniz. {{testnet_link}} adresine gidin ve \" Hesap Oluştur\"u tıklayın. Parolanızı kaydettikten sonra, halka açık adresinizi {{riot_link}} adresimize gönderin. "
   },
   "dot.2.text.1.testnet_link": {
@@ -1771,7 +1771,7 @@
     "tr": "Bazı borsalarda DOT alım satımı yapıldığını gördüm, Polkadot ile bir bağlantısı mevcut mu?"
   },
   "dot.faq.6.answer": {
-    "en": "No. The DOT token has not been distributed. Do not trust any third party offering the sale or exchange of DOT tokens, which will not be generated until Polkadot's genesis block, which is currently scheduled for Q3 2019.",
+    "en": "No. The DOT token has not been distributed. Do not trust any third party offering the sale or exchange of DOT tokens, which will not be generated until Polkadot's genesis block, which is currently scheduled for early 2020.",
     "tr": "Hayır. DOT tokenleri henüz dağıtılmadı. Herhangibir üçüncü kişinin DOT sattığına yönelik yada alım satım işlemi sağlayıcısı olduğuna itibar etmeyin. Polkadot tokenleri genesis block ile oluşturulacaktır ve şuan için planan tarih 2019'un üçüncü çeyreğidir. "
   },
   "dot.faq.7.question": {
@@ -3142,7 +3142,7 @@
     "tr": "Github"
   },
   "tech.2.text": {
-    "en": "Latest changes & version history.",
+    "en": "Latest version & history.",
     "zh-cn": "最新更改和版本纪录",
     "ja": "最新の変更＆バージョン履歴",
     "ru": "Последние изменения и история версий.",
@@ -3598,7 +3598,7 @@
     "tr": "Yol Haritası"
   },
   "tech.13.text": {
-    "en": "Polkadot development is on track to deliver the most robust platform for interoperability, security, scalability, and innovation. Polkadot is aiming to launch the genesis block by the end of 2019 with one relay chain and several parachains. Thereafter the network will ramp up to about 100 parachains.",
+    "en": "Polkadot development is on track to deliver the most robust platform for security, scalability, interoperability, and innovation. Polkadot will launch the genesis block in early 2020 with one relay chain and several parachains. Then the network will ramp up to about 100 parachains.",
     "zh-cn": "Polkadot开发的愿景是为互操作性，安全性，可扩展性和创新提供最强大的平台。 Polkadot的目标是在2019年底之前发布一条中继链和几条平行链以启动创世块。此后，网络将增加到大约100条平行链。",
     "ja": "Polkadotの開発は、インターオペラビリティ、セキュリティ、スケーラビリティ、そしてイノベイションのための最も堅牢なプラットフォームを提供するための軌道に乗っています。Polkadotは2019年の終わりに1つのリレーチェーンと複数のパラチェーンと共にジェネシスブロックをローンチすることを目指しています。その後にネットワークは約100のパラチェーンが段階的につながっていきます。",
     "ru": "Самая надежная платформа для взаимодействия, безопасности, масштабируемости и инноваций. Polkadot v1 выйдет в конце 2019 года. V1 будет одной связующей цепью (relay chain), поддерживающей до 100 парачейнов. В 2020 году Polkadot v2 вырастет до нескольких ретрансляционных цепочек, в которых будет размещено ~ 100 парачейнов",
@@ -3819,7 +3819,7 @@
     "tr": "Polkadot devam etmekte olan bir çalışmadır. Polkadot platformu geliştikçe aşağıdaki SSS güncellenmeye devam edecektir. Dahil edilecek nihai yapılar ve teknolojiler son halini almamıştır ve devam eden araştırmalarla değişikliğe açıklardır."
   },
   "faq.disclaimer.2": {
-    "en": "Warning: DOT tokens are not transferrable until mainnet launch, expected late 2019. Therefore any transfers of DOTs are illegitimate and unauthorized. DOTs can not be moved from a current allocation address. Individuals with an allocation of DOTs who transfer their DOT address to someone else can always keep a copy of their private key, therefore there is extreme risk for individuals participating in transfers of DOTs before mainnet launch.",
+    "en": "Warning: DOT tokens are not transferrable until mainnet launch, expected early 2020. Therefore any transfers of DOTs are illegitimate and unauthorized. DOTs can not be moved from a current allocation address. Individuals with an allocation of DOTs who transfer their DOT address to someone else can always keep a copy of their private key, therefore there is extreme risk for individuals participating in transfers of DOTs before mainnet launch.",
     "zh-cn": "警告：DOT代币在预期于2019年底的主网上线之前无法转账。 因此任何DOT的转让都是未授权而非法的。DOT无法从现有的地址转移。 现在被分配到额度的个体即使在转让了拥有DOT的地址之后仍然拥有私钥， 因此在主网上线前参与DOT的转让存在极大的风险。",
     "es": "Advertencia: Los tokens DOT no son transferibles hasta el lanzamiento de la mainnet, prevista para finales de 2019. Por lo tanto, cualquier transferencia de DOTs es ilegítima y no autorizada. Los DOTs no pueden ser movidos de una dirección de asignación actual. Las personas con una asignación de DOT que transfieren su dirección DOT a otra persona siempre pueden conservar una copia de su clave privada, por lo que existe un riesgo extremo para las personas que participan en transferencias de DOT antes de la puesta en marcha de la mainnet.",
     "tr": "Uyarı: DOT token'leri 2019'un sonunda beklenen ana ağ yayınlanana kadar transfer edilemez. Dolayısı ile herhangi bir DOT transferi yasadışı ve yetkilendirilmemiş olur. DOT hissesine sahip kişiler DOT adreslerini başkası ile paylaşatıklarında kişisel adreslerinin bir kopyasını kendilerinde bulundurabilirler, dolayısı ile ana ağın yayına geçişinden önce DOT transferine taraf olan kişiler için yüksek risk bulunmaktadır."
