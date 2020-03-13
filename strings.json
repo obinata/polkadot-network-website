@@ -448,6 +448,9 @@
     "es": "Privacidad",
     "tr": "Gizlilik"
   },
+  "layout.cookie": {
+    "en": "Cookie Settings"
+  },
   "layout.testnet_disclaimer": {
     "en": "Testnet disclaimer",
     "es": "Descargo de responsabilidad de la testnet",
