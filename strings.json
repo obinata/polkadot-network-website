@@ -2099,7 +2099,7 @@
     "tr": "Daha Fazlasını Öğren"
   },
   "home.4": {
-    "en": "The DOT token powers the Polkadot network",
+    "en": "The DOT token",
     "zh-cn": " DOT代币为整个Polkadot网络提供动力",
     "ja": "DOTトークンが拡張するPolkadotネットワーク",
     "ko": "폴카닷은 DOT 토큰으로 운영됩니다",
@@ -2108,7 +2108,7 @@
     "tr": "DOT Tokenleri Polkadot ağının kontrolünü sağlar"
   },
   "home.4.text": {
-    "en": "The DOT token serves 4 distinct purposes: governance over the network, <br class=\"d-none d-xl-block\">operation, bonding, and interoperability.",
+    "en": "The DOT token serves three distinct purposes: governance over the network, operation and bonding.",
     "zh-cn": "DOT代币有四种不同的用途: 治理, <br class=\"d-none d-xl-block\">操作，绑定和互操作性",
     "ja": "DOTトークンは4つの明確な目的があります。ネットワークにおけるガバナンス <br class=\"d-none d-xl-block\">オペレーション、ボンディング、インターオペラビリティ",
     "ko": "DOT 토큰은 크게 4가지의 특별한 목적이 있습니다. 네트워크 가버넌스, <br class=\"d-none d-xl-block\">운영, 연결, 상호 운용성입니다",
@@ -2126,7 +2126,7 @@
     "tr": "Yönetim"
   },
   "home.4.1.text": {
-    "en": "Polkadot stakeholders have control over the protocol. All privileges, which on other platforms are exclusive to miners, will be given to the relay chain operators (DOT holders). This includes managing exceptional events such as protocol upgrades and fixes.",
+    "en": "Polkadot token holders have complete control over the protocol. All privileges, which on other platforms are exclusive to miners, will be given to the Relay Chain participants (DOT holders), including managing exceptional events such as protocol upgrades and fixes.",
     "zh-cn": "Polkadot持有人有控制协议。在其他平台上所有 特权是矿工专有，也将给予中继链的参与者(DOT持有人) 包括管理特殊事件。(例如:协议升级和修复） ",
     "ja": "Polkadotのステークホルダーは、プロトコルを完全に制御できます。プロトコルのアップグレードや修正などの例外的なイベントを管理するなど、他のプラットフォーム上では排他的にマイナーが所有するような全ての特権を、リレーチェーンの運営者（DOTホルダー）が得ることができます。",
     "ko": "폴카닷 홀더들은 폴카닷 프로토콜에 대한 권한을 갖습니다. 다른 플랫폼들은 채굴자들에게 독점적으로 권한이 부여되지만, 폴카닷은 모든 DOT 홀더, 즉 릴레이 체인(Relay Chain) 참여자들에게 권한을 부여합니다. 이는 프로토콜을 개선하거나 고치는 특별한 일들을 포함합니다.",
@@ -2144,7 +2144,7 @@
     "tr": "Bağlama"
   },
   "home.4.2.text": {
-    "en": "New parachains are added by bonding tokens. Bonded parachains cannot be removed from the network arbitrarily or unbond their DOTs until their lease ends.",
+    "en": "New parachains are added by bonding tokens. Outdated or non-useful parachains are removed by removing bonded tokens. This is a form of proof of stake.",
     "zh-cn": "通过绑定代币添加新的平行链。只需要去除绑定代币 除去过时或无用的平行链。",
     "ja": "新しいパラチェーンは、ボンディングトークンによってリレーチェーンに追加されます。ボンディングされたパラチェーンは一定期間が終了するまで取り外されたりDOTが盗まれたりすることはありません。",
     "ko": "새로운 패러체인(Parachain)은 연결 토큰(Bonding token)으로 추가됩니다. 오래되거나 불필요한 패러체인은 제거 연결 토큰(Removing bonded token)으로 제거됩니다.",
