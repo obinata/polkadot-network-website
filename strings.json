@@ -2108,7 +2108,7 @@
     "tr": "DOT Tokenleri Polkadot ağının kontrolünü sağlar"
   },
   "home.4.text": {
-    "en": "The DOT token serves three distinct purposes: governance over the network, operation and bonding.",
+    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, operation and bonding.",
     "zh-cn": "DOT代币有四种不同的用途: 治理, <br class=\"d-none d-xl-block\">操作，绑定和互操作性",
     "ja": "DOTトークンは4つの明確な目的があります。ネットワークにおけるガバナンス <br class=\"d-none d-xl-block\">オペレーション、ボンディング、インターオペラビリティ",
     "ko": "DOT 토큰은 크게 4가지의 특별한 목적이 있습니다. 네트워크 가버넌스, <br class=\"d-none d-xl-block\">운영, 연결, 상호 운용성입니다",
