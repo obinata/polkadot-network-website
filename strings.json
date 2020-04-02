@@ -1637,7 +1637,7 @@
     "tr": "DOT token"
   },
   "dot.1.heading": {
-    "en": "The DOT token serves 4 distinct purposes: <br class=\"d-none d-md-block\">governance over the network, operation, interoperability, and bonding.",
+    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, operation and bonding.",
     "tr": "DOT token'ı 4 farklı amaca hizmet eder: <br class=\"d-none d-md-block\"> ağ üzerinden yönetişim, operasyon, birlikte çalışabilirlik ve bağlanma."
   },
   "dot.1.1.heading": {
@@ -1645,7 +1645,7 @@
     "tr": "Yönetişim"
   },
   "dot.1.1.text": {
-    "en": "DOT holders control Polkadot’s future. All privileges, which on other platforms are exclusive to miners, will be given to the relay chain participants (DOT holders), including managing exceptional events such as protocol upgrades and fixes.",
+    "en": "Polkadot token holders have complete control over the protocol. All privileges, which on other platforms are exclusive to miners, will be given to the Relay Chain participants (DOT holders), including managing exceptional events such as protocol upgrades and fixes.",
     "tr": "DOT sahipleri Polkadot’un geleceğini kontrol eder. Diğer platformlarda madencilere özel olan tüm ayrıcalıklar, protokol yükseltmeleri ve düzeltmeleri gibi istisnai olayların yönetilmesi de dahil olmak üzere, aktarma zinciri katılımcılarına (DOT sahipleri) verilir."
   },
   "dot.1.2.heading": {
@@ -1653,7 +1653,7 @@
     "tr": "Operasyon"
   },
   "dot.1.2.text": {
-    "en": "Game theory incentivizes token holders to behave in honest ways. Good actors are rewarded by this mechanism, while bad actors will lose their stake in the network. This ensures the network stays secure.",
+    "en": "Game theory incentivizes token holders to behave in honest ways. Good actors are rewarded by this mechanism whilst bad actors will lose their stake in the network. This ensures the network stays secure.",
     "tr": "Oyun teorisi, token sahiplerinin dürüst şekilde davranmalarını teşvik eder. İyi oyuncular bu mekanizma ile ödüllendirilirken, kötü oyuncular ağdaki paylarını kaybederler. Bu da ağın güvenli kalmasını sağlar."
   },
   "dot.1.3.heading": {
@@ -1669,7 +1669,7 @@
     "tr": "Bağlama"
   },
   "dot.1.4.text": {
-    "en": "New parachains are added by bonding tokens. Outdated or non-useful parachains are removed by removing bonded tokens. This is a form of Proof-of-Stake.",
+    "en": "New parachains are added by bonding tokens. Outdated or non-useful parachains are removed by removing bonded tokens. This is a form of proof of stake.",
     "tr": "Tokenların bağlanmasıyla yeni parachainler (paralel zincirler) eklenir. Eski veya kullanışlı olmayan parachainler, bağlı tokenların yok edilmesiyle ortadan kaldırılır. Bu bir Proof-of-Stake biçimidir."
   },
   "dot.2.heading": {
@@ -2099,7 +2099,7 @@
     "tr": "Daha Fazlasını Öğren"
   },
   "home.4": {
-    "en": "The DOT token",
+    "en": "Powering the Polkadot network",
     "zh-cn": " DOT代币为整个Polkadot网络提供动力",
     "ja": "DOTトークンが拡張するPolkadotネットワーク",
     "ko": "폴카닷은 DOT 토큰으로 운영됩니다",
