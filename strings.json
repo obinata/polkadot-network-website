@@ -2011,7 +2011,7 @@
     "tr": "Basit blokzincir inovasyonu"
   },
   "home.3.3.text": {
-    "en": "Create a blockchain in minutes using the blockchain-building framework {{substrate_link}}. Connect it to Polkadot and get interoperability and security from day one. This ease of development helps Polkadot's network grow.",
+    "en": "Create a custom blockchain in minutes using the {{substrate_link}} framework. Connect your chain to Polkadot and get interoperability and security from day one. This ease of development helps Polkadot's network grow.",
     "zh-cn": "利用构建区块链的框架 {{substrate_link}} 建立区块链只需要几分钟。使其连接到Polkadot，将让从一开始就拥有互操作性和安全性。开发的简易化促进Polkadot网络的迅速扩展。",
     "ja": "ブロックチェーンを作成するフレームワークである{{substrate_link}}を使って数分でブロックチェーンを作りましょう。そしてそれをPolkadotにつなげ相互運用性とセキュリティを最初から手に入れましょう。開発が容易なのでPolkadotのネットワークは急速に拡大します。",
     "ko": "블록체인 구축 프레임워크, {{substrate_link}}를 활용하여 몇 분만에 블록체인을 만들어낼 수 있습니다. 서브스트레이트(Substrate)를 폴카닷에 연결하여 매끄러운 상호 운용성과 보안성을 처음부터 경험해보세요. 이러한 개발의 간편함은 폴카닷이 빠르게 확장해나갈 수 있음을 의미합니다.",
@@ -2038,7 +2038,7 @@
     "tr": "Çatallanmasız ve gelecek değişikliklerden etkilenmeyecek"
   },
   "home.3.4.text": {
-    "en": "Polkadot is designed to be a truly resilient network: it’s able to adapt and upgrade itself without forking. This enables Polkadot to easily adapt to changes and upgrade itself as better technologies become available.",
+    "en": "Polkadot can upgrade without hard forks to integrate new features or fix bugs. This capability enables Polkadot to easily adapt to changes and upgrade itself as better technologies become available.",
     "zh-cn": "Polkadot旨在成为一个真正具有弹性的网络:它能够在 不分叉的情况下适应和自我升级。这使Polkadot可以轻 松适应变化并当有更好的技术可用时自行升级。",
     "ja": "Polkadotは真に耐久性に強く作られています。ブロックチェーンの分岐なしに新しい機能を取り入れアップデートできます。これによってPolkadotが独自にアップデートすることにより更によいテクノロジーの恩恵を受けることができます。",
     "ko": "폴카닷은 설계적으로 탄력적인 네트워크로, 포크(Fork) 없이도 업그레이드 및 적용이 가능합니다. 이를 통해 폴카닷은 더 나은 기술을 더 빠르게 적용하고 업그레이드 할 수 있습니다.",
@@ -2056,7 +2056,7 @@
     "tr": "Herkes için güvenlik."
   },
   "home.3.5.text": {
-    "en": "Polkadot introduces “pooled security,” where multiple chains are secured by Polkadot’s validators. Blockchains can get security from day one when they connect to Polkadot, giving them a strong incentive to join the Polkadot network.",
+    "en": "Polkadot's novel data availability and validity scheme allows chains to interact with each other in a meaningful way. Chains remain independent in their governance, but united in their security.",
     "zh-cn": "Polkadot引入了“共享安全”，多个链由Polkadot的验证人 保护。所有区块链连接到Polkadot的第一天起就获得 安全保障，这给了它们加入Polkadot网路的强大动力。",
     "ja": "Polkadotは、複数のチェーンがPolkadotのバリデータによって検証されている「プールされたセキュリティ」を導入しています。 Polkadotネットワークに繋げば繋がれたチェーンは最初から高いセキュリティを得ることができます。それはPolkadotネットワークに参加する強いインセンティブを与えます。",
     "ko": "폴카닷은 다수의 체인이 폴카닷 검증자에 의해 확인되는 풀 보안(Pooled security) 방식을 사용합니다. 폴카닷 네트워크에 합류하는 블록체인은 연결 초기부터 강력한 보안성을 가지게 되며, 이는 폴카닷 네트워크에 합류할 강력한 동기가 됩니다.",
@@ -2065,7 +2065,7 @@
     "tr": "Polkadot, “havuz güvenliği”ni sunuyor, bu sistemde farklı blokzincirler Polkadot onaylayıcıları tarafından güvenli kılınıyor. Blokzincirler Polkadot ağına bağlandıkları andan itibaren güvenlik alanına dahil oluyor, bu özellik de Polkadot ağına katılmak için güçlü bir sebep sunuyor."
   },
   "home.3.6": {
-    "en": "Network governance driven by users",
+    "en": "User-driven network governance",
     "zh-cn": "由用户推动的网络治理",
     "ja": "ユーザーが中心のネットワークガバナンス",
     "ko": "사용자가 규정하는 네트워크",
@@ -2074,7 +2074,7 @@
     "tr": "Ağ yönetimi kullanıcılar tarafından sağlanmaktadır"
   },
   "home.3.6.text": {
-    "en": "Polkadot has an open governance system. Upgrades to the network are coordinated via on-chain governance, ensuring that Polkadot’s development reflects the values of the community and avoids stagnation.",
+    "en": "Polkadot has a sophisticated governance system where all stakeholders have a voice. Upgrades to the network are coordinated on-chain and enacted autonomously, ensuring that Polkadot’s development reflects the values of the community and avoids stagnation.",
     "zh-cn": "Polkadot拥有开放的治理系统。通过链上治理 方式升级网络，确保Polkadot的发展反映 社区的价值观，避免停滞和僵局。",
     "ja": "Polkadotはオープンガバナンス体制を持っています。ネットワークのアップグレードはオンチェーンガバナンスによって決まります。それは、Polkadotの開発がコミュニティの価値を反映し、停滞や閉塞を回避することを保証します。",
     "ko": "폴카닷은 오픈 가버넌스(Open governance) 시스템을 가지고 있습니다. 네트워크 업그레이드는 온체인 가버넌스와 연결되어, 폴카닷의 개발에 커뮤니티의 가치를 반영하고 정체된 요소를 해결합니다.",
