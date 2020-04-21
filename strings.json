@@ -271,6 +271,9 @@
     "es": "Acerca de",
     "tr": "Hakkımızda"
   },
+  "layout.brand": {
+    "en": "Brand Assets"
+  },
   "layout.blog": {
     "en": "Blog",
     "zh-cn": "博客",
@@ -2322,6 +2325,12 @@
   "impressum.12": {
     "en": "Gavin Wood, Aeron Buchanan and Reto Trinkler",
     "tr": "Gavin Wood, Aeron Buchanan ve Reto Trinkler"
+  },
+  "brand.meta.title": {
+    "en": "Brand Assets | Polkadot"
+  },
+  "brand.heading": {
+    "en": "Brand Assets"
   },
   "jobs.meta.title": {
     "en": "Jobs | Polkadot",
