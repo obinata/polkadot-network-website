@@ -401,7 +401,7 @@
     "tr": "Genel"
   },
   "layout.build": {
-    "en": "Build on Polkadot",
+    "en": "Build",
     "zh-cn": "建立在Polkadot上",
     "ja": "Polkadotで作る",
     "ko": "폴카닷 활용 개발",
@@ -1084,7 +1084,7 @@
     "tr": "Substrate Geliştirici Merkezi"
   },
   "build.section3.text.learn_more_link": {
-    "en": "learn more",
+    "en": "learn More",
     "ja": "もっと詳しく知る",
     "zh-cn": "学到更多。",
     "ru": "узнайте больше",
@@ -1468,7 +1468,7 @@
     "tr": "post"
   },
   "community.section4.button": {
-    "en": "Apply to become an ambassador",
+    "en": "Apply to Become an Ambassador",
     "es": "Solicite ser un embajador",
     "tr": "Elçi olmak için başvurun"
   },
@@ -1640,7 +1640,7 @@
     "tr": "DOT token"
   },
   "dot.1.heading": {
-    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, operation and bonding.",
+    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, staking and bonding.",
     "tr": "DOT token'ı 4 farklı amaca hizmet eder: <br class=\"d-none d-md-block\"> ağ üzerinden yönetişim, operasyon, birlikte çalışabilirlik ve bağlanma."
   },
   "dot.1.1.heading": {
@@ -1652,7 +1652,7 @@
     "tr": "DOT sahipleri Polkadot’un geleceğini kontrol eder. Diğer platformlarda madencilere özel olan tüm ayrıcalıklar, protokol yükseltmeleri ve düzeltmeleri gibi istisnai olayların yönetilmesi de dahil olmak üzere, aktarma zinciri katılımcılarına (DOT sahipleri) verilir."
   },
   "dot.1.2.heading": {
-    "en": "Operation",
+    "en": "Staking",
     "tr": "Operasyon"
   },
   "dot.1.2.text": {
@@ -2111,7 +2111,7 @@
     "tr": "DOT Tokenleri Polkadot ağının kontrolünü sağlar"
   },
   "home.4.text": {
-    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, operation and bonding.",
+    "en": "The DOT token serves three distinct purposes: <br class=\"d-none d-xl-block\">governance over the network, staking and bonding.",
     "zh-cn": "DOT代币有四种不同的用途: 治理, <br class=\"d-none d-xl-block\">操作，绑定和互操作性",
     "ja": "DOTトークンは4つの明確な目的があります。ネットワークにおけるガバナンス <br class=\"d-none d-xl-block\">オペレーション、ボンディング、インターオペラビリティ",
     "ko": "DOT 토큰은 크게 4가지의 특별한 목적이 있습니다. 네트워크 가버넌스, <br class=\"d-none d-xl-block\">운영, 연결, 상호 운용성입니다",
@@ -2156,7 +2156,7 @@
     "tr": "Tokenleri bağlayarak yeni yan-zincirler eklenir. Bağlanan yan zincirler gerekçe sunulmaksızın ağdan ayırılamaz ya da DOT kira planları bitene kadar ayırılamaz."
   },
   "home.4.3": {
-    "en": "Operation",
+    "en": "Staking",
     "zh-cn": "操作",
     "ja": "オペレーション",
     "ko": "운영",
@@ -2201,7 +2201,7 @@
     "tr": "DOT tokeni hakkında daha fazlasını öğren"
   },
   "home.4.learn_more_link": {
-    "en": "Learn more",
+    "en": "Learn More",
     "ja": "詳細はこちら",
     "ru": "Узнать больше",
     "es": "Conozca más",
@@ -2266,7 +2266,7 @@
     "tr": "Polkadot ağına katılan ekiplerden birkaçı"
   },
   "home.teams.link": {
-    "en": "See all teams",
+    "en": "See All Teams",
     "zh-cn": "查看所有团队",
     "ja": "すべてのチームを参照する",
     "ko": "모든 팀들 확인하기",
