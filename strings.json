@@ -3233,6 +3233,81 @@
     "es": "Esto hace posible crear aplicaciones que obtienen datos con permiso de una blockchain privada y los utilizan en una blockchain pública. Por ejemplo, la blockchain privada de registros académicos autorizados de una escuela podría enviar una prueba a un contrato inteligente de verificación de títulos en una cadena pública.",
     "tr": "Özel blokzincirlerden izin verilen verileri kullanarak halka açık blokzincirde kullanılmasını sağlar. Örneğin bir okulun özel ve izin verilen akademik kayıtlarını tutan bir zincir diploma notunun halka açık zincirde bu bilginin doğrulanması için veri gönderebilir."
   },
+  "tech.glossary.title": {
+    "en": "Network Glossary"
+  },
+  "tech.glossary.text": {
+    "en": "Polkadot unites a network of heterogeneous blockchains called parachains and parathreads. These chains connect to and are secured by the Polkadot Relay Chain. They can also connect with external networks via bridges."
+  },
+  "tech.glossary.1.title": {
+    "en": "Connecting the dots"
+  },
+  "tech.glossary.1.1.title": {
+    "en": "Relay Chain"
+  },
+  "tech.glossary.1.1.text": {
+    "en": "The heart of Polkadot, responsible for the network’s shared security, consensus and cross-chain interoperability."
+  },
+  "tech.glossary.1.2.title": {
+    "en": "Parachains"
+  },
+  "tech.glossary.1.2.text": {
+    "en": "Sovereign blockchains that can have their own tokens and optimize their functionality for specific use cases."
+  },
+  "tech.glossary.1.3.title": {
+    "en": "Parathreads"
+  },
+  "tech.glossary.1.3.text": {
+    "en": "Similar to parachains but with a pay-as-you-go model. More economical for blockchains that don’t need continuous connectivity to the network."
+  },
+  "tech.glossary.1.4.title": {
+    "en": "Bridges"
+  },
+  "tech.glossary.1.4.text": {
+    "en": "Allow parachains and parathreads to connect and communicate with external networks like Ethereum and Bitcoin."
+  },
+  "tech.glossary.2.title": {
+    "en": "Consensus Roles"
+  },
+  "tech.glossary.2.1.title": {
+    "en": "Nominators"
+  },
+  "tech.glossary.2.1.text": {
+    "en": "Secure the Relay Chain by selecting trustworty validators and staking dots."
+  },
+  "tech.glossary.2.2.title": {
+    "en": "Validators"
+  },
+  "tech.glossary.2.2.text": {
+    "en": "Secure the relay chain by staking dots, validating proofs from collators and participating in consensus with other validators."
+  },
+  "tech.glossary.2.3.title": {
+    "en": "Collators"
+  },
+  "tech.glossary.2.3.text": {
+    "en": "Maintain shards by collecting shard transactions from users and producing proofs for validator."
+  },
+  "tech.glossary.2.4.title": {
+    "en": "Fishermen"
+  },
+  "tech.glossary.2.4.text": {
+    "en": "Monitor the network and report bad behavior to validators. Collators and any parachain full node can perform the fisherman role."
+  },
+  "tech.glossary.3.title": {
+    "en": "Governance Roles"
+  },
+  "tech.glossary.3.1.title": {
+    "en": "Council Members"
+  },
+  "tech.glossary.3.1.text": {
+    "en": "Elected to represent passive stakeholders in two primary governance roles: proposing referenda and vetoing dangerous or malicious referenda."
+  },
+  "tech.glossary.3.2.title": {
+    "en": "Technical Committee"
+  },
+  "tech.glossary.3.2.text": {
+    "en": "Composed of teams actively building Polkadot. Can propose emergency referenda, together with the council, for fast-tracked voting and implementation."
+  },
   "tech.6": {
     "en": "Network structure",
     "zh-cn": "网络结构",
@@ -3496,6 +3571,12 @@
     "ru": "Параллельные транзакции",
     "es": "Transacciones paralelas múltiples",
     "tr": "Çoklu paralel işlemler"
+  },
+  "tech.technology.title": {
+    "en": "Groundbreaking Technology"
+  },
+  "tech.technology.text": {
+    "en": "Polkadot is solving many of the problems that have held back blockchain technology so far &mdash; all in one place, without compromising."
   },
   "tech.10": {
     "en": "A better security model",
