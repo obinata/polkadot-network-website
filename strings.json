@@ -1350,6 +1350,12 @@
     "es": "Advertencia legal",
     "tr": "yasal uyarı"
   },
+  "community.section2.title": {
+    "en": "Getting Involved"
+  },
+  "community.section2.text": {
+    "en": "From running a validator on Polkadot, to applying for a Web3 Foundation Grant, to joining the Polkadot Ambassador Program &mdash; there are many ways to engage with the Polkadot community."
+  },
   "community.section2.heading": {
     "en": "Become a validator",
     "zh-cn": "成为一个验证者",
