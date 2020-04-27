@@ -2101,7 +2101,7 @@
     "tr": "Polkadot teknolojisi hakkında daha fazlasını öğren"
   },
   "home.3.learn_more_link": {
-    "en": "Learn More",
+    "en": "Discover Polkadot",
     "ja": "詳細はこちら",
     "ru": "Узнать больше",
     "es": "Conozca más",
@@ -2207,7 +2207,7 @@
     "tr": "DOT tokeni hakkında daha fazlasını öğren"
   },
   "home.4.learn_more_link": {
-    "en": "Learn More",
+    "en": "Discover DOTs",
     "ja": "詳細はこちら",
     "ru": "Узнать больше",
     "es": "Conozca más",
@@ -2325,12 +2325,12 @@
     "tr": "CHE-322.596.347"
   },
   "impressum.11": {
-    "en": "Foundation council members",
-    "tr": "Vakıf mecleri üyeleri"
+    "en": "Web3 Foundation Council members",
+    "tr": "Web3 Vakıf mecleri üyeleri"
   },
   "impressum.12": {
-    "en": "Gavin Wood, Aeron Buchanan and Reto Trinkler",
-    "tr": "Gavin Wood, Aeron Buchanan ve Reto Trinkler"
+    "en": "Dr. Gavin Wood, Aeron Buchanan and Reto Trinkler",
+    "tr": "Dr. Gavin Wood, Aeron Buchanan ve Reto Trinkler"
   },
   "brand.meta.title": {
     "en": "Brand Assets | Polkadot"
