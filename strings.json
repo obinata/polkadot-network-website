@@ -2338,6 +2338,48 @@
   "brand.heading": {
     "en": "Brand Assets"
   },
+  "brand.text": {
+    "en": "Our brand is for you. For you to use it and build upon. These guidelines are a simple framework for those who are using the Polkadot brand to be agile and effective when creating Polkadot-related promotional materials or projects."
+  },
+  "brand.1": {
+    "en": "Logotype"
+  },
+  "brand.1.1": {
+    "en": "The logotype is the most important element in our visual identity. To build that recognition, the logo should always be reproduced in a consistent way. Our logo needs to be seen clearly, so it should never be crowded by other elements on the page. To prevent this, the logo should always have an area of clear space around it."
+  },
+  "brand.1.2": {
+    "en": "When using the logotype on colored backgrounds, black or dark greys ensure there is maximum contrast to help the legibility. Therefore the white version will be used."
+  },
+  "brand.2": {
+    "en": "Symbol"
+  },
+  "brand.2.1": {
+    "en": "Polkadot symbol is only used on those occasions where the full logotype does not fit, or the squared nature of the canvas requires a more compact shape. Regarding colors, it follows the same rules as above."
+  },
+  "brand.3": {
+    "en": "Dot"
+  },
+  "brand.3.1": {
+    "en": "The pink dot is our minimal brand expression. We use it everywhere. You can use it to build your own brand, design new projects, experiment visually, seriously anything! And if you do, let us know - we love to see the projects from our community."
+  },
+  "brand.4": {
+    "en": "Color"
+  },
+  "brand.4.1": {
+    "en": "Pink is the inherited brand color, which is a vibrant and fun attitude."
+  },
+  "brand.4.2": {
+    "en": "However in today's moving world we often find restrictions towards color palettes. Polkadot has an ever-growing color palette to reflect the different cultures, personalities and projects that make up the brand."
+  },
+  "brand.5": {
+    "en": "Font"
+  },
+  "brand.5.1": {
+    "en": "The primary Polkadot typeface is Work Sans which is an open source, clean, distinctive and legible typeface, and it is available in a variety of weights."
+  },
+  "brand.download": {
+    "en": "Download"
+  },
   "jobs.meta.title": {
     "en": "Jobs | Polkadot",
     "tr": "İş İmkanları | Polkadot"
