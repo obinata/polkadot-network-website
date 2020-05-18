@@ -97,7 +97,7 @@
     "tr": "Eposta adresinizi girin"
   },
   "global.privacy_notice": {
-    "en": "* To see how we use your information please see our {{privacy_link}}.",
+    "en": "* To see how we use your information, please see our {{privacy_link}}.",
     "zh-cn": "{{privacy_link}}",
     "ja": "{{privacy_link}}",
     "ko": "{{privacy_link}}",
@@ -106,7 +106,7 @@
     "tr": "* Verilerinizi nasıl kullandığımızı görmek için lütfen gizlilik politikamızı inceleyin {{privacy_link}}."
   },
   "global.privacy_notice_footer": {
-    "en": "To see how we use your information please see our {{privacy_link}}.",
+    "en": "To see how we use your information, please see our {{privacy_link}}.",
     "zh-cn": "{{privacy_link}}",
     "ja": "{{privacy_link}}",
     "ko": "{{privacy_link}}",
