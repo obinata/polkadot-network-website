@@ -1932,6 +1932,12 @@
     "en": "Polkadot: Decentralized Web 3.0 Blockchain Interoperability Platform",
     "tr": "Polkadot: Merkeziyetsiz Web 3.0 Blokzincirlerarası İşlem  Platformu"
   },
+  "home.hero.text": {
+    "en": "Polkadot development is on track to deliver the most robust platform for security, scalability and innovation. Currently Polkadot is in the NPoS phase of launch."
+  },
+  "home.hero.cta": {
+    "en": "See Roadmap"
+  },
   "home.1": {
     "en": "Polkadot is a sharded protocol that enables blockchain networks to operate together seamlessly",
     "zh-cn": "Polkadot让区块链网络在共享安全的保护下协同工作",
