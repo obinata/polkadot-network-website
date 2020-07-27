@@ -537,7 +537,7 @@
     "tr": "Polkadot'u kim geliştiriyor?"
   },
   "about.builders.subheading": {
-    "en": "Polkadot is the first project by {{web3_link}}, a Swiss Foundation founded to facilitate a fully functional and user-friendly decentralized web.",
+    "en": "Polkadot is the flagship project by {{web3_link}}, a Swiss Foundation founded to facilitate a fully functional and user-friendly decentralized web.",
     "zh-cn": "Polkadot是来自{{web3_link}}基金会的一个项目，这是个成立于瑞士基金会以促进和用户友好的去中心化互联网. ",
     "ja": "Polkadotはスイス財団が設立した{{web3_link}}によって、完全に機能しユーザーフレンドリーな分散型ウェブを促進するために作られた1番最初のプロジェクトです。",
     "ru": "Polkadot из {{web3_link}}, швейцарского фонда, созданного для содействия созданию полнофункциональной и удобной в использовании децентрализованной сети",
