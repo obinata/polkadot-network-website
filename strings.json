@@ -1773,14 +1773,6 @@
     "en": "No, DOTs are tokens native to the Polkadot platform.",
     "tr": "Hayrı, DOTlar Polkadot platformunun yerel tokenıdır."
   },
-  "dot.faq.5.question": {
-    "en": "Will there be a second token sale?",
-    "tr": "İkinci bir token satış turu olacak mı?"
-  },
-  "dot.faq.5.answer": {
-    "en": "Of the remaining 5 million DOTs, it is intended that 2 million DOTs will be reserved for one or more later sales, or otherwise distributed. This 20% allocation to further distributions was outlined at the time of the first sale and in the Polkadot Light Paper.",
-    "tr": "Kalan 5 milyon DOT'un 2 milyon adeti bir ya da daha fazla satış turu için saklanacak ya da dağıtılacak. %20 oranındaki ilk dağıtım planı, ilk satış turu yapıldığında belirlendi ve Polkadot Light Paper dosyasında mevcut."
-  },
   "dot.faq.6.question": {
     "en": "I’ve seen some exchanges trading a DOT Token, and is this related to Polkadot?",
     "tr": "Bazı borsalarda DOT alım satımı yapıldığını gördüm, Polkadot ile bir bağlantısı mevcut mu?"
@@ -1788,14 +1780,6 @@
   "dot.faq.6.answer": {
     "en": "No. The DOT token has not been distributed. Do not trust any third party offering the sale or exchange of DOT tokens, which will not be generated until Polkadot's genesis block, which is currently scheduled for mid-2020.",
     "tr": "Hayır. DOT tokenleri henüz dağıtılmadı. Herhangibir üçüncü kişinin DOT sattığına yönelik yada alım satım işlemi sağlayıcısı olduğuna itibar etmeyin. Polkadot tokenleri genesis block ile oluşturulacaktır ve şuan için planan tarih 2019'un üçüncü çeyreğidir. "
-  },
-  "dot.faq.7.question": {
-    "en": "How will DOTs be allocated?",
-    "tr": "Kaç adet DOT üretilecek?"
-  },
-  "dot.faq.7.answer.1": {
-    "en": "It is anticipated there will be 10 million DOTs as part of the Polkadot genesis block. 5 million DOTs were made available for sale in Autumn 2017.",
-    "tr": "Genesis block ile üretilmesi hedeflenen DOT miktarı 10 milyon adet. 5 milyon DOT 2017 sonbaharında satış için sürülecek."
   },
   "dot.faq.7.answer.2": {
     "en": "Of the remaining 5 million DOTs in the Polkadot genesis block, it is intended that 2 million DOTs will be sold or otherwise distributed prior to genesis. The remaining 3 million DOTs will be allocated to the Web3 Foundation and retained or distributed at its sole discretion.",
