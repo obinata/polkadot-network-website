@@ -1716,140 +1716,49 @@
     "tr": "S.S.S."
   },
   "dot.faq.1.question": {
-    "en": "What are DOTs?",
-    "tr": "Nedir bu DOT?"
+    "en": "What are DOTs?"
   },
   "dot.faq.1.answer": {
-    "en": "DOTs will be the token created and native to Polkadot for the purpose of carrying out the key functions of the platform as detailed below.",
-    "tr": "DOT'lar, aşağıda detaylandırıldığı gibi platformun temel işlevlerini yerine getirmek amacıyla Polkadot'ta oluşturulan ve yerli tokendır."
+    "en": "DOT are the token native to the Polkadot network for the purpose of carrying out the key functions of the platform as detailed below."
   },
   "dot.faq.2.question": {
-    "en": "What are the functions of DOTs within Polkadot?",
-    "tr": "DOT'ların Polkadot üzerindeki fonksiyonları nelerdir?"
+    "en": "Is DOT an ERC20 token?"
   },
-  "dot.faq.2.answer.1": {
-    "en": "DOTs will serve four key functions in Polkadot, namely (i) providing governance for the network, (ii) operating the network, (iii) creating parachains by bonding DOTs, (iv) fees for ferrying messages across parachains.",
-    "tr": "DOT’lar (i) ağ için yönetişim sağlamak, (ii) ağı işletmek, (iii) DOT'ları bağlayarak parachainler oluşturmak, (iv) parachainler arasında mesaj iletim ücreti olacak şekilde Polkadot’ta dört ana işleve sahip olacaklar."
-  },
-  "dot.faq.2.answer.2": {
-    "en": "The first function of DOTs will be to entitle holders to complete governance control over the platform. Included in this governance function is determining the fees of the network, the auction dynamics and schedule for the addition of parachains, and exceptional events such as upgrades and fixes to the Polkadot platform. These functions are not formally granted to the holders of DOTs, but rather the underlying code of Polkadot will enable a holder of DOTs to participate in governance.",
-    "tr": "DOT'ların ilk işlevi, sahiplere platform üzerindeki yönetişim kontrolünü tamamlama hakkı vermektir. Bu yönetişim işlevine dahil edilenler, ağ ücretlerini, açık artırma dinamiklerini ve paracahinlerin eklenmesi için zamanlamayı ve Polkadot platformuna yapılan güncelleme ve düzeltmeler gibi istisnai olayları belirlemektir. Bu işlevler DOT sahiplerine resmen verilmez, ancak temelde Polkadot kodu DOT sahiplerinin yönetime katılmasını sağlayacaktır."
-  },
-  "dot.faq.2.answer.3": {
-    "en": "The second function of DOTs will be to facilitate the consensus mechanism that underpins Polkadot. In order for the platform to function and allow for valid transactions to be carried out across parachains, Polkadot will rely on holders of DOTs to play active roles. Participants will put their DOTs at risk (referred to as “staking” or “bonding”) to perform these functions, which acts as a disincentive for malicious participation in the network. The DOTs required to participate in the network will vary according to the activity undertaken, the duration DOTs are staked for, and the total number of DOTs staked.",
-    "tr": "DOT’ların ikinci işlevi, Polkadot’un temelini oluşturan mutamakat mekanizmasını kolaylaştırmak olacaktır. Platformun çalışabilmesi ve geçerli işlemlerin parachainler arasında gerçekleştirilmesine olanak sağlamak için Polkadot, DOT sahiplerinin aktif olarak oynamalarına güvenecektir. Katılımcılar, ağa kötü niyetli katılımları engellemek için DOT'larını “belirleme” veya “bağlanma” olarak adlandırılan işlevlerle riske sokacaklardır. Ağa katılmak için gereken DOT miktarı DOT'ların süresinin dolması ve toplam DOT'ların sayısının artırılması gibi gerçekleşen faaliyete göre değişkenlik gösterebilir."
-  },
-  "dot.faq.2.answer.4": {
-    "en": "The third function of DOTs will be the ability to add new parachains by tying up DOTs (referred to as “bonding”). Outdated or non-useful parachains are removed by removing bonded tokens.",
-    "tr": "DOT'ların üçüncü işlevi, DOT'ları bağlayarak yeni parachainler ekleyebilme becerisi olacaktır (“bağlanma“ veya “bonding“ olarak da adlandırılır). Eski veya kullanışlı olmayan parachainler, bağlanmış tokenleri yok ederek ortadan kaldırılır."
-  },
-  "dot.faq.2.answer.5": {
-    "en": "The fourth function of DOTs is to pay fees to validators to ferry messages across parachains. According to a market mechanism, users will pay a fee for their message to be sent to other state machines on the Polkadot network.",
-    "tr": "DOT'ların dördüncü işlevi, doğrulayıcıların parachainler arasında mesajları göndermeleri için ücret ödenmesidir. Piyasa mekanizmasına göre, kullanıcılar mesajlarının Polkadot ağındaki diğer durum makinelerine gönderilmesi için ücret ödemelidir."
+  "dot.faq.2.answer": {
+    "en": "No, DOT is native to the Polkadot platform."
   },
   "dot.faq.3.question": {
-    "en": "What rights will DOTs confer on their holders?",
-    "tr": "DOT'lar sahiplerine ne gibi haklar verecek?"
+    "en": "What are the functions of DOT within Polkadot? "
   },
   "dot.faq.3.answer.1": {
-    "en": "Holders of DOTs will have certain functions within the Polkadot platform, including:",
-    "tr": "DOT sahiplerinin Polkadot platformunda aşağıdakiler de dahil olmak üzere bazı işlevleri olacaktır:"
+    "en": "DOT will serve three key functions in Polkadot, namely (i) providing governance for the network, (ii) operating the network, and (iii) creating parachains by bonding DOT."
   },
   "dot.faq.3.answer.2": {
-    "en": "the ability to act as a validator, collator, nominator or fisherman;",
-    "tr": "doğrulayıcı, düzenleyici, aday gösterici veya balıkçı olarak görev yapabilme"
+    "en": "The first function of DOT is to entitle holders to complete governance control over the platform. Included in this governance function is determining the fees of the network, the auction dynamics and schedule for the addition of parachains, and exceptional events such as upgrades and fixes to the Polkadot platform. These functions are not formally granted to DOT holders, but rather the underlying code of Polkadot will enable DOT holders to participate in governance."
   },
   "dot.faq.3.answer.3": {
-    "en": "the ability to participate in the governance of Polkadot;",
-    "tr": "Polkadot yönetişiminde görev alabilme;"
+    "en": "The second function of DOT will be to facilitate the consensus mechanism that underpins Polkadot. In order for the platform to function and allow for valid transactions to be carried out across parachains, Polkadot will rely on DOT holders to play active roles. Participants will put their DOT at risk (referred to as “staking” or “bonding”) to perform these functions, which acts as a disincentive for malicious participation in the network. DOT required to participate in the network will vary according to the activity undertaken, the duration DOT is staked for, and the total number of DOT staked."
   },
   "dot.faq.3.answer.4": {
-    "en": "the ability to participate in the decision-making process in relation to adding or removing parachains; and",
-    "tr": "parachainlerin eklenmesi veya kaldırılması gibi süreçlerde karar alıcı mekanizmalarda yer almak ve"
-  },
-  "dot.faq.3.answer.5": {
-    "en": "the ability to participate in the decision-making process in relation to global upgrades and/or changes to Polkadot.",
-    "tr": "Polkadot'un global güncelleme veya değişikliklerindeki süreçlerime karar alıcılardan biri olarak katılmak."
+    "en": "The third function of DOT will be the ability to add new parachains by tying up DOT (referred to as “bonding”). The DOT will be locked during their bonding period and will be released back to the account that bonded them after the duration of the bond has elapsed and the parachain is removed."
   },
   "dot.faq.4.question": {
-    "en": "Are DOTs ERC20 tokens?",
-    "tr": "DOT'lar ERC20 tokenı mı?"
+    "en": "What rights will DOT confer on their holders? "
   },
-  "dot.faq.4.answer": {
-    "en": "No, DOTs are tokens native to the Polkadot platform.",
-    "tr": "Hayrı, DOTlar Polkadot platformunun yerel tokenıdır."
+  "dot.faq.4.answer.1": {
+    "en": "DOT holders will have certain functions within the Polkadot platform, including:"
   },
-  "dot.faq.6.question": {
-    "en": "I’ve seen some exchanges trading a DOT Token, and is this related to Polkadot?",
-    "tr": "Bazı borsalarda DOT alım satımı yapıldığını gördüm, Polkadot ile bir bağlantısı mevcut mu?"
+  "dot.faq.4.answer.2": {
+    "en": "The ability to act as a validator, collator, nominator or fisherman."
   },
-  "dot.faq.6.answer": {
-    "en": "No. The DOT token has not been distributed. Do not trust any third party offering the sale or exchange of DOT tokens, which will not be generated until Polkadot's genesis block, which is currently scheduled for mid-2020.",
-    "tr": "Hayır. DOT tokenleri henüz dağıtılmadı. Herhangibir üçüncü kişinin DOT sattığına yönelik yada alım satım işlemi sağlayıcısı olduğuna itibar etmeyin. Polkadot tokenleri genesis block ile oluşturulacaktır ve şuan için planan tarih 2019'un üçüncü çeyreğidir. "
+  "dot.faq.4.answer.3": {
+    "en": "The ability to participate in the governance of Polkadot."
   },
-  "dot.faq.7.answer.2": {
-    "en": "Of the remaining 5 million DOTs in the Polkadot genesis block, it is intended that 2 million DOTs will be sold or otherwise distributed prior to genesis. The remaining 3 million DOTs will be allocated to the Web3 Foundation and retained or distributed at its sole discretion.",
-    "tr": "Geriye kalan 5 milyon DOT için ise 2 milyon adetinin dağıtılacağı ya da satılacağı, geriye kalan 3 milyon DOT'un ise Web3 Vakfı tarafından verilecek karara göre saklanacak ya da dağıtılacak."
+  "dot.faq.4.answer.4": {
+    "en": "The ability to be a collator for a parathread by making bids for block inclusion that are denominated in DOT."
   },
-  "dot.faq.8.question": {
-    "en": "Are DOTs transferable ERC20 tokens?",
-    "tr": "DOT tokenleri transfer edilebilir ERC20 tokeni midir?"
-  },
-  "dot.faq.8.answer": {
-    "en": "No, the contract under 0xb59f67A8BfF5d8Cd03f6AC17265c550Ed8F33907 simply records the allocations of DOTs and is not transferrable. The actual transferable DOTs will be available upon network genesis.",
-    "tr": "Hayır. 0xb59f67A8BfF5d8Cd03f6AC17265c550Ed8F33907 sözleşme adresi altında üretilen DOT tokenlerin kaydı içindir ve transfer edilemez. Transfer edilebiler DOT tokenleri genesis bloğundan sonra mevcut olacaktır.  "
-  },
-  "dot.faq.9.question": {
-    "en": "When will I receive DOTs?",
-    "tr": "Ne zaman DOT teslim alabileceğim?"
-  },
-  "dot.faq.9.answer": {
-    "en": "The initial development cycle for Polkadot is expected to be at least two years following the completion of the first general sale. This estimated time period anticipates a research phase culminating in a set of technology proofs-of-concept, a series of prototypes with an eventual formal protocol specification, the deployment of a testnet, a fully refined implementation, an external auditing process, and a bounty programme. To the extent these phases are successful, the Web3 Foundation will proceed to make the Polkadot genesis block available for deployment such that participants in the first general sale can access DOTs allocated to them.",
-    "tr": "Polkadotun üretim döngüsünün tamamlanması ilk genel satışın gerçekleşmesinden itibaren iki sene sonrası için bekleniyor. Bu zaman sürecinde Proofs-of-concept'in tamamlanması, resmi protokollerin prototiplerinin üretilmesi, testnetin başlatılması, tam hatasız uygulamaya konulması, dış denetim süreçleri ve bounty programı hedefleniyor. Bu aşamalar başarılı olduğunda Web3 Vakfı Polkadot genesis bloğunun üretilip ilk DOT satış ve dağıtımlarının yapılması aşamasına geçilecek."
-  },
-  "dot.faq.10.question": {
-    "en": "How can DOTs be accessed once allocated?",
-    "tr": "Dağıtılan DOT'lara nasıl erişilebilecek?"
-  },
-  "dot.faq.10.answer": {
-    "en": "Upon a deployment of the Polkadot genesis block, DOT owners will be able to access their DOTs using the private key corresponding to the Ethereum address used for contribution in the DOT sale.",
-    "tr": "Polkadot genesi bloğunun üretilmesi ile birlikte DOT sahipleri DOT'larına satış esnasında kullandıkları Ethereum adresleri ve bu adreslerin özel anahtarlarını (private key) kullanarak erişebilecekler."
-  },
-  "dot.faq.11.question": {
-    "en": "Is the supply of DOTs capped?",
-    "tr": "DOT arzı sınırlı mı?"
-  },
-  "dot.faq.11.answer": {
-    "en": "It is intended that the Polkadot genesis block will contain 10 million DOTs. The overall supply of DOTs over time will not be fixed, nor will it be subject to a pre-determined upper limit. DOTs will be subject to an as yet determined inflation model which envisages that the supply of DOTs will increase each year and are likely to be designed to incentivise participants such that a sufficient proportion (yet to be determined, but perhaps 50%) of all DOTs in issue at any point in time will be staked to support the proof of stake consensus mechanism that underpins Polkadot.",
-    "tr": "Polkadot genesis bloğunda 10 million DOT bulunması hedeflenmektedir. DOT'ların zaman içerisinde sahip olacağı bir sabit arz miktarı ya da arz için üst sınır belirlenmedi. DOT'lar belirlenen enflasyon modeli içerisinde her yıl artış gösterecek ve bu artış ile kullanıcıların teşviki amaçlanmaktadır, hala belirlenmese de %50 gibi bir oran, Proof of Stake mutabakat mekanizmasını ayakta tutacak ve Polkadot'a katkı sağlaması amacı ile belirlenecektir."
-  },
-  "dot.faq.12.question": {
-    "en": "Will DOTs be valuable?",
-    "tr": "DOT'lar bir değere sahip olacak mı?"
-  },
-  "dot.faq.12.answer.1": {
-    "en": "As above, DOTs are designed to fulfill certain functions within Polkadot and does not act as a currency per se. The Web3 Foundation makes no comment at this stage as to the current or future value of DOTs.",
-    "tr": "Yukarıda belirtildiği üzere DOT'ar Polkadot üzerinde belirli işlevleri yerine getirmesi için tasarlandı ve tek başına bir para birimi olarak görülemeyecek."
-  },
-  "dot.faq.12.answer.2": {
-    "en": "DOTs are largely illiquid by design. Following the deployment of the Polkadot genesis block, it is expected that a large proportion of all DOTs in issue at any point in time will be staked for the purposes of supporting the Proof of Stake consensus mechanism that underpins Polkadot, and consequently will be illiquid and will not be capable of being transferred or traded.",
-    "tr": "DOT'lar tasarımları itibari ile büyük oranda likide edilemeyecek şekilde. Polkadot genesis bloğunun üretilmesi ile birlikte devam eden süreçte DOT'ların büyük bir kısmı Polkadot ağına katkı sağlayacak şekilde stake edilecek ve bu sebeplerden ötürü likide edilemeyecek, transfer edilemeyecek ve alım satıma konu olamayacak."
-  },
-  "dot.faq.13.question": {
-    "en": "Will DOTs be tradeable?",
-    "tr": "DOT'lar alım satıma konu olabilecek mi?"
-  },
-  "dot.faq.13.answer": {
-    "en": "In respect of those DOTs in existence that are not bonded for the purposes of supporting and operating Polkadot, the Web3 Foundation does not intend to provide, develop or support any infrastructure to enable the trading of DOTs, and the possibility of any third party offering such infrastructure will be entirely outside the control of the Web3 Foundation.",
-    "tr": "Web3 Vakfı DOT'ların alım satıma konu olabileceği hiçbir altyapıyı sağlamayacak, geliştirmeyecek ya da desteklemeyecektir aynı zamanda DOT'ların var oluşu itibari ile Polkadotu desteklemek ya da operasyonları yönlendirmek gibi bir görevi yoktur. Eğerki herhangibir üçüncü taraf bu şekilde bir alt yapı sağlar ise bu tamamen Web3 Vakfının kontrolü dışında gerçekleşmiştir."
-  },
-  "dot.faq.14.question": {
-    "en": "Are DOTs going to be another virtual currency?",
-    "tr": "DOT'lar diğerleri gibi bir sanal para birimi mi olacak?"
-  },
-  "dot.faq.14.answer": {
-    "en": "It is not the intention of the Web3 Foundation for DOTs to be used as a virtual currency, as detailed in the sections above. The Web3 Foundation does not intend to provide, develop or support any mechanism by which DOTs can be exchanged into an underlying value of fiat currency. On this basis, the Web3 Foundation considers it is unlikely that DOTs would be appropriate for use as a form of virtual currency. Notwithstanding this, it is possible that under the laws of certain jurisdictions, DOTs may be considered virtual currencies. The Web3 Foundation provides no comment as to what such classification may entail for holders of DOTs, and any potential holders seeking further information as to the potential impact of holding a virtual currency should seek independent legal advice.",
-    "tr": "Web3 Vakfının yukarıda da belirtildiği üzere DOT'ların sanal para birimi olarak kullanılmaya yönelik bir amacı bulunmamaktadır. Web3 Vakfı, DOT'ların bir fiat para birimine bağlı bir değere göre alım satıma konu olmasına yönelik sistemleri desteklemeye, geliştirmeye, sağlamaya yönelik iradesi bulunmamaktadır."
+  "dot.faq.4.answer.5": {
+    "en": "The ability to participate in the decision-making process in relation to global upgrades and/or changes to Polkadot."
   },
   "gavin.meta.title": {
     "en": "Gavin Wood | Polkadot",
