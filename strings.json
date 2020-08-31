@@ -353,13 +353,13 @@
     "tr": "Github"
   },
   "layout.riot": {
-    "en": "Riot Chat",
-    "zh-cn": "Riot",
+    "en": "Element Chat",
+    "zh-cn": "Element",
     "ja": "Riotチャット",
-    "ko": "Riot 채팅",
-    "ru": "Riot chat",
-    "es": "Chat de Riot",
-    "tr": "Riot Chat"
+    "ko": "Element 채팅",
+    "ru": "Element chat",
+    "es": "Chat de Element",
+    "tr": "Element Chat"
   },
   "layout.medium": {
     "en": "Medium",
@@ -1205,11 +1205,11 @@
     "tr": "Kodtabanına katkıda bulunun."
   },
   "community.riot.1": {
-    "en": "Riot chat",
+    "en": "Element chat",
     "ja": "Riotチャット",
-    "ru": "Riot chat.",
-    "es": "Chat Riot",
-    "tr": "Riot chat"
+    "ru": "Element chat.",
+    "es": "Chat Element",
+    "tr": "Element chat"
   },
   "community.riot.2": {
     "en": "Get support.",
@@ -1424,12 +1424,12 @@
     "tr": "Ana ağda Her 24 saatte bir yeni ağ doğrulayıcıları seçilir. PolkadotUI'da Denetleyici, Oturum ve Stash anahtarları için ayrı hesaplar oluşturmanız gerekir ({{ui_link}}). Az önce kurduğunuz onaylayıcı düğümü temsil edin ve kontrol edin."
   },
   "community.section2.2.2": {
-    "en": "Next you will need to get some DOT from the faucet or by asking on Riot. Assuming you have more DOT than the lowest staked validator or there is an open validator slot, you can register to be staked. A step-by-step guide demonstrating how to set up your accounts and bond your DOT is available on the {{wiki_link}}.",
+    "en": "Next you will need to get some DOT from the faucet or by asking on Element. Assuming you have more DOT than the lowest staked validator or there is an open validator slot, you can register to be staked. A step-by-step guide demonstrating how to set up your accounts and bond your DOT is available on the {{wiki_link}}.",
     "zh-cn": "“下一步是通过在波卡Riot频道请求获得一些DOT。假设你有验证者所需的最少的DOT，那么你就可以注册成功。在用户界面，找到Extrinsics，确保你在顶部选定“我的验证者节点”，然后在其下方选择“staking”和“stake（）”。点击“提交Extrinsic”你就完成了。. {{wiki_link}}",
     "ja": "次に、Dotsをfaucet、またはPolkadotのRiotチャネルで誰かに頼んで取得必要があります。最低額のステイクを行なっているバリデーターよりもあなたがDOTを所持している、または、バリデーター枠が空いている場合、ステイクをすることによりバリデーターになることができます。アカウントを作りDOTをステイクする方法は{{wiki_link}}で解説されています。",
-    "ru": "Далее нужно получить DOT, попросив в канале Polkadot Riot. Предполагая, что у вас столько DOT, сколько и у валидатора с наименьшей ставкой, вы можете зарегистрироваться, чтобы получить ставку. В пользовательском интерфейсе перейдите в Extrinsics, убедитесь, что у вас выбран «Мой узел валидатора» вверху, а затем под ним выбраны «staking» и «stake». Нажмите «Submit Extrinsic», и все готово. {{wiki_link}}",
-    "es": "Lo siguiente que necesita es obtener DOT de la faucet o preguntando en Riot. Asumiendo que usted tiene más DOT que el validador con la participación más baja o que hay una vacante para validador, usted puede registrarse para ser un validador con participación. Una guía paso a paso que demuestra cómo configurar sus cuentas y vincular sus DOT está disponible en la {{wiki_link}}.",
-    "tr": "Daha sonra, musluktan veya Riot'tan isteyerek DOT'lar edinmeniz gerekecek. En düşük değere sahip doğrulayıcıdan daha fazla DOT bulunduğunu varsayalım veya açık bir doğrulayıcı yuvası olduğunu varsayalım. Hesaplarınızı nasıl kuracağınızı ve DOT'larınızı nasıl bağlayacağınızı adım adım gösteren rehber {{wiki_link}} adresinde mevcuttur."
+    "ru": "Далее нужно получить DOT, попросив в канале Polkadot Element. Предполагая, что у вас столько DOT, сколько и у валидатора с наименьшей ставкой, вы можете зарегистрироваться, чтобы получить ставку. В пользовательском интерфейсе перейдите в Extrinsics, убедитесь, что у вас выбран «Мой узел валидатора» вверху, а затем под ним выбраны «staking» и «stake». Нажмите «Submit Extrinsic», и все готово. {{wiki_link}}",
+    "es": "Lo siguiente que necesita es obtener DOT de la faucet o preguntando en Element. Asumiendo que usted tiene más DOT que el validador con la participación más baja o que hay una vacante para validador, usted puede registrarse para ser un validador con participación. Una guía paso a paso que demuestra cómo configurar sus cuentas y vincular sus DOT está disponible en la {{wiki_link}}.",
+    "tr": "Daha sonra, musluktan veya Element'tan isteyerek DOT'lar edinmeniz gerekecek. En düşük değere sahip doğrulayıcıdan daha fazla DOT bulunduğunu varsayalım veya açık bir doğrulayıcı yuvası olduğunu varsayalım. Hesaplarınızı nasıl kuracağınızı ve DOT'larınızı nasıl bağlayacağınızı adım adım gösteren rehber {{wiki_link}} adresinde mevcuttur."
   },
   "community.section2.2.2.wiki_link": {
     "en": "wiki",
@@ -1703,8 +1703,8 @@
     "tr": "testnet"
   },
   "dot.2.text.1.riot_link": {
-    "en": "Riot channel",
-    "tr": "Riot kanalı"
+    "en": "Element channel",
+    "tr": "Element kanalı"
   },
   "dot.2.text.2": {
     "en": "Of the remaining 5 million DOT, it is intended that 2 million DOT will be reserved for one or more later sales, or otherwise distributed. This 20% allocation to further distributions was outlined at the time of the first sale and in the Polkadot Light Paper.",
@@ -3134,12 +3134,12 @@
     "tr": "Dokümantasyonu okuyun"
   },
   "tech.4": {
-    "en": "Riot chat",
-    "zh-cn": "Riot",
+    "en": "Element chat",
+    "zh-cn": "Element",
     "ja": "Riotチャット",
-    "ru": "Riot chat",
-    "es": "Chat Riot",
-    "tr": "Riot chat"
+    "ru": "Element chat",
+    "es": "Chat Element",
+    "tr": "Element chat"
   },
   "tech.4.text": {
     "en": "Get your questions answered.",
@@ -4100,10 +4100,10 @@
     "tr": "testnet DOT'larını nasıl alırım?"
   },
   "faq.39": {
-    "en": "Navigate to the <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> and click \"Create Account\". Once you have saved your password, post your public address to our <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a>.",
+    "en": "Navigate to the <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> and click \"Create Account\". Once you have saved your password, post your public address to our <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element channel</a>.",
     "zh-cn": "前往测试网，点击创建账户。当保存了密码后，把公钥贴到Riot频道。",
-    "es": "Navege a <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> y haga click en \"Create Account\". Una vez que haya guardado su contraseña, publique su dirección en nuestro <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Riot</a>.",
-    "tr": "<a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> adresine gidin ve \"Hesap Oluştur\"a tıklayın. Parolanızı kaydettikten sonra halka açık adresinizi <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot kanalımızda</a> paylaşın."
+    "es": "Navege a <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> y haga click en \"Create Account\". Una vez que haya guardado su contraseña, publique su dirección en nuestro <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Element</a>.",
+    "tr": "<a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> adresine gidin ve \"Hesap Oluştur\"a tıklayın. Parolanızı kaydettikten sonra halka açık adresinizi <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element kanalımızda</a> paylaşın."
   },
   "faq.40": {
     "en": "Community",
@@ -4118,10 +4118,10 @@
     "tr": "Topluluğa nasıl dahil olurum?"
   },
   "faq.42": {
-    "en": "Polkadot is open-source and the community is always looking for fellow volunteers. We'd love to hear from you or just answer your questions! Find us online on <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> and <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot</a>, and follow us on <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>.",
+    "en": "Polkadot is open-source and the community is always looking for fellow volunteers. We'd love to hear from you or just answer your questions! Find us online on <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> and <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element</a>, and follow us on <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>.",
     "zh-cn": "Polkadot是一个开源的项目，社区长期需要志愿者的支持。 我们很想听到你们的想法，回答你们的问题！可以在Reddit和Riot找到我们， 也可以在Twitter上关注我们。",
-    "es": "Polkadot es de código abierto y la comunidad siempre está buscando voluntarios. Nos encantaría saber de usted o simplemente responder a sus preguntas! Encuéntrenos en línea en <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> y <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot</a>, y síganos en <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>.",
-    "tr": "Polkadot açık kaynak kodludur ve topluluk her zaman gönüllülere ihtiyaç duymaktadır. Sizden haber almak veya sorularınızı yanıtlamak isteriz! <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> ve <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot</a> üzerinden bize ulaşabilir veya bizi <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>'da takip edebilirsiniz."
+    "es": "Polkadot es de código abierto y la comunidad siempre está buscando voluntarios. Nos encantaría saber de usted o simplemente responder a sus preguntas! Encuéntrenos en línea en <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> y <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element</a>, y síganos en <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>.",
+    "tr": "Polkadot açık kaynak kodludur ve topluluk her zaman gönüllülere ihtiyaç duymaktadır. Sizden haber almak veya sorularınızı yanıtlamak isteriz! <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> ve <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element</a> üzerinden bize ulaşabilir veya bizi <a href=\"https://twitter.com/polkadotnetwork\" target=\"_blank\">Twitter</a>'da takip edebilirsiniz."
   },
   "faq.43": {
     "en": "How can I help support Polkadot?",
@@ -4130,10 +4130,10 @@
     "tr": "Polkadot'a nasıl destek olabilirim?"
   },
   "faq.44": {
-    "en": "There are many ways you can contribute to the Polkadot community. Whether you want to install and test Polkadot, join our Ambassador program, host a meet-up in your city, or contribute to the online community, simply join our social media channels to get started! The <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a> or <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> is a great place to start!",
+    "en": "There are many ways you can contribute to the Polkadot community. Whether you want to install and test Polkadot, join our Ambassador program, host a meet-up in your city, or contribute to the online community, simply join our social media channels to get started! The <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element channel</a> or <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> is a great place to start!",
     "zh-cn": "有很多方式给Polkadot社区做贡献。无论你想安装测试Polkadot， 还是加入大使计划，组织一个当地的聚会，或者为线上社区做贡献， 现在就加入我们的媒体频道开始吧。Riot和Reddit是很好的出发点。",
-    "es": "Hay muchas maneras de contribuir a la comunidad de Polkadot. Si desea instalar y probar Polkadot, unirse a nuestro programa de embajadores, organizar un encuentro en su ciudad o contribuir a la comunidad en línea, simplemente únase a nuestros canales de medios sociales para empezar! El <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Riot</a> o <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> es un gran sitio para empezar!",
-    "tr": "Polkadot topluluğuna katkıda bulunmanın bir çok yolu mevcut. Polkadot'u kurup test etmek, ister Ambassador programımıza katılmak, kendi şehrinizde bir buluşma organize etme yada çevrimiçi topluluğa katkıda bulunmak isterseniz sosyal medya kanallarımıza katılarak başlayabilirsiniz. <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Riot channel</a> veya <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> başlamak için en iyi seçenekler."
+    "es": "Hay muchas maneras de contribuir a la comunidad de Polkadot. Si desea instalar y probar Polkadot, unirse a nuestro programa de embajadores, organizar un encuentro en su ciudad o contribuir a la comunidad en línea, simplemente únase a nuestros canales de medios sociales para empezar! El <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Element</a> o <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> es un gran sitio para empezar!",
+    "tr": "Polkadot topluluğuna katkıda bulunmanın bir çok yolu mevcut. Polkadot'u kurup test etmek, ister Ambassador programımıza katılmak, kendi şehrinizde bir buluşma organize etme yada çevrimiçi topluluğa katkıda bulunmak isterseniz sosyal medya kanallarımıza katılarak başlayabilirsiniz. <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element channel</a> veya <a href=\"https://www.reddit.com/r/dot/\" target=\"_blank\">Reddit</a> başlamak için en iyi seçenekler."
   },
   "faq.45": {
     "en": "Team",
@@ -4166,10 +4166,10 @@
     "tr": "Web3 Vakfı platformun core-polkadot (düzenleyici ve doğrulayıcı node'lar, röle zincir vb.) ve ekosistem inşaası (blok ve node kaşifi, cüzdanlar vb.) gibi yeni implementasyonları ile ilgilenen takımlarla koordinasyon halindedir."
   },
   "faq.50": {
-    "en": "Please reach out to Web3 Foundation via Riot if you are interested in contributing.",
+    "en": "Please reach out to Web3 Foundation via Element if you are interested in contributing.",
     "zh-cn": "如果有兴趣为社区做贡献，请在Riot上联系Web3基金会",
-    "es": "Por favor, póngase en contacto con la Fundación Web3 a través de Riot si está interesado en contribuir.",
-    "tr": "Katkıda bulunmak isterseniz Web3 Vakfına, Riot üzerinden ulaşabilirsiniz."
+    "es": "Por favor, póngase en contacto con la Fundación Web3 a través de Element si está interesado en contribuir.",
+    "tr": "Katkıda bulunmak isterseniz Web3 Vakfına, Element üzerinden ulaşabilirsiniz."
   },
   "faq.51": {
     "en": "Who is working on behalf of Polkadot?",
