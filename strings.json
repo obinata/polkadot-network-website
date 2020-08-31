@@ -1307,12 +1307,10 @@
     "tr": "Polkadot kullanıcı arayüzü"
   },
   "community.section1.5": {
-    "en": "Get testnet DOTS to stake by requesting them in the {{chat_link}}, or you can get some via the {{faucet_link}}",
-    "zh-cn": "通过在Polkadot聊天中请求测试网DOT来设置权益。",
-    "ja": "Polkadotチャットでテストネット DOTを取得することができます。",
-    "ru": "Получите DOTS testnet, чтобы сделать ставку, отправив запрос в {{chat_link}} или через {{faucet_link}}",
-    "es": "Obtenga los DOT de la testnet solicitándolo en el {{chat_link}}",
-    "tr": "Testnet DOT'larını {{chat_link}} üzerinden isteyerek testelrinizi yapın, ya da {{faucet_link}} üzerinden bir miktar ödeme karşılığında alabilirsiniz."
+    "en": "Get testnet DOT to stake by following these instructions on the {{wiki_link}}"
+  },
+  "community.section1.5.wiki_link": {
+    "en": "Polkadot Wiki"
   },
   "community.section1.5.chat_link": {
     "en": "Polkadot chat",
