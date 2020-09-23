@@ -4098,10 +4098,7 @@
     "tr": "testnet DOT'larını nasıl alırım?"
   },
   "faq.39": {
-    "en": "Navigate to the <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> and click \"Create Account\". Once you have saved your password, post your public address to our <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element channel</a>.",
-    "zh-cn": "前往测试网，点击创建账户。当保存了密码后，把公钥贴到Element频道。",
-    "es": "Navege a <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> y haga click en \"Create Account\". Una vez que haya guardado su contraseña, publique su dirección en nuestro <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">canal de Element</a>.",
-    "tr": "<a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">testnet</a> adresine gidin ve \"Hesap Oluştur\"a tıklayın. Parolanızı kaydettikten sonra halka açık adresinizi <a href=\"https://riot.im/app/#/room/#polkadot-watercooler:matrix.org\" target=\"_blank\">Element kanalımızda</a> paylaşın."
+    "en": "The current Polkadot testnet is Westend. From <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">Polkadot-JS</a>, you can switch to the Westend network, then create an account. Once you have saved your password, you can obtain your address by clicking on the Then post \"!drip ADDRESS\" to the <a href=\"https://riot.im/app/#/room/#westend_faucet:matrix.org\" target=\"_blank\">Westend Faucet Element channel</a>."
   },
   "faq.40": {
     "en": "Community",
