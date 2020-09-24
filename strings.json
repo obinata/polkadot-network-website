@@ -4098,7 +4098,7 @@
     "tr": "testnet DOT'larını nasıl alırım?"
   },
   "faq.39": {
-    "en": "The current Polkadot testnet is Westend. From <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">Polkadot-JS</a>, you can switch to the Westend network, then create an account. Once you have saved your password, you can obtain your address by clicking on the Then post \"!drip ADDRESS\" to the <a href=\"https://riot.im/app/#/room/#westend_faucet:matrix.org\" target=\"_blank\">Westend Faucet Element channel</a>."
+    "en": "The current Polkadot testnet is Westend. From <a href=\"https://polkadot.js.org/apps/#/accounts\" target=\"_blank\">Polkadot-JS</a>, you can switch to the Westend network, then create an account. Once you have saved your password, you can obtain your address by clicking on the icon to copy your address to the clipboard. Then post \"!drip ADDRESS\" to the <a href=\"https://riot.im/app/#/room/#westend_faucet:matrix.org\" target=\"_blank\">Westend Faucet Element channel</a>."
   },
   "faq.40": {
     "en": "Community",
