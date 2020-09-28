@@ -65,6 +65,9 @@
     "es": "¿Tiene alguna pregunta sobre cómo desarrollar en Polkadot?",
     "tr": "Polkadot üzerinde geliştirmeyle ilgili bir sorun var mı?"
   },
+  "global.support": {
+    "en": "Support"
+  },
   "global.question_support": {
     "en": "Need help from our support team?"
   },
